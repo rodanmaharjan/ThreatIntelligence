@@ -150,3 +150,7 @@ ali.blankchair.com
 dll.freshdns.org
 rt.blankchair.com
 book.flnet.org
+drivres-update.info
+intelnetservice.com
+intelsupport.net
+softupdates.info
