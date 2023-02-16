@@ -1,3 +1,5 @@
+http://microsoft-updates.servehttp.com/
+https://microsoft-updates.servehttp.com/
 https://www.momeykite.twindexx.com/sonn/client/index_sp.html
 https://www.momeykite.tomyrou.com/sonn/client/index_sp.html
 https://dev-codigobisa.pantheonsite.io/
