@@ -7,7 +7,7 @@ Contents
 Usage
 💻 The IOCs in this repository can be used in a variety of ways, including:
 🛡️ Integration into security tools for automated threat detection and response
-🔍 Manual analysis to identify potential threats \n
+🔍 Manual analysis to identify potential threats
 🤝 Sharing with other organizations for collaboration and information sharing
 
 Contributing
