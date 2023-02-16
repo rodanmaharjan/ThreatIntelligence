@@ -10,9 +10,15 @@ the source of the IOC, and a description of the associated threat.
 
 Usage
 💻 The IOCs in this repository can be used in a variety of ways, including:
+<<<<<<< HEAD
 -Integration into security tools for automated threat detection and response
 -Manual analysis to identify potential threats
 -Sharing with other organizations for collaboration and information sharing
+=======
+🛡️ Integration into security tools for automated threat detection and response
+🔍 Manual analysis to identify potential threats
+🤝 Sharing with other organizations for collaboration and information sharing
+>>>>>>> c95a55a53882f9fbb63c982f61ee3bf4375fb5e5
 
 Contributing
 🙌 We welcome contributions to this repository! If you have information on new or updated IOCs, please feel free to contribute by creating a pull request. To ensure the quality of the information provided, please include a reliable source for the IOC and a clear description of the associated threat.
@@ -20,4 +26,4 @@ Contributing
 Disclaimer
 ⚠️ The information contained in this repository is provided for informational purposes only and is not intended to be used for malicious purposes. The authors and contributors make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the information contained in this repository. The use of the information contained in this repository is at the user's own risk.
 
-Thank you for using the Malicious IOC Repository to stay informed and protect against threats! 👍
+Thank you for using the Malicious IOC Repository to stay informed and protect against threats! 🛡️🔍🤝
