@@ -1208,3 +1208,4 @@ drivres-update.info
 intelnetservice.com
 intelsupport.net
 softupdates.info
+http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion/
