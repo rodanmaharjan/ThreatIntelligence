@@ -7,7 +7,6 @@ harveyautos110.ddns.net
 1harveyautos112.ddns.net
 1harveyautos111.hopto.org
 104.215.84.159
-
 eaidali.ddns.net
 209.127.91.101
 91.243.44.85
@@ -51,7 +50,6 @@ http://109.206.240.67/anom/
 https://quinto.con-ip.com
 http://gelincikhashas.info
 78.142.18.37
-109.206.240.67
 141.95.16.111
 79.134.225.46
 194.147.140.32
