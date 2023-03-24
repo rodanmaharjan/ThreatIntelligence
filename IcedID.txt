@@ -97,8 +97,6 @@ http://aerilaponawki.com/
 135.148.217.85
 80.66.88.71
 5.196.196.252
-80.66.88.71
-135.148.217.85
 45.61.137.220
 23.227.203.70
 http://hrowerknifi.com/
@@ -106,15 +104,10 @@ http://aproillionsgif.com
 http://almileniomf.com
 http://conalom.top/gatef1.php
 http://umoxlopator.com
-http://umoxlopator.com
-http://conalom.top/gatef1.php
 http://conalom.top/dll/48.dll
 http://avroralikhaem.com/
 http://aproshak.top/dll/loader_p1_dll_64_n1_x64_inf.dll1.dll
 http://aproshak.top/gatef1.php
-http://umoxlopator.com
-http://conalom.top/gatef1.php
-http://conalom.top/dll/48.dll
 http://shisyatnic.top/dll/loader_p1_dll_64_n1_x64_inf.dll77.dll
 http://shisyatnic.top/gatef1.php
 http://skanfordiporka.com/
@@ -208,7 +201,6 @@ http://yelsopotre.com
 5.230.74.203
 94.232.46.206
 5.230.67.227
-172.105.27.36
 143.198.92.88
 167.172.39.160
 67.205.184.237
