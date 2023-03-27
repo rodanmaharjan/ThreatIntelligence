@@ -1,3 +1,9 @@
+0.tcp.sa.ngrok.io
+rick63.publicvm.com
+verderesilencia.duckdns.org
+resilencia2023.duckdns.org
+rick63.publicvm.com
+verderesilencia.duckdns.org
 infra02.ddns.net
 mayo21.duckdns.org
 46.246.14.12
