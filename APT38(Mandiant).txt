@@ -1,7 +1,7 @@
 104.255.172.56
 http://web.j-ic.co/
-http://j-ic.co 
-https://www.j-ic.co.jp/ 
+http://j-ic.co
+https://www.j-ic.co.jp/
 http://www.j-ic.co.jp/jp/
 https://cloud.dnx.capital/ZyCws4dD_zE/aUhUJV0p6P/S9XrRH9+/R51g4b5Kjj/abnY=
 www.privacysign.org
@@ -86,7 +86,6 @@ azure-protect.cloud
 172.93.193.124
 15.3.23.45
 149.248.52.31
-104.255.172.56
 104.168.249.50
 104.168.249.49
 104.168.249.10
@@ -109,7 +108,3 @@ cloud.espcapital.pro
 cloud.j-ic.co
 tet.dnx.capital
 cloud.dnx.capital
-cloud.azurehosting.co
-cloud.anobaka.info
-docs.azurehosting.co
-share.anobaka.info
