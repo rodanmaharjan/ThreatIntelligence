@@ -1,2 +1,5 @@
 104.255.172.56
 http://web.j-ic.co/
+http://j-ic.co 
+https://www.j-ic.co.jp/ 
+http://www.j-ic.co.jp/jp/
