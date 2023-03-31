@@ -1,3 +1,5 @@
+amazon.co
+66.42.108.195
 http://gimp.ink
 65.108.209.196
 http://gfibp.world
