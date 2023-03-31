@@ -1,3 +1,5 @@
+https://man.ratingsed.com/watch
+194.68.27.46
 https://service-3ardqx66-1300773162.gz.apigw.tencentcs.com/api/otsi-update-url.js
 175.178.26.48
 172.104.97.60
