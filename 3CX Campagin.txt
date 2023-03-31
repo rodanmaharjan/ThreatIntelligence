@@ -1,3 +1,6 @@
+140.82.113.3
+199.188.206.6
+91.235.116.231
 https://github.com/IconStorages/images
 https://www.3cx.com/blog/event-trainings/
 https://akamaitechcloudservices.com/v2/storage
