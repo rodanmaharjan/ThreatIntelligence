@@ -1,3 +1,12 @@
+https://cache01.micnosoftupdate.com/css/jquery.min.js
+5.188.86.235
+https://cache02.micnosoftupdate.com/css/jquery.min.js
+45.61.185.16
+https://cache06.micnosoftupdate.com/css/jquery.min.js
+https://cache05.micnosoftupdate.com/css/jquery.min.js
+https://cache03.micnosoftupdate.com/css/jquery.min.js
+https://cache04.micnosoftupdate.com/css/jquery.min.js
+107.189.12.43
 173.234.155.140
 https://yafatid.com/quit/containers/UBYX3UR3
 https://173.234.155.140/quit/containers/UBYX3UR3
