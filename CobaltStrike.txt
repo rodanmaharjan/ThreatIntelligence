@@ -1,3 +1,12 @@
+143.92.58.56
+https://143.92.58.56/MicrosoftUpdate/ShellEx/KB242742/default.aspx
+107.189.31.15
+https://cache.micnosoftupdate.com/css/jquery.min.js
+https://129.226.223.182/www/handle/doc
+129.226.223.182
+23.108.57.187
+https://139.198.155.226/image/
+139.198.155.226
 https://cache01.micnosoftupdate.com/css/jquery.min.js
 5.188.86.235
 https://cache02.micnosoftupdate.com/css/jquery.min.js
