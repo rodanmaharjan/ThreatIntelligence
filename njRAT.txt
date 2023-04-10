@@ -1,3 +1,11 @@
+cryptersandtools.hopto.org
+185.254.97.165
+nov231122.con-ip.com
+nuevosecua.duckdns.org
+185.254.97.165
+7.tcp.eu.ngrok.io
+nlucex1980.duckdns.org
+zchrome-microsoft.duckdns.org
 0.tcp.sa.ngrok.io
 rick63.publicvm.com
 verderesilencia.duckdns.org
