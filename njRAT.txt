@@ -1,6 +1,7 @@
-rick63.publicvm.com
-verderesilencia.duckdns.org
-resilencia2023.duckdns.org
+http://nuevosecua.duckdns.org
+http://rick63.publicvm.com
+http://verderesilencia.duckdns.org
+http://resilencia2023.duckdns.org
 https://raw.githubusercontent.com/Pjoao1578/Upcrypter/main/Host_1:5552
 185.254.97.165
 4mekey.myftp.biz
