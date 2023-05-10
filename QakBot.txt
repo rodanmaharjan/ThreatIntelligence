@@ -1,3 +1,11 @@
+https://193.201.9.93:7443/first_loader/first_loader_gw.php?bg=obama259
+http://193.201.9.93:443/first_loader/first_loader_gw.php?bg=obama259
+193.201.9.93
+104.234.118.153
+46.151.30.109
+209.182.225.132
+192.121.16.232
+grdrgmp.com
 69.133.162.35
 92.186.69.229
 92.1.170.110
