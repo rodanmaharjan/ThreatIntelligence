@@ -1,3 +1,8 @@
+updater-discord.duckdns.org
+179.83.165.250
+wwndr3.ddns.net
+verderesilencia.duckdns.org
+https://raw.githubusercontent.com/Pjoao1578/Upcrypter/main/Host_1:5552
 http://updater-discord.duckdns.org
 http://nuevosecua.duckdns.org
 http://rick63.publicvm.com
