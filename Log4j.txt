@@ -1,5 +1,4 @@
 vpnlab.net
-vpnlab.net
 13.89.48.118
 103.147.185.68
 204.48.24.100
@@ -50,8 +49,6 @@ http://185.101.107.92/lol.ps1
 185.254.196.236
 dnslog.cn
 requestbin.net
-vpnlab.net
-13.89.48.118
 71.83.212.195
 141.136.0.113
 45.90.58.195
@@ -26030,7 +26027,6 @@ http://v2.hinitial.com/qasd/bri.tar.gz
 173.25.45.66
 185.222.57.217
 185.107.47.215
-103.147.185.68
 http://webs-up.com/LHM/fuck_niggers_27.hta
 http://live.kiss13.net/QASL51/fuck_niggers_29.hta
 69.16.157.143
