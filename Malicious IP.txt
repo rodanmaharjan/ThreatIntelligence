@@ -1,5 +1,16 @@
 43.156.9.187
 162.241.158.17
+101.99.93.194
+http://65.109.160.103/OPlVpjMq/batdrop.hta
+65.109.160.103
+crazydns.linkpc.net
+https://philadelphiapahealth.blob.core.windows.net/data/BeaconLoader-vmssvcfw.exe
+https://shorturl.at/efP29
+https://philadelphiapahealth.blob.core.windows.net/data/obfuscated.exe
+patientfocus.health
+137.135.116.203
+43.156.9.187
+162.241.158.17
 103.67.163.4
 guongelasenne.shop
 qiqi.podos.top
