@@ -120,7 +120,6 @@ https://1.117.88.221/push
 https://light.tsinghua.fyi/owa/LXnpttWVHHt2PDiF2JCq
 https://23.94.223.153/news
 23.94.223.153
-154.213.64.87
 https://hashmap.tw/restapi/soa2/21881/json/gethotdestination
 47.122.26.190
 https://47.122.26.190/updates.rss
@@ -194,12 +193,10 @@ https://43.155.75.235/wp06/wp-includes/po.php
 111.173.119.217
 https://111.173.119.217/ptj
 https://139.155.145.128/admin/facvicon.jpg
-175.178.41.181
 https://175.178.41.181/__utm.gif
 https://114.115.201.249/match
 https://45.66.230.215/jquery-3.3.1.min.js
 45.66.230.215
-103.74.192.143
 https://103.74.192.143/cx
 https://163.123.142.160/c/msdownload/update/others/2016/12/29136388_
 163.123.142.160
@@ -215,7 +212,6 @@ https://8.217.124.208/dot.gif
 43.138.111.78
 https://43.138.111.78/updates
 https://light.tsinghua.fyi/owa/vl-ZuQkOaCsXGGGokO0Qinkb
-103.97.178.13
 8.213.210.165
 https://8.213.210.165/watch
 46.17.45.213
@@ -240,13 +236,11 @@ https://blacktulip.tk/__utm.gif
 https://95.160.103.159/ca
 47.115.230.18
 https://47.115.230.18/sugrec
-154.213.64.87
 https://360sec.site/restapi/soa2/21881/json/gethotdestination
 43.134.36.170
 https://192.168.45.215/dpixel
 64.176.42.226
 https://64.176.42.226/pixel.gif
-114.115.201.249
 https://114.115.201.249/load
 https://192.241.156.106/en_US/all.js
 192.241.156.106
@@ -282,7 +276,6 @@ https://47.104.84.52/azure/api/v2/userinfo/get
 181.214.39.102
 https://181.214.39.102/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
 https://103.44.246.104/en_US/all.js
-103.44.246.104
 https://ns4.sfklla.vip/g.pixel
 https://ns4.sfklla.vip/match
 https://ns3.sfklla.vip/visit.js
@@ -294,18 +287,15 @@ https://139.196.47.225/search
 39.105.143.177
 https://39.105.143.177/updates
 5.42.66.28
-https://atlantisenergysystems.com/tab_shop_active.css
 https://38.47.111.241/ptj
 38.47.111.241
 https://116.63.185.222/pixel.gif
 116.63.185.222
 https://81.68.77.167/load
-81.68.77.167
 https://accessdevsolutions.com/ku.js
 47.87.129.207
 https://ns98.0xgg.eu.org/azure/api/v2/userinfo/get
 https://ns99.0xgg.eu.org/azure/api/v2/userinfo/get
-193.134.209.247
 101.37.88.59
 https://101.37.88.59/updates.rss
 23.94.53.126
@@ -325,7 +315,6 @@ https://192.168.79.131/j.ad
 https://193.134.209.247/pandownload/api/v2/userinfo/get
 175.24.186.154
 https://175.24.186.154/activity
-192.241.156.106
 https://192.241.156.106/visit.js
 https://42.51.82.39/dot.gif
 42.51.82.39
@@ -339,7 +328,6 @@ https://172.22.14.7/updates.rss
 https://49.4.88.243/pixel.gif
 https://66.152.178.184/cm
 https://10.0.52.175/dpixel
-107.173.122.150
 https://139.155.140.168/match
 139.155.140.168
 https://cdnua01.project27strategy.com/en-us/p/onerf/MeSilentPassport
@@ -361,8 +349,6 @@ https://167.179.119.78/async/newtab_promos
 https://70.18.21.5/dot.gif
 https://89.117.63.195/ga.js
 89.117.63.195
-https://163.123.142.160/c/msdownload/update/others/2016/12/29136388_
-163.123.142.160
 https://119.96.233.154/zOMGAPT
 119.96.233.154
 117.149.201.69
@@ -375,20 +361,16 @@ https://ns3.fuckworldxxx.shop/pixel
 https://ns1.fuckworldxxx.shop/cx
 https://ns2.fuckworldxxx.shop/ptj
 https://360sec.cloud/restapi/soa2/21881/json/gethotdestination
-154.213.64.87
 https://45.141.119.101/image/
-45.141.119.101
 https://1.14.47.145/pixel
 1.14.47.145
 https://43.138.215.2/api/x
 43.138.215.2
 https://www.dnehtb.cn/admin/facvicon.jpg
-139.155.145.128
 https://xoyukiveni.co/cr.css
 23.108.57.45
 https://service-pzmjnxrc-1306912653.nj.apigw.tencentcs.com/api/x
 43.142.175.45
-119.96.233.154
 https://119.96.233.154/visit.js
 114.132.185.163
 https://114.132.185.163/load
@@ -424,7 +406,6 @@ https://8.134.78.237/push
 8.134.78.237
 47.113.231.140
 https://47.113.231.140/__utm.gif
-89.117.63.195
 https://oss-update.duckdns.org/cm
 https://45.94.42.39/pixel
 45.94.42.39
@@ -432,39 +413,30 @@ https://service-buv6fchs-1305961616.gz.apigw.tencentcs.com/api/getit
 103.44.244.251
 https://103.44.244.251/activity
 https://d1am0nd.ddns.net/cm
-194.135.17.31
 54.236.154.41
 https://ns1.nateeka.com/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-193.134.209.247
-https://ns98.0xgg.eu.org/azure/api/v2/userinfo/get
-https://ns99.0xgg.eu.org/azure/api/v2/userinfo/get
 https://47.98.221.192/visit.js
 47.98.221.192
 https://124.223.91.53/push
 124.223.91.53
 https://42.51.82.39/cm
-42.51.82.39
 https://cdn.azureeservices.co.uk/__utm.gif
 https://98.71.232.223/__utm.gif
 98.71.232.223
 https://175.24.177.84/IE9CompatViewList.xml
 https://120.48.83.89/wp06/wp-includes/po.php
-120.48.83.89
 https://47.108.24.98/api/x
 114.116.101.84
 https://114.116.101.84/en-us/silentauth
 https://120.48.83.89/include/template/isx.php
-120.48.83.89
 193.29.13.148
 https://193.29.13.148/cm
 https://ddc6e733wcyh7.cloudfront.net/5aq/XP/SY75Qyw.htm
 3.22.70.55
 https://service-7d3qa3rc-1306912653.nj.apigw.tencentcs.com/api/x
-43.138.215.2
 81.68.215.53
 https://81.68.215.53/g.pixel
 https://119.96.233.154/jquery-3.3.1.min.js
-119.96.233.154
 175.178.90.192
 https://175.178.90.192/activity
 https://www.guestwhoami.xyz/jquery-3.3.1.min.js
@@ -486,10 +458,7 @@ https://citrixinfo.azureedge.net/jquery-3.3.1.min.js
 120.79.3.140
 139.155.126.141
 https://139.155.126.141/en_US/all.js
-103.97.178.13
-https://light.tsinghua.fyi/owa/LXnpttWVHHt2PDiF2JCq
 https://132.145.49.27/cx
-132.145.49.27
 https://45.81.39.175/jquery-3.3.1.min.js
 45.81.39.175
 https://111.90.151.167/pixel
@@ -502,7 +471,6 @@ https://139.199.3.221/admin/login
 123.207.3.132
 https://123.207.3.132/activity
 https://47.117.163.173/j.ad
-47.117.163.173
 43.131.246.242
 https://43.131.246.242/_/scs/mail-static/_/js/
 8.217.192.147
@@ -512,7 +480,6 @@ https://81.69.5.139/updates.rss
 https://139.155.154.67/j.ad
 139.155.154.67
 https://192.168.1.6/cx
-124.223.91.53
 https://47.107.115.48/fwlink
 47.107.115.48
 117.50.172.217
@@ -730,7 +697,6 @@ telecomly.info
 65.49.214.126
 47.242.242.29
 47.91.242.27
-150.158.13.117
 65.49.220.221
 1.117.155.217
 101.43.87.244
@@ -777,7 +743,6 @@ telecomly.info
 110.40.230.169
 101.35.200.58
 121.4.88.169
-121.40.127.134
 124.221.217.149
 124.221.60.34
 1.116.119.120
@@ -1643,7 +1608,6 @@ oa.shfe.tk
 18.177.53.48
 18.177.60.68
 15.235.155.186
-103.139.2.185
 101.35.160.179
 18.116.77.125
 1.13.168.253
@@ -1955,7 +1919,6 @@ https://120.48.85.228/cm
 212.114.52.77
 43.138.52.197
 47.112.140.100
-114.116.101.84
 8.134.93.25
 43.154.238.56
 47.99.72.130
@@ -2272,7 +2235,6 @@ http://136.144.41.177/trfetsrteyrhdb/djkjnnsbdbfbbgb/djfbv/microsoft%20access.ex
 47.88.101.27
 45.77.154.218
 152.32.212.69
-8.143.2.128
 149.248.6.61
 45.76.78.227
 45.61.139.198
@@ -2408,7 +2370,6 @@ domaincdn.net.global.prod.fastly.net
 124.223.206.101
 101.33.244.132
 103.40.163.32
-123.60.74.61
 152.136.239.124
 91.194.11.121
 38.242.209.62
@@ -3339,7 +3300,6 @@ msnnupdate.com
 179.60.150.34
 1.14.69.170
 1.13.23.211
-8.142.13.132
 47.243.102.167
 139.198.156.35
 18.184.186.132
@@ -3952,7 +3912,6 @@ http://107.175.91.198:8080/
 103.99.115.72
 114.115.138.87
 144.34.184.115
-88.214.27.53
 35.89.37.189
 39.105.195.224
 109.248.19.78
@@ -4570,7 +4529,6 @@ conferencedesk.net
 114.115.240.129
 77.73.133.50
 198.98.53.34
-66.152.178.184
 43.142.99.148
 194.9.70.145
 81.70.14.219
@@ -4934,7 +4892,6 @@ https://service1ventures.com
 84.32.128.0
 185.8.105.66
 84.32.128.6
-43.138.138.159
 106.13.54.144
 39.103.236.200
 124.221.195.114
@@ -5134,7 +5091,6 @@ naporiz.com
 119.3.177.228
 110.42.174.95
 137.184.181.240
-1.117.65.146
 45.66.248.209
 114.55.24.39
 125.124.58.191
@@ -5546,7 +5502,6 @@ search.missouristate.edu
 79.133.120.173
 194.26.29.239
 20.164.44.31
-1.14.47.145
 45.147.229.177
 213.227.154.38
 45.147.228.188
@@ -6003,7 +5958,6 @@ poveloyu.com
 123.207.216.145
 123.249.4.24
 117.50.180.158
-47.98.221.192
 115.29.192.143
 42.194.147.138
 124.223.51.84
@@ -6186,7 +6140,6 @@ ip128.ip-139-99-66.net
 1.15.141.252
 159.65.249.226
 113.200.193.42
-114.132.185.163
 81.68.127.212
 1.117.169.18
 35.92.186.71
@@ -6747,7 +6700,6 @@ paloaltokey.store
 23.160.193.126
 154.7.64.12
 185.180.223.126
-139.196.47.225
 107.173.122.167
 179.60.150.117
 1.13.249.191
@@ -6901,7 +6853,6 @@ pejapezey.com
 45.200.14.24
 202.146.216.134
 84.32.191.131
-45.152.67.162
 43.155.140.117
 66.94.122.94
 43.128.66.61
@@ -7154,11 +7105,9 @@ xedefeg.com
 145.110.105.91
 205.169.153.127
 1.116.119.183
-101.43.109.197
 43.138.51.36
 103.43.12.109
 163.123.142.146
-8.134.63.69
 167.71.221.51
 185.225.73.244
 106.52.85.114
@@ -7216,7 +7165,6 @@ xedefeg.com
 64.44.168.92
 154.7.253.65
 43.143.143.20
-43.155.75.235
 72.18.82.194
 193.149.185.189
 140.238.17.238
@@ -7292,7 +7240,6 @@ xedefeg.com
 103.42.212.94
 121.4.97.5
 47.92.227.151
-49.4.88.243
 154.223.165.16
 108.177.235.29
 3.74.102.137
@@ -7619,7 +7566,6 @@ d2r7zxxp94uuq9.cloudfront.net
 35.75.239.134
 35.164.247.19
 185.175.156.42
-43.138.215.2
 81.19.136.235
 ww1.donkertalsu.com
 34.125.190.77
@@ -7821,7 +7767,6 @@ submitgoogleurl.com
 156.232.11.5
 billingservice.hopto.org
 108.165.178.42
-82.156.177.149
 125.76.247.137
 54.248.1.227
 119.91.148.9
@@ -8634,7 +8579,6 @@ https://172.67.177.33/updates.rss
 172.67.177.33
 https://104.21.88.110/cx
 https://120.48.83.89/ptj
-120.48.83.89
 182.160.9.236
 47.242.204.38
 https://216.83.38.235/pixel.gif
@@ -8799,7 +8743,6 @@ https://18.162.188.12/www/handle/doc
 https://43.249.9.32/ca
 https://149.28.158.176/match
 149.28.158.176
-https://127.0.0.1/dot.gif
 https://172.19.30.253/ie9compatviewlist.xml
 43.156.97.102
 https://150.158.100.162/__utm.gif
@@ -9378,7 +9321,6 @@ http://securitysc.xyz/IE9CompatViewList.xml
 https://116.62.218.6/match
 https://45.32.254.178/load
 https://124.223.91.53/ga.js
-124.223.91.53
 https://47.95.149.125/api/logout
 https://158.150.11.76/ga.js
 158.150.11.76
@@ -9607,7 +9549,6 @@ https://38.6.177.95/match
 107.149.163.103
 https://107.149.163.103/pixel
 https://193.134.209.247/www/handle/doc
-193.134.209.247
 154.29.75.225
 23.95.44.80
 https://23.95.44.80/www/handle/doc
@@ -9786,7 +9727,6 @@ https://43.198.90.58/ca
 https://84.45.122.150/ptj
 84.45.122.150
 20.124.38.215
-172.174.64.174
 https://172.174.64.174/IE9CompatViewList.xml
 195.133.40.146
 https://atechniques.com/mobile-home
@@ -9836,7 +9776,6 @@ https://hpsj.firewall-gateway.net/IE9CompatViewList.xml
 https://acroserver.com/language.js
 https://39.98.183.23/match
 https://101.89.202.252/pixel.gif
-101.89.202.252
 https://tilojejeza.com/promote/v9.75/CBZ4ZZIX2
 https://108.62.118.165/promote/v9.75/CBZ4ZZIX2
 108.62.118.165
@@ -9856,7 +9795,6 @@ https://192.168.79.131/dot.gif
 https://23.108.57.86/Complete/kids/6M75FHDLUR9G
 https://gabovikedo.com/Complete/kids/6M75FHDLUR9G
 https://47.98.220.25/IE9CompatViewList.xml
-47.98.220.25
 43.136.14.33
 https://43.136.14.33/j.ad
 https://43.143.28.81/pixel
@@ -10132,7 +10070,6 @@ https://82.157.140.235/activity
 180.76.96.230
 https://180.76.96.230/ptj
 103.103.128.149
-43.142.175.45
 https://43.142.175.45/login/v2/api/getPhoneCode
 https://120.46.169.156/match
 120.46.169.156
@@ -10153,7 +10090,6 @@ https://csklo06p.slt.sched.intlscdn.com/OTSI/OTSI-update-list.jsp
 https://47.92.173.228/socialapiVersion=1.1
 47.92.173.228
 https://124.221.127.90/en_US/all.js
-124.221.127.90
 https://104.168.64.52/match
 104.168.64.52
 https://116.204.81.202/push
@@ -10263,7 +10199,6 @@ https://62.204.41.45/match
 47.120.2.120
 https://47.120.2.120/cx
 https://service-c3gdh3za-1314775489.gz.apigw.tencentcs.com/api/x
-47.92.128.8
 https://91.213.50.75/ca
 118.31.54.192
 https://118.31.54.192/__utm.gif
@@ -10577,7 +10512,6 @@ https://tisoyinum.com/complete/cvs/SKJRNLKBBMPS
 https://23.19.58.178/complete/cvs/SKJRNLKBBMPS
 23.19.58.178
 152.254.160.210
-https://43.155.75.235/wp06/wp-includes/po.php
 https://a.bwvwvwv.cf/include/template/isx.php
 0xx2.micnosoftupdate.com
 157.254.194.20
@@ -10664,7 +10598,6 @@ https://121.43.43.204/ga.js
 https://129.204.197.157/cx
 129.204.197.157
 https://192.168.65.128/dpixel
-175.24.207.93
 https://192.168.31.206/__utm.gif
 1.117.79.251
 https://1.117.79.251/ptj
@@ -10676,14 +10609,10 @@ https://powersupportplan.com/ky
 43.137.17.81
 https://service-m619gnhk-1259697681.gz.apigw.tencentcs.com/services/data/sfvpn/refresh-config
 https://10.17.12.45/pixel.gif
-39.107.250.164
 https://38.60.47.253/fwlink
 38.60.47.253
-101.42.254.219
 https://service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com/api/x
 https://101.91.181.236/dpixel
-https://43.143.243.15/g.pixel
-43.143.243.15
 https://175.178.252.24/audiencemanager.js
 175.178.252.24
 https://106.53.97.219/IE9CompatViewList.xml
@@ -11053,7 +10982,6 @@ https://124.71.192.197/visit.js
 8.130.19.128
 https://8.130.19.128/ptj
 https://service-ibovzlqe-1312654096.gz.apigw.tencentcs.com/admin/login
-139.199.3.221
 https://101.35.148.219/pixel
 106.52.247.212
 https://106.52.247.212/cm
@@ -11207,7 +11135,6 @@ https://185.212.60.42/IE9CompatViewList.xml
 185.212.60.42
 https://31.25.88.156/load
 31.25.88.156
-211.149.230.205
 1.12.62.80
 https://service-bqyqfp5u-1310046338.gz.apigw.tencentcs.com/s
 51.178.29.32
@@ -11292,7 +11219,6 @@ https://1.13.168.170/api/v1/nsquery
 198.199.90.49
 https://api.tanksw.top/pixel.gif
 https://service-8w49s7e0-1308639534.nj.apigw.tencentcs.com/api/getit
-129.211.222.142
 1.13.2.80
 https://1.13.2.80/match
 https://47.87.138.83/load
@@ -11721,7 +11647,6 @@ https://118.195.243.197/visit.js
 118.195.243.197
 https://81.70.3.30/admin/login
 81.70.3.30
-13.125.173.198
 https://13.125.173.198/visit.js
 https://43.136.130.29/ga.js
 43.136.130.29
@@ -11761,7 +11686,6 @@ https://221.228.216.134/__utm.gif
 https://123.234.2.90/ptj
 https://58.216.106.230/visit.js
 123.234.2.90
-58.216.106.230
 https://122.246.22.230/IE9CompatViewList.xml
 122.246.22.230
 https://123.249.21.108/match
@@ -11972,7 +11896,6 @@ https://45.89.55.141/load
 39.101.76.59
 https://39.101.76.59/cm
 https://101.34.83.66/include/template/isx.php
-43.136.60.27
 https://service-b2qhuyiu-1307021836.gz.apigw.tencentcs.com/api/x
 https://124.221.245.253/g.pixel
 124.221.245.253
@@ -11984,7 +11907,6 @@ https://qw.sveexec.com/nv
 https://23.224.196.34/match
 114.116.67.8
 https://114.116.67.8/match
-116.63.185.222
 https://116.63.185.222/updates.rss
 https://8.218.88.173/jquery-3.3.1.min.js
 8.218.88.173
@@ -12368,8 +12290,6 @@ https://kaerneng.net/v20idaf/
 45.86.64.242
 https://googlemail.ltd/pixel
 101.42.166.217
-https://43.138.111.78/updates
-43.138.111.78
 45.88.66.59
 https://45.88.66.59/updates.rss
 43.136.49.162
@@ -12858,7 +12778,6 @@ https://10.32.131.108/updates.rss
 https://124.221.177.165/static/mancard/img/qrcode_download_john.png
 https://1.117.79.251/__utm.gif
 https://101.35.141.80/cm
-https://a.wvwvwv.tk/wp08/wp-includes/dtcla.php
 https://81.69.30.152/www/handle/doc
 https://114.116.13.68/wp06/wp-includes/po.php
 https://service-k34gi85k-1314775489.gz.apigw.tencentcs.com/api/x
@@ -12939,7 +12858,6 @@ https://104.206.226.45/j.ad
 https://47.108.137.190/cx
 https://179.60.149.254/ga.js
 https://cdn.azureeservices.co.uk/activity
-98.71.232.223
 47.87.160.161
 https://epicenergyservicestexas.com/cr
 https://139.159.206.124/activity
@@ -12989,7 +12907,6 @@ https://124.220.210.41/ca
 124.220.210.41
 https://82.157.182.245/ga.js
 45.15.157.124
-46.29.165.123
 https://zh.servicesest.services/visit.js
 https://139.199.3.55/ga.js
 https://120.78.135.166/jquery-3.3.1.min.js
@@ -13017,7 +12934,6 @@ https://38.54.107.182/search/
 https://82.156.166.154/updates
 https://47.99.176.228/dot.gif
 47.99.176.228
-110.40.156.244
 https://110.40.156.244/dot.gif
 https://0.tcp.jp.ngrok.io/jquery-3.3.1.min.js
 https://139.224.207.208/__utm.gif
@@ -13285,8 +13201,6 @@ https://101.43.2.116/admin/login
 101.43.2.116
 https://10.3.107.176/dot.gif
 1.117.158.98
-154.91.85.87
-https://154.91.85.87/dpixel
 https://117.50.189.187/pixel
 117.50.189.187
 https://cyberanalysis.io/updates.rss
@@ -13435,7 +13349,6 @@ https://pingan.microsoft-ppe.cn/ga.js
 122.9.146.21
 https://172.20.10.3/www/handle/doc
 https://120.48.74.67/www/handle/doc
-https://service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com/api/getit
 https://82.157.110.128/template.css
 https://81.71.77.164/about
 https://service-eydmo6ct-1309275416.sh.apigw.tencentcs.com:80/api/x
@@ -13469,8 +13382,6 @@ https://38.60.28.185/ca
 https://88.214.25.241/fwlink
 https://199.193.125.87/ptj
 199.193.125.87
-https://181.214.39.102/rp/1hGciYbPE6ALKVPnmrkw4Pko3GI.br.js
-181.214.39.102
 https://38.60.28.185/activity
 https://101.33.199.47/IE9CompatViewList.xml
 https://huvoyofib.org/eso.html
@@ -13498,7 +13409,6 @@ https://185.73.124.16/activity
 https://s8.svchostok.pro/fwlink
 81.68.115.220
 https://81.68.115.220/ga.js
-163.123.142.160
 https://163.123.142.160/owa/
 77.73.134.32
 https://77.73.134.32/__utm.gif
@@ -13513,7 +13423,6 @@ https://193.201.9.112/en_US/all.js
 https://8.130.126.62/developer-server/online/_next/static/png
 43.143.184.101
 https://192.168.31.130/__utm.gif
-54.236.154.41
 https://dn4d1v1ofq2j1.cloudfront.net/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 134.122.132.52
 38.60.199.152
@@ -13797,7 +13706,6 @@ https://93.185.166.142/cm
 93.185.166.142
 179.43.154.137
 https://179.43.154.137/j.ad
-47.113.149.52
 https://47.113.149.52/visit.js
 https://101.34.36.115/pixel
 https://45.227.253.30/cx
@@ -13814,7 +13722,6 @@ https://185.74.222.126/boxes.js
 185.74.222.126
 https://1.15.186.229/visit.js
 https://106.75.29.225/fwlink
-106.75.29.225
 https://service-dijaz85p-1318228220.sh.apigw.tencentcs.com/api/getit
 114.55.144.23
 172.93.181.184
@@ -13892,7 +13799,6 @@ https://gwgp-qgrtsasseax.n.bdcloudapi.com/jquery-3.3.1.min.js
 https://1.14.65.206/push
 171.244.60.21
 https://171.244.60.21/image/
-47.117.163.173
 https://47.117.163.173/updates.rss
 https://43.154.52.127/dot.gif
 https://114.116.39.74/ga.js
@@ -13908,7 +13814,6 @@ https://service-g50k7rwo-1307267846.gz.apigw.tencentcs.com/push
 https://dash.congluanz.net/jquery-3.3.1.min.js
 https://43.143.222.153/cx
 43.143.222.153
-103.44.244.251
 https://103.44.244.251/j.ad
 137.220.227.219
 https://smss.svchost.co/jquery-3.3.1.min.js
@@ -13958,9 +13863,7 @@ https://101.34.239.95/c/msdownload/update/others/2022/03/29136388_
 https://106.52.253.80/updates.rss
 106.52.253.80
 https://atlantisenergysystems.com/media.css
-5.42.66.28
 https://139.155.126.141/dot.gif
-139.155.126.141
 https://43.226.40.115/api/auth/v1/log
 43.226.40.115
 https://106.52.253.80/pixel.gif
@@ -14142,7 +14045,6 @@ https://www.360safengine.club/Quit/cv/IPI9U4OF
 https://85.208.107.19/FC001/JOHN
 85.208.107.19
 https://81.71.17.43/fwlink
-81.71.17.43
 https://123.249.5.196/pixel
 https://atlantisenergysystems.com/fam_cart.css
 https://193.29.13.159/j.ad
@@ -14228,7 +14130,6 @@ https://auth.webapi-telegram.com/msdownload/update/v3/static/trustedr/ru/authroo
 111.230.194.172
 https://104.194.227.218/visit.js
 https://121.40.192.133/match
-121.40.192.133
 https://service-plcnurt7-1300693486.bj.apigw.tencentcs.com/api/x
 https://59.110.221.242/dot.gif
 59.110.221.242
@@ -14238,7 +14139,6 @@ https://43.138.168.20/dpixel
 https://139.155.126.141/ca
 https://39.104.76.226/en_US/all.js
 https://43.142.47.213/g.pixel
-1.14.70.97
 https://183.66.105.182/jquery-3.3.1.1.min.js
 https://220.169.153.109/jquery-3.3.1.1.min.js
 183.66.105.182
@@ -14271,11 +14171,9 @@ https://88.218.192.130/ptj
 https://8.140.12.158/jquery-3.3.1.min.js
 8.140.12.158
 https://116.196.68.29/ptj
-116.196.68.29
 https://172.174.64.174/cm
 52.224.63.68
 52.191.64.121
-https://172.174.64.174/cx
 https://31.44.184.232/pixel
 31.44.184.241
 116.204.114.153
@@ -14299,7 +14197,6 @@ https://106.14.38.113/g.pixel
 https://172.174.64.174/j.ad
 https://121.5.117.172/info
 121.5.117.172
-101.37.88.59
 https://192.168.123.69/IE9CompatViewList.xml
 https://106.53.67.175/j.ad
 106.53.67.175
@@ -14331,7 +14228,6 @@ https://101.33.208.118/dot.gif
 https://43.138.234.113/pixel.gif
 43.138.234.113
 https://1.13.160.239/sugrec
-1.13.160.239
 123.60.153.7
 https://123.60.153.7/jquery-3.3.1.min.js
 https://92.63.196.45/jquery-3.3.1.min.js
@@ -14361,7 +14257,6 @@ https://49.4.24.255/cx
 120.132.81.18
 https://www.ba1duu.icu/activity
 https://120.79.3.140/ga.js
-120.79.3.140
 https://47.98.221.192/dpixel
 103.100.159.212
 https://103.100.159.212/restapi/soa2/21881/json/gethotdestination
@@ -14418,7 +14313,6 @@ https://cf-cs-cloudfuctions-rkkwaxzxjd.cn-hangzhou.fcapp.run/static/js/jquery3.2
 https://windowsupdate.test.upcdn.net/fwlink
 139.155.133.20
 https://139.155.133.20/image/
-https://service-kpy719kw-1252391081.gz.apigw.tencentcs.com/cgi-bin/mmwebwx-bin/webwxgetcontact
 119.91.219.240
 https://172.174.64.174/ca
 52.190.58.186
@@ -14497,7 +14391,6 @@ https://175.178.62.143/activity
 107.161.50.180
 https://asdfgasd.com/dpixel
 https://47.101.41.158/ga.js
-47.101.41.158
 https://asdfgasd.com/pixel.gif
 43.142.84.225
 https://43.142.84.225/__utm.gif
@@ -14514,7 +14407,6 @@ https://121.40.192.133/cx
 https://180.97.221.253/updates.rss
 180.97.221.253
 https://31.44.184.88/dpixel
-31.44.184.88
 https://1.116.96.210/pixel
 https://114.132.185.170/fwlink
 114.132.185.170
@@ -15377,7 +15269,6 @@ amusedkel.com
 114.118.4.216
 142.93.159.246
 159.89.200.133
-114.115.184.15
 45.194.246.139
 154.214.136.62
 154.214.136.53
