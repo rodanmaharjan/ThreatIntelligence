@@ -1,3 +1,12 @@
+https://light.tsinghua.fyi/api/3
+103.97.178.13
+https://127.0.0.1/include/template/isx.php
+64.226.126.5
+185.11.61.46
+175.178.170.184
+https://185.11.61.46/updates.rss
+206.189.245.2
+https://206.189.245.2/multiply/portal/HJ6EDR1B35CV
 43.136.60.27
 https://service-93y89p5u-1307021836.gz.apigw.tencentcs.com/api/x
 164.155.252.16
