@@ -121,7 +121,6 @@ https://43.138.206.73/article/details
 https://123.57.248.235/owa/
 123.57.248.235
 https://service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com/api/getit
-124.70.159.242
 103.149.200.79
 https://103.149.200.79/dot.gif
 https://43.139.114.134/api/3
@@ -314,7 +313,6 @@ https://baidu.moonsir.cf/wp08/wp-includes/dtcla.php
 https://193.134.209.247/azure/api/v2/userinfo/get
 1.117.88.221
 https://1.117.88.221/push
-103.97.178.13
 https://light.tsinghua.fyi/owa/LXnpttWVHHt2PDiF2JCq
 https://23.94.223.153/news
 23.94.223.153
@@ -442,7 +440,6 @@ https://64.176.42.226/pixel.gif
 https://114.115.201.249/load
 https://192.241.156.106/en_US/all.js
 192.241.156.106
-106.75.29.225
 https://106.75.29.225/j.ad
 47.96.106.103
 https://120.48.83.89/activity
@@ -981,7 +978,6 @@ telecomly.info
 178.62.255.203
 117.18.13.219
 160.251.58.202
-1.117.228.211
 47.93.44.138
 106.52.50.235
 1.117.89.216
@@ -1141,7 +1137,6 @@ http://159.65.136.204:8080/hana/update_form
 8.130.8.129
 124.223.118.87
 121.5.179.200
-124.223.6.231
 1.14.102.175
 43.138.204.185
 39.103.169.75
@@ -1300,7 +1295,6 @@ kosomewabo.com
 172.93.103.175
 115.126.43.55
 47.111.170.180
-82.157.147.131
 82.157.157.102
 scarfaceserver.com
 119.28.206.89
@@ -2703,7 +2697,6 @@ sophossecurityi.com
 1.116.22.103
 23.234.200.109
 45.147.200.249
-175.178.170.184
 152.136.14.90
 101.35.96.214
 47.243.175.198
@@ -4334,7 +4327,6 @@ xafehot.com
 39.107.93.206
 8.9.31.144
 13.212.4.246
-101.42.169.90
 124.222.126.131
 116.205.178.32
 121.41.29.137
@@ -6081,7 +6073,6 @@ poveloyu.com
 202.182.123.100
 147.182.170.172
 107.189.4.164
-185.158.94.217
 103.215.80.41
 104.128.190.188
 164.155.99.69
@@ -6661,7 +6652,6 @@ https://146.70.87.186/load/powerdef
 193.149.185.214
 13.113.93.237
 43.129.239.195
-103.149.200.79
 107.182.20.17
 141.164.59.132
 43.139.193.66
@@ -7284,7 +7274,6 @@ xedefeg.com
 62.204.41.237
 216.83.38.235
 85.209.135.49
-198.12.74.39
 37.58.62.182
 64.227.132.76
 107.148.49.83
@@ -7296,7 +7285,6 @@ xedefeg.com
 85.239.52.175
 193.47.61.29
 119.3.194.221
-43.139.116.197
 184.178.211.250
 130.134.253.194
 130.211.45.45
@@ -7522,7 +7510,6 @@ xedefeg.com
 38.242.241.231
 193.201.9.189
 101.42.104.211
-1.15.247.249
 96.126.126.84
 18.205.189.67
 203.57.227.25
@@ -7912,7 +7899,6 @@ submitgoogleurl.com
 88.119.161.139
 154.26.192.11
 190.123.44.214
-199.195.251.23
 141.98.10.124
 101.35.240.32
 3.139.62.192
@@ -8060,7 +8046,6 @@ fileitupd.com
 43.137.8.159
 194.102.36.152
 1.13.23.88
-198.211.15.48
 43.140.195.36
 195.189.96.146
 185.22.154.65
@@ -8315,7 +8300,6 @@ https://45.76.155.209/g.pixel
 45.76.155.209
 https://104.218.236.112/match
 https://vd-ntds.com/_/scs/mail-static/_/js/
-18.134.98.91
 https://18.134.98.91/dpixel
 https://5.181.159.33/dpixel
 5.181.159.33
@@ -9765,7 +9749,6 @@ https://virginiaservice.org/af.css
 https://150.158.164.79/IE9CompatViewList.xml
 150.158.164.79
 https://101.43.165.220/ce.css
-101.43.165.220
 182.255.45.211
 https://service-jnbjutxg-1304098235.hk.apigw.tencentcs.com/api/getit
 https://43.142.187.77/match
@@ -10943,7 +10926,6 @@ https://114.116.71.60/en_US/all.js
 https://1.13.156.222/en_US/all.js
 https://service-5dqdv2h6-1304865419.gz.apigw.tencentcs.com/IE9CompatViewList.xml
 47.93.63.179
-https://1.117.228.211/static
 https://eurodevservices.com/us
 212.113.119.250
 107.148.133.228
@@ -11129,7 +11111,6 @@ https://120.55.160.6/ptj
 120.55.160.6
 https://42.193.108.137/cm
 42.193.108.137
-206.189.245.2
 https://206.189.245.2/inform/v6.71/LT4TRZAZTPT
 https://38.105.168.110/ca
 38.105.168.110
@@ -11235,7 +11216,6 @@ https://143.92.32.203/activity
 https://101.35.148.219/api/x
 107.148.26.32
 https://107.148.26.32/cx
-101.43.86.215
 https://101.43.86.215/match
 https://139.155.90.81/pixel
 https://81.71.45.160/api/getit
@@ -12110,7 +12090,6 @@ https://8.218.88.173/jquery-3.3.1.min.js
 8.218.88.173
 https://82.157.177.73/include/template/isx.php
 https://8.218.176.6/fwlink
-https://127.0.0.1/include/template/isx.php
 https://47.106.21.82/visit.js
 https://cloudateup.online/c/msdownload/update/others/2020/10/29136388_
 https://80.94.95.116/c/msdownload/update/others/2020/10/29136388_
@@ -12345,7 +12324,6 @@ https://121.199.25.133/__utm.gif
 https://139.9.190.31/activity
 https://119.91.145.178/dot.gif
 119.91.145.178
-https://103.149.200.79/dot.gif
 https://154.40.59.77/pixel
 154.40.59.77
 94.142.138.140
@@ -12568,7 +12546,6 @@ https://156.59.186.197/ga.js
 https://43.142.184.93/match
 43.142.184.93
 https://209.97.135.107/ptj
-209.97.135.107
 https://47.100.48.185/ca
 https://139.196.47.225/visit.js
 https://52.39.168.94/jquery-3.3.1.min.js
@@ -12627,7 +12604,6 @@ https://143.92.57.173/fd/ls/
 198.23.62.133
 https://198.23.62.133/__utm.gif
 https://198.23.62.133/pixel.gif
-8.218.129.91
 https://doc.bluework.ink/fwlink
 https://212.24.106.114/funtionCod
 212.24.106.114
@@ -13404,7 +13380,6 @@ https://117.50.189.187/pixel
 https://cyberanalysis.io/updates.rss
 66.29.134.142
 https://101.43.13.21/en_US/all.js
-101.43.13.21
 https://106.53.136.106/load
 106.53.136.106
 https://42.42.194.133/pixel
@@ -13460,7 +13435,6 @@ https://134.122.132.23/__utm.gif
 https://198.23.137.207/visit.js
 198.23.137.207
 https://101.43.190.181/news/details
-43.138.206.73
 101.43.190.181
 https://103.39.78.129/updates.rss
 https://198.23.137.207/j.ad
@@ -13537,7 +13511,6 @@ https://www.crowdstk.com/c/msdownload/update/others/2016/12/29136388_
 64.52.80.231
 https://sdelay.kantik.ru/jquery-3.3.1.min.js
 https://106.13.20.56/dpixel
-106.12.129.225
 https://47.115.219.93/dot.gif
 47.115.219.93
 https://10.127.254.202/jquery-3.3.1.min.js
@@ -13551,10 +13524,8 @@ https://82.157.110.128/template.css
 https://81.71.77.164/about
 https://service-eydmo6ct-1309275416.sh.apigw.tencentcs.com:80/api/x
 https://service-kboespoo-1317138495.gz.apigw.tencentcs.com/get.css
-https://43.138.206.73/article/details
 18.139.159.151
 https://booksfortress.sytes.net/sg/passport_requirements
-https://127.0.0.1/pixel.gif
 https://192.168.0.90/load
 8.140.23.148
 https://d1ugea0fewof2r.cloudfront.net/sg/passport_requirements
@@ -13817,7 +13788,6 @@ https://neweastsystem.com/media
 https://81.71.68.50/search/
 103.148.245.218
 https://62.204.41.24/functionalStatus/Jatmp1Jmb7LaCBVxMmGdjdVl02ZI7O
-62.204.41.24
 https://43.138.215.2/match
 https://178.128.238.89/ab.js
 178.128.238.89
@@ -14015,7 +13985,6 @@ https://43.143.222.153/cx
 https://103.44.244.251/j.ad
 137.220.227.219
 https://smss.svchost.co/jquery-3.3.1.min.js
-https://doc.bluework.ink/jquery-3.3.1.min.js
 https://cdn16.bootcdn.net.dsa.dnsv1.com.cn/jquery-3.3.1.min.js
 180.184.50.81
 49.234.29.13
@@ -14688,7 +14657,6 @@ d146c2f70cb0ddda09e69e694584dc39
 173.249.45.143
 121.5.28.157
 1.15.170.122
-101.43.149.199
 101.43.215.182
 158.247.231.135
 136.144.41.104
