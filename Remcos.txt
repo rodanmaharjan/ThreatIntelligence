@@ -62,7 +62,6 @@ http://109.206.240.67/anom/
 https://quinto.con-ip.com
 http://gelincikhashas.info
 78.142.18.37
-141.95.16.111
 79.134.225.46
 194.147.140.32
 79.134.225.95
