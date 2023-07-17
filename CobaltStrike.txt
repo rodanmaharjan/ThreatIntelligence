@@ -85,7 +85,6 @@ https://111.231.11.43/j.ad
 https://23.147.225.184/activity
 23.147.225.184
 https://cdn.ethvseos.nl/image/
-179.43.142.52
 https://47.102.204.77/pixel.gif
 47.102.204.77
 https://8.130.18.110/dpixel
@@ -209,7 +208,6 @@ https://120.78.151.171/cx
 https://ns1.mdstech.com.tw/fd/ls/
 https://ns2.mdstech.com.tw/fd/ls/
 166.1.18.100
-124.221.126.235
 https://124.221.126.235/ptj
 https://43.154.14.120/jquery-3.3.1.min.js
 43.154.14.120
@@ -303,7 +301,6 @@ https://121.40.174.104/fwlink
 https://42.192.16.196/j.ad
 42.192.16.196
 https://106.14.75.240/updates.rss
-106.14.75.240
 20.51.234.154
 https://msedgesupport.azureedge.net/jquery-3.3.1.min.js
 43.153.206.194
@@ -425,7 +422,6 @@ https://124.70.159.242/api/getit
 https://101.43.13.21/pixel
 https://43.138.188.41/ga.js
 43.138.188.41
-https://doc.bluework.ink/jquery-3.3.1.min.js
 8.218.129.91
 https://47.99.130.245/visit.js
 47.99.130.245
@@ -486,7 +482,6 @@ https://1.117.183.85/activity
 1.117.183.85
 https://47.120.13.139/dot.gif
 47.120.13.139
-https://cins.hin7lostvas.pro/groupcp.css
 103.57.228.100
 https://web.comchinantp.com/jquery-3.3.1.min.js
 103.57.228.102
@@ -551,7 +546,6 @@ https://38.34.185.188/IE9CompatViewList.xml
 38.34.185.188
 https://1.14.63.190/ptj
 1.14.63.190
-106.55.187.63
 https://106.55.187.63/push
 https://194.50.153.42/gv.html
 43.143.184.22
@@ -723,7 +717,6 @@ https://ns2.anaitea.com/jquery.com/
 https://159.89.52.82/c/msdownload/update/others/2020/10/29136388_
 https://test.htl502.tech/push
 https://121.41.179.124/updates.rss
-121.41.179.124
 https://116.62.16.54/ptj
 116.62.16.54
 https://119.13.90.176/g.pixel
@@ -2394,7 +2387,6 @@ oa.shfe.tk
 120.132.81.238
 110.40.189.208
 139.198.188.131
-117.50.182.87
 175.24.178.113
 139.155.10.98
 42.193.105.60
@@ -4241,7 +4233,6 @@ d2xiq5m2a8wmm4.cloudfront.net
 81.70.150.51
 47.100.82.209
 43.142.145.126
-47.100.180.123
 47.98.157.247
 47.108.78.12
 43.142.157.131
@@ -4366,7 +4357,6 @@ http://49.234.67.167:45555
 103.255.178.99
 172.105.40.172
 39.100.147.244
-43.154.14.120
 43.138.246.72
 44.209.247.95
 204.15.79.136
@@ -5142,7 +5132,6 @@ xafehot.com
 81.68.67.216
 81.68.141.177
 124.223.210.69
-121.43.189.59
 115.159.143.241
 198.211.6.222
 121.5.102.72
@@ -5408,7 +5397,6 @@ conferencedesk.net
 192.197.113.99
 209.141.60.157
 149.129.32.122
-3.22.216.255
 114.115.178.24
 221.180.141.76
 47.242.4.140
@@ -7128,7 +7116,6 @@ threatbook.io
 149.28.144.246
 42.51.40.232
 198.44.132.153
-42.193.145.27
 40.67.212.51
 106.14.226.221
 124.223.197.4
@@ -7866,7 +7853,6 @@ cdn.lyrasafety.com
 43.140.252.193
 121.199.0.54
 85.209.135.73
-123.60.165.221
 47.242.58.73
 104.238.159.118
 202.95.19.215
@@ -11312,10 +11298,6 @@ https://zx.vrghosst.com/ch.css
 https://qw.vrghosst.com/kj.css
 https://20.242.52.204/ga.js
 20.242.52.204
-https://172.26.1.22/c/msdownload/update/others/2016/12/29136388_
-https://3.22.216.255/c/msdownload/update/others/2016/12/29136388_
-99.112.162.70
-https://99.112.162.70/c/msdownload/update/others/2016/12/29136388_
 193.29.13.151
 https://193.29.13.151/__utm.gif
 https://82.157.48.74/activity
@@ -11715,7 +11697,6 @@ https://10.10.16.6/__utm.gif
 5.75.238.126
 https://124.221.113.201/dot.gif
 https://123.249.91.163/dpixel
-123.249.91.163
 https://43.154.94.90/api/logout
 43.154.94.90
 https://172.245.168.31/ca
@@ -12153,7 +12134,6 @@ https://39.99.232.247/g.pixel
 https://service-i4suy2ku-1257582847.nj.apigw.tencentcs.com/api/x
 129.211.212.75
 https://43.142.165.143/article/details
-43.142.165.143
 141.98.6.7
 https://141.98.6.7/__utm.gif
 https://103.219.104.82/match
@@ -12631,7 +12611,6 @@ https://216.122.175.114/push
 https://209.141.58.24/ptj
 139.9.5.82
 https://webtoolsmedia.com/tab_home
-216.83.45.170
 https://216.83.45.170/ca
 https://82.157.110.128/tab_home
 https://settingdata.com/ce.js
@@ -13299,7 +13278,6 @@ https://172.93.193.206/Record/pdfs/1H6FY36DC2
 172.93.193.206
 https://giyelido.xyz/Record/pdfs/1H6FY36DC2
 https://182.92.84.129/j.ad
-182.92.84.129
 1.65.207.146
 https://185.10.68.124/fwlink
 185.10.68.124
@@ -13556,7 +13534,6 @@ https://192.168.159.2/ca
 https://93.192.199.99/push
 https://101.42.227.47/pixel.gif
 101.42.227.47
-49.232.134.151
 https://49.232.134.151/search
 31.172.79.211
 https://31.172.79.211/IE9CompatViewList.xml
@@ -14342,7 +14319,6 @@ https://123.57.92.142/wc/58462514417
 123.57.92.142
 ciscoassists.com
 https://43.138.154.3/pixel
-43.138.154.3
 hommyy-ekfvfwcpe7c0g0dk.z01.azurefd.net
 23.163.0.37
 https://23.163.0.37/Retrieve/image/FJEJ73OX633
@@ -14670,7 +14646,6 @@ https://121.5.178.154/activity
 121.5.178.154
 https://112.74.177.62/wp06/wp-includes/po.php
 https://1.117.60.167/visit.js
-https://cdn.ethvseos.nl/image/
 https://1.14.127.220/cx
 https://www.nsxt.world/load
 49.234.38.224
@@ -14764,7 +14739,6 @@ https://ns1.bre1ce.top/ptj
 137.184.25.81
 https://cancel.soupandselfcare.com/dpixel
 18.212.255.134
-https://one.cloudfleras.com/msdownload/update/v3/static/trustedr/en/authrootstl.cab
 195.133.23.90
 https://ns2.ace3.ru/gmail/about/static-2.0/js/main.min.js
 195.133.53.144
@@ -14808,7 +14782,6 @@ https://veriernano.com/ga.js
 https://ionscapir.com/dot.gif
 https://dns.ionscapir.com/ca
 31.44.184.181
-104.200.67.121
 20.93.133.65
 20.93.133.166
 43.139.175.33
