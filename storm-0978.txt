@@ -14,17 +14,7 @@ penofach.com
 bentaxworld.com
 wexonlake.com
 ukrainianworldcongress.info
-74.50.94.156
 94.232.40.34
-66.23.226.102
-104.234.239.26
-65.21.27.250
-138.124.183.8
-45.9.148.118
-45.9.148.219
-45.9.148.123
-209.159.147.170
-209.127.116.190
 http://finformservice.com:80/api/v1.5/subscriptiontoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIzNDU2Nzg5LCJuYW1lIjoiSm9zZXBoIn0.OpOSSw7e485LOP5PrzScxHb7SR6sAOMRckfFwi4rp7o
 http://65.21.27.250:8080/mds/O--------------------------
 http://finformservicecom:8080/mds/S-
