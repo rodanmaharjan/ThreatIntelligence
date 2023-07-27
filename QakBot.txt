@@ -2511,4 +2511,235 @@ http://nusatoyota.co.id
 http://promenadesfantomes.com
 http://skanswers.com
 188.220.225.20
-78.147.206.40
+78.147.206.40[
+    {
+        "date": "2023-07-16 06:49:38",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "190.205.241.186",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680469724981874688"
+    },
+    {
+        "date": "2023-07-16 06:49:41",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "74.12.146.30",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680469737656967168"
+    },
+    {
+        "date": "2023-07-16 06:50:06",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "201.171.163.236",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680469842153947136"
+    },
+    {
+        "date": "2023-07-16 18:51:55",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "201.170.106.69",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651491810344960"
+    },
+    {
+        "date": "2023-07-16 18:52:09",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "116.75.63.60",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651552330072065"
+    },
+    {
+        "date": "2023-07-16 18:52:18",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "182.75.189.41",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651587444768768"
+    },
+    {
+        "date": "2023-07-16 18:52:25",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "105.184.99.120",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651619598319617"
+    },
+    {
+        "date": "2023-07-16 18:52:33",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "189.223.93.188",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651650812215297"
+    },
+    {
+        "date": "2023-07-16 18:52:40",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "167.56.192.210",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651681334165511"
+    },
+    {
+        "date": "2023-07-16 18:52:48",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "37.186.55.16",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680651713521364993"
+    },
+    {
+        "date": "2023-07-16 18:56:31",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "70.50.83.132",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680652651283841026"
+    },
+    {
+        "date": "2023-07-16 18:56:38",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "41.62.66.231",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680652677716361220"
+    },
+    {
+        "date": "2023-07-16 18:56:45",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "93.210.165.238",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680652707676168197"
+    },
+    {
+        "date": "2023-07-16 18:56:54",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "181.171.231.33",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680652745454366720"
+    },
+    {
+        "date": "2023-07-17 06:51:03",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "45.246.224.116",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680832467488456704"
+    },
+    {
+        "date": "2023-07-17 06:51:08",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "64.229.252.101",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680832491328774144"
+    },
+    {
+        "date": "2023-07-17 06:51:12",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "124.149.130.151",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680832505182658560"
+    },
+    {
+        "date": "2023-07-17 06:51:14",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "201.226.241.213",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680832514087174144"
+    },
+    {
+        "date": "2023-07-17 06:51:17",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "187.233.47.221",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680832526967877634"
+    },
+    {
+        "date": "2023-07-17 06:51:19",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "181.99.52.215",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1680832535746453504"
+    },
+    {
+        "date": "2023-07-17 18:50:59",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "188.220.225.20",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1681013646090969089"
+    },
+    {
+        "date": "2023-07-17 18:51:07",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "78.147.206.40",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1681013679104356354"
+    },
+    {
+        "date": "2023-07-17 18:51:14",
+        "user": "drb_ra",
+        "type": "ip",
+        "value": "90.70.150.94",
+        "tags": [
+            "#Qakbot"
+        ],
+        "tweet": "https://twitter.com/drb_ra/status/1681013709089435649"
+    }
+]
