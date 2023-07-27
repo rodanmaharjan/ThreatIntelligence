@@ -455,35 +455,3 @@ https://palasedelareforma.com
 188.220.225.20
 78.147.206.40
 90.70.150.94
-[
-    {
-        "date": "2023-07-18 08:37:49",
-        "user": "JAMESWT_MHT",
-        "type": "url",
-        "value": "https://testserbia.com/wp-content/out/k.php",
-        "tags": [
-            "#IcedID"
-        ],
-        "tweet": "https://twitter.com/JAMESWT_MHT/status/1681221724753240065"
-    },
-    {
-        "date": "2023-07-18 08:37:49",
-        "user": "JAMESWT_MHT",
-        "type": "url",
-        "value": "https://officialk2spice.com/out/k.php",
-        "tags": [
-            "#IcedID"
-        ],
-        "tweet": "https://twitter.com/JAMESWT_MHT/status/1681221724753240065"
-    },
-    {
-        "date": "2023-07-18 12:58:05",
-        "user": "obfusor",
-        "type": "sha256",
-        "value": "18eae2672afac0420b867971413ab38142f3a1623b9462d36dbcfa5b98d859f4",
-        "tags": [
-            "#IcedID"
-        ],
-        "tweet": "https://twitter.com/obfusor/status/1681287224049176577"
-    }
-]
