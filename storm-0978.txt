@@ -17,4 +17,3 @@ ukrainianworldcongress.info
 94.232.40.34
 http://finformservice.com:80/api/v1.5/subscriptiontoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIzNDU2Nzg5LCJuYW1lIjoiSm9zZXBoIn0.OpOSSw7e485LOP5PrzScxHb7SR6sAOMRckfFwi4rp7o
 http://65.21.27.250:8080/mds/O--------------------------
-http://finformservicecom:8080/mds/S-
