@@ -978,8 +978,6 @@ windowsupdates.ikwb.com
 windowsupdates.itemdb.com
 windowsupdates.proxydns.com
 www.jadl-or.com
-
-
 www.japanenvnews.qpoe.com
 www.japanteam.org
 www.jd978.com
@@ -1056,7 +1054,6 @@ www.na.americanunfinished.com
 www.na.onmypc.org
 www.networkjpnzee.mynetav.org
 www.newcityoforward.rebatesrule.net
-www.newdnssec-info.4mydomain.com
 www.newsdata.jkub.com
 www.newsfile.toythieves.com
 www.newsroom.cleansite.info
@@ -1106,7 +1103,6 @@ www.registrations.organiccrap.com
 www.remeberdata.iownyour.org
 www.reserveds.onedumb.com
 www.rethem.almostmy.com
-www.rg197.win
 www.sakai.unhamj.com
 www.sakuranorei.com
 www.sapporo.cloud-maste.com
@@ -1214,9 +1210,7 @@ yfrfyhf.youdontcare.com
 yo.acmetoy.com
 yugoogless.3322.org
 yunwu1.xicp.net
-yz.chromeenter.com
 za.myftp.info
-zabbix.servercontrols.pw
 zaigawebinfo.rebatesrule.net
 zebra.bdoncloud.com
 zebra.incloud-go.com
