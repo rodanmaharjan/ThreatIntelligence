@@ -1,8 +1,6 @@
 104.255.172.56
 http://web.j-ic.co/
 http://j-ic.co
-https://www.j-ic.co.jp/
-http://www.j-ic.co.jp/jp/
 https://cloud.dnx.capital/ZyCws4dD_zE/aUhUJV0p6P/S9XrRH9+/R51g4b5Kjj/abnY=
 www.privacysign.org
 www.onlineshares.cloud
@@ -78,9 +76,6 @@ azure-protection.cloud
 azure-protected.online
 azure-protect.cloud
 64.44.102.195
-45.153.242.37
-45.153.242.36
-45.153.242.33
 39.53.23.25
 172.93.201.104
 172.93.193.124
@@ -88,8 +83,6 @@ azure-protect.cloud
 149.248.52.31
 104.168.249.50
 104.168.249.49
-104.168.249.10
-104.168.198.3
 104.168.174.80
 64.44.102.21
 45.153.242.32
