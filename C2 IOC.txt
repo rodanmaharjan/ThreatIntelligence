@@ -1896,8 +1896,6 @@ imbox.link
 industry.tj.mypolicy.top
 mail.agro.gov.kg.openingfile.net
 mail.belaes.by.authentication.becloud.cc
-
-
 mail.economy.qov.az-link.email
 mail.g-cloud.by.authentication.becloud.cc
 mail.gov.az-link.email
@@ -2014,10 +2012,8 @@ http://211.232.48.65:180/update.7z
 http://p2.feefreepool.net/cgi-bin/prometei.cgi
 http://mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.zero/cgi-bin/prometei.cgi
 https://gb7ni5rgeexdcncj.onion/cgi-bin/prometei.cgi
-http://mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.b32.i2p/cgi-bin/prometei.cgi
 http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion/
 15.197.130.221
-172.93.193.238
 185.39.18.159
 194.165.16.93
 198.54.117.242
@@ -2030,7 +2026,6 @@ realsecuritystore.com
 vmware.rest
 wv2022.com
 194.165.16.57
-5.199.168.46
 212.113.106.118
 91.213.50.35
 gepcash.com
@@ -2092,6 +2087,8 @@ get-smartbuyer.com
 190.123.44.221
 179.60.146.53
 newyearbalance.com
+
+
 84.32.128.89
 13.40.120.240
 77.73.133.80
@@ -2171,6 +2168,7 @@ out1etshops.com
 54.169.204.154
 146.70.116.20
 185.244.212.126
+
 23.29.115.140
 45.66.248.203
 45.147.229.157
