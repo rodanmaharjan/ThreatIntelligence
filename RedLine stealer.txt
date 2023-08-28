@@ -97,9 +97,8 @@ https://193.106.191.223/annotation.unsupportedappusage.module10_nmntgivf.bmp
 176.113.115.153
 176.113.115.157
 176.113.115.156
+
 176.113.115.155
-foundation-email.app
-foundation-interview.app
 185.106.92.22
 medenx.space
 85.209.89.201
@@ -120,13 +119,11 @@ https://cdn.discordapp.com/attachments/1027987069114519676/1027987241861132318/a
 https://xeonuswallet.com
 167.235.233.35
 https://zoomusadesktop.com
-https://cdn.discordapp.com/attachments/1032286019615199249/1033754306718994503/zoominstaller.zip
 185.223.93.133
 77.73.134.24
 185.215.113.109
 79.137.192.7
 https://t.me/slivetalks
-https://github.com/dwadaxwad/dvsv/releases/download/sdv/
 https://github.com/zeevsq1/dawaxawdaw/releases/download/ghg/l5ngrku3ia3vs.exe
 expertsoft.org
 https://pastebin.com/raw/adxbmkjq
@@ -163,7 +160,6 @@ https://radeons-support.org
 https://radeon-support.org
 https://radeon-drivers.org
 168.119.237.16
-3.5.0.0
 https://nvidiaafterburner.com
 https://zoom-website.info
 https://cdn.discordapp.com/attachments/1043294554037690491/1046392661684260945/pdfredactor.zip
@@ -175,7 +171,6 @@ https://cdn.discordapp.com/attachments/1043294554037690491/1046392661684260945/p
 190.2.147.39
 77.73.133.38
 h166361.srv12.test-hf.su
-https://youtu.be/05zyxmmrus8
 79.137.195.171
 http://82.146.48.243/phpserverdletemp/
 82.146.48.243
@@ -198,7 +193,6 @@ samploader.com
 marooner.top
 paris.newemprirez.com
 142.132.179.117
-https://www.dropbox.com/s/lmjwxke1mkazvmu/installerx86.zip?dl=1
 95.217.55.211
 45.93.201.62
 http://79.137.197.29/rfbqtotg/dpcejhz.bmp
@@ -206,7 +200,6 @@ http://79.137.197.29/rfbqtotg/dpcejhz.bmp
 79.137.197.29
 77.73.134.13
 https://download-gimp.org
-https://88.218.171.68:20005
 88.218.171.68
 80.77.25.109
 170.130.165.182
@@ -226,7 +219,6 @@ tradechart.us
 https://45.15.157.134:41007
 https://neonbats.fun
 45.15.157.134
-
 https://45.15.157.134
 https://softreserved.com
 https://t.me/toxicnetarmy
