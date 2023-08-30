@@ -147,7 +147,6 @@ be.mrslove.com
 be.yourtrap.com
 bethel.webhop.net
 bexm.cleansite.biz
-
 bezu.itemdb.com
 bk56.twilightparadox.com
 blaaaaaaaaaaaa.windowsupdate.3-a.net
@@ -287,6 +286,9 @@ ftp.civilwar123.authorizeddns.org
 ftp.civilwar520.onmypc.org
 ftp.cloudfileserverbs.dynamicdns.co.uk
 ftp.cnnews.mylftv.com
+
+
+
 ftp.commons.onedumb.com
 ftp.contractus.qpoe.com
 ftp.cvnx.zyns.com
