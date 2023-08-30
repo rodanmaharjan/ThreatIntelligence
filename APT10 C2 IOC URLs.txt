@@ -286,9 +286,6 @@ ftp.civilwar123.authorizeddns.org
 ftp.civilwar520.onmypc.org
 ftp.cloudfileserverbs.dynamicdns.co.uk
 ftp.cnnews.mylftv.com
-
-
-
 ftp.commons.onedumb.com
 ftp.contractus.qpoe.com
 ftp.cvnx.zyns.com
@@ -460,6 +457,8 @@ fu.chromeenter.com
 fu.epac.to
 fuck.ikwb.com
 fuckdd.8800.org
+
+
 fuckmm.8800.org
 fuckmm.dns-dns.com
 fukuoka.cloud-maste.com
