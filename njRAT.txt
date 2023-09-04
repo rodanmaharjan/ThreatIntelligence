@@ -45,7 +45,8 @@ discord-gg.duckdns.org
 92.55.19.153
 23.237.25.193
 1.227.26.43
-46.246.14.12http://cryptersandtools.hopto.org
+46.246.14.12
+http://cryptersandtools.hopto.org
 http://nov231122.con-ip.com
 http://nuevosecua.duckdns.org
 http://7.tcp.eu.ngrok.io
