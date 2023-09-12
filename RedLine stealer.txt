@@ -516,5 +516,5 @@ https://suitoken-event.info/sui-Lunches-token-distribution-event-at-suiblockchai
 https://ait.claims
 https://web3rewards.net/connect.html
 50.114.12.44
-85.209.3.791.208.52.190
 85.209.3.7
+91.208.52.190
