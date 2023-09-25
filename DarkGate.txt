@@ -1,3 +1,7 @@
+94.228.169.123
+178.236.247.73
+5.42.76.197
+5.42.77.33
 https://suratpeo.go.th/isua/
 https://chatpipoca.net/trl/
 https://smahrec.com/iat/
@@ -62,3 +66,5 @@ sanibroadbandcommunicton.duckdns.org
 80.66.88.145:2843
 80.66.88.145:7891
 178.63.53.44:2388
+cb8f513d616a7e804694240bc3100f8a
+1eba15c358cdab786609f7ed2cfc08fe
