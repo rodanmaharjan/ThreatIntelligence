@@ -1,7 +1,7 @@
 lascakatheather.top
 lascakatheather.shop
-194.5.249.52:80
-79.141.166.39:80
+194.5.249.52
+79.141.166.39
 ventuaustria.digital
 klosterrion.casa
 vindurualeg.art
@@ -59,8 +59,8 @@ oceanwaterfree34.xyz
 afdeserutil32.website
 usaaforced.fun
 missimokotov.space
-161.35.109.168:443
-206.189.10.247:80
+161.35.109.168
+206.189.10.247
 cikawemoret34.space
 nomovee.website
 fivetonnbobavia.uno
@@ -81,7 +81,7 @@ iporumuski.fun
 newandnewers.website
 serpedfiler.uno
 twotoiletsr.space
-138.197.197.35:80
+138.197.197.35
 goodsnara.space
 azorropulseee.fun
 gleeserfer.fun
