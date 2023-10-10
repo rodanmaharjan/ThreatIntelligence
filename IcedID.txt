@@ -1022,7 +1022,6 @@ skamusdeadin.com
 140.99.221.138
 2.56.177.122
 138.197.177.26
-
 193.168.141.15
 185.73.124.8
 157.245.147.16
@@ -1066,17 +1065,14 @@ skeletoheltha.com
 143.198.36.172
 139.59.30.28
 groovetsan.com
-jiuzuzyew.com
 kimsoupg.com
 triopahom.com
 illboardinj.com
 2.56.177.14
 193.168.143.109
 bnreadgoning.com
-pertanezer.com
 halifmagzoom.com
 catnagulsk.com
-shalwolonzy.com
 185.205.187.140
 138.197.168.142
 176.124.32.124
@@ -1127,6 +1123,7 @@ lergochatep.com
 skazifrant.com
 spakernakurs.com
 villysnapsy.com
+
 137.184.164.28
 138.197.177.26
 128.199.3.164
