@@ -1,7 +1,6 @@
 172.93.201.88
 139.162.120.150
 50.116.17.41
-http://curvefinances.com
 140.82.113.3
 199.188.206.6
 91.235.116.231
@@ -25,6 +24,7 @@ sourceslabs.com
 pbxcloudeservices.com
 pbxphonenetwork.com
 akamaitechcloudservices.com
+http://curvefinances.com
 https://github.com/IconStorages/images
 https://www.3cx.com/blog/event-trainings/
 https://akamaitechcloudservices.com/v2/storage
