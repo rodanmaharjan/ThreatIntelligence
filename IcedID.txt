@@ -3154,8 +3154,6 @@ viewsketplctly.fun
 45.147.230.88
 45.147.231.113
 45.147.231.168
-
-5.61.44.234
 5.61.45.179
 5.149.252.179
 23.106.124.168
@@ -3285,6 +3283,7 @@ obviouslsok.top
 rathersok.top
 guesssok.top
 somebodysok.top
+
 raisinglipfo.top
 pricelipfo.top
 domalipfo.top
