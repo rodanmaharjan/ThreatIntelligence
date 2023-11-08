@@ -928,7 +928,6 @@ b44ffed1c2856633f234b0b97e7571d0
 149.248.53.65
 158.247.202.180
 65.20.84.3
-dns.investmentrealtyhp.net:53
 http://49.13.119.230/6aZE/Hemio
 https://watfordspringschool.org.ng/mee//?9ft=1699288947
 https://fivestareducationgroup.com/lver/?69731251
@@ -938,9 +937,6 @@ https://154.221.30.136/
 https://spbinan.com/rie/?00241251
 https://167.71.14.110/dev/queue/MULVQ8OXY
 https://fivestareducationgroup.com/lver//?jdSyqVOhiGAX=1699288963
-https://66.42.101.54/hsRW8R/Syntr
-https://45.32.80.240/REIsgtf/Syntr
-https://149.248.1.76/Scb/Syntrb44ffed1c2856633f234b0b97e7571d0
 84.177.201.52
 79.192.178.52
 84.177.193.163
@@ -992,6 +988,7 @@ plawers.com
 orthodentrics.com
 oloplentex.com
 superrrdental.com
+
 http://216.128.185.29/AUMr/unnec
 http://45.77.72.139/WVIeUje/overi
 http://216.128.185.35/mdh/gunne
