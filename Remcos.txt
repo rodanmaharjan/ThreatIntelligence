@@ -4,7 +4,6 @@
 141.95.16.111
 185.238.3.205
 104.215.84.159
-209.127.91.101
 91.243.44.85
 145.239.253.176
 185.212.130.102
@@ -12,12 +11,10 @@
 91.243.44.142
 85.202.169.85
 104.243.37.55
-103.90.233.184
 91.193.75.132
 193.169.255.203
 45.85.190.93
 194.34.232.147
-46.30.44.142
 144.91.79.86
 46.30.40.108
 109.206.240.67
@@ -26,7 +23,6 @@
 79.134.225.46
 194.147.140.32
 79.134.225.95
-194.5.97.229
 185.191.229.101
 194.147.140.24
 163.123.143.143
@@ -41,7 +37,6 @@
 79.134.225.30
 194.147.140.7
 185.65.135.178
-179.13.11.228
 185.140.53.130
 elbendito.con-ip.com
 palenquito.con-ip.com
@@ -63,7 +58,6 @@ krupskaya.com
 m-onetrading-jp.com
 thuocnam.tk
 device-local-3193b8ff-0889-41c5-8fd6-67066f88b277.remotewd.com
-trigonevo.com
 searchkn1.sima-land.ru
 updatechrome.duckdns.org
 shakeu123.duckdns.org
@@ -92,10 +86,8 @@ http://hydrogiene.co.za/cgisp/
 https://power22.myftp.org:9492
 https://193.169.255.203/sun/jloqkazmalc21xd.exe
 https://paste.ee
-https://dnsexit.com
 https://pasteio.com
 https://top.noneabusers.xyz
-http://194.34.232.147/yur.binv-
 https://yieldsguild.com
 http://ezeife.kozow.com
 https://www.grandatek.com/siixgroup.com/panel/uploads/ksaymh.png
