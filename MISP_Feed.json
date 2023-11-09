@@ -1648,7 +1648,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "0",
+            "event_id": "1398",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
