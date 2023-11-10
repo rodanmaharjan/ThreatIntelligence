@@ -723,7 +723,7 @@
             "enabled": true,
             "distribution": "0",
             "sharing_group_id": "0",
-            "tag_id": "26",
+            "tag_id": "7",
             "default": false,
             "source_format": "freetext",
             "fixed_event": true,
@@ -738,13 +738,13 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
-            "id": "26",
-            "name": "APT38(Mandiant)",
-            "colour": "#422f2f",
+            "id": "7",
+            "name": "malicious",
+            "colour": "#0748F3",
             "exportable": true,
             "org_id": "0",
             "user_id": "0",
@@ -753,6 +753,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
@@ -1674,7 +1690,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "0",
+            "event_id": "1437",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
