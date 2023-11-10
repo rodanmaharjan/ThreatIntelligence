@@ -130,7 +130,6 @@
 104.156.227.195
 77.91.124.20
 185.246.220.85
-
 185.246.220.60
 171.22.30.147
 167.99.157.221
@@ -157,7 +156,6 @@ update.ajaxrenew.com
 peek.openssl-digicert.xyz
 api.wensente.xyz
 api.microsoftlab.xyz
-www.securityondemand.com
 svchost.com
 lockbitks2tvnmwk.onion
 lockbit-decryptor.com
@@ -179,7 +177,6 @@ lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion
 ads.softupdt.com
 guteyutur.com
 aviadronazhed.com
-top10-webhosting.com
 informatify.net
 mail.vrgenergy.com
 mail.kulanitech.co.za
@@ -242,7 +239,6 @@ www.haremp.xyz
 www.hampyko.online
 www.gawiul.xyz
 www.eroptik.online
-www.cvbiop.xyz
 www.crtinha.xyz
 www.blemchi.xyz
 mail.pumaelektrik.com
@@ -287,7 +283,6 @@ www.koyesses.site
 www.hurloic.xyz
 www.hexopb.xyz
 www.genmanty.site
-www.firmart.info
 www.fatsecing.xyz
 www.cahxary.site
 example-rooms.at.ply.gg
@@ -325,7 +320,6 @@ www.cunnters.com
 www.blendeqes.com
 polog-55212.portmap.host
 out.ezvizv.top
-mail.icecleancare.com
 mail.bosphoreqroup.com
 zeo-unusual-activity-com.chanellelakin.ml
 mail.ppecindia.com
@@ -343,21 +337,15 @@ koreamonitoring.com
 www.userflo.top
 www.shapshit.xyz
 www.naruot.xyz
-www.mfoles.xyz
-www.mentospk.online
 www.lorsize.xyz
 www.hopspot.info
 www.gadpuch.website
 www.fluttering.info
-www.fashiontwin.info
 www.doyuip.xyz
-mail.rapidcheckng.com
-mail.blocexpert.eu
-vacanzeposada.it
 avpqsnyw3.cf
 albacomplett.hu
-www.fdtyop.xyz
 www.fitwatz.online
+
 www.jumtix.xyz
 www.ringdrive.website
 www.slebuild.com
