@@ -711,9 +711,7 @@
 107.189.30.22
 107.189.3.60
 107.189.29.41
-
 107.189.28.241
-107.189.28.205
 107.189.28.102
 107.189.28.100
 107.189.14.27
@@ -729,7 +727,6 @@
 107.189.1.178
 107.173.159.48
 107.170.108.222
-107.152.35.64
 107.150.36.162
 104.244.79.234
 104.244.78.18
@@ -748,7 +745,6 @@ itineraries8.com
 quititamorn.com
 srsp.app
 firtoky.online
-s7.krakenfiles.com
 grouppoprius.info
 tanaadd.info
 negerbajs.info
@@ -799,6 +795,7 @@ grainespotager.com
 downhomecoastal.com
 asos-boost.com
 goldenfestivals.com
+
 activ8brace.com
 grunge.mom
 livingsouthshore.com
