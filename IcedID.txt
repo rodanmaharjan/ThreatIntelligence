@@ -217,8 +217,6 @@
 5.199.173.217
 185.82.127.120
 185.82.127.125
-
-
 94.140.115.178
 94.140.115.205
 85.239.53.13
@@ -5022,12 +5020,4 @@ d26154c0f3b38b6e7a83b02667350882
 159.89.116.11
 80.66.64.15
 194.168.175.226
-193.108.114.41https://testserbia.com/wp-content/out/k.php
-https://officialk2spice.com/out/k.php
-18eae2672afac0420b867971413ab38142f3a1623b9462d36dbcfa5b98d859f4
-https://testserbia.com/wp-content/out/k.php
-https://officialk2spice.com/out/k.php
-18eae2672afac0420b867971413ab38142f3a1623b9462d36dbcfa5b98d859f4
-https://testserbia.com/wp-content/out/k.php
-https://officialk2spice.com/out/k.php
-18eae2672afac0420b867971413ab38142f3a1623b9462d36dbcfa5b98d859f4
+193.108.114.41
