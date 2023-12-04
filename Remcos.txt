@@ -2746,12 +2746,10 @@ pandemic4u0.awsmppl.com
 williamsmack.duckdns.org
 dominoduck2120.duckdns.org
 systen32.ddns.net
-
 win.updated.dns-dns.com
 coemxarre.duckdns.org
 dansanija.duckdns.org
 remco102.duckdns.org
-coolcc1.xzy
 miklo2600.ddns.net
 galo.servehttp.com
 tprerem2.ddnsfree.com
@@ -2849,6 +2847,7 @@ newdawn.zapto.org
 recomwest.duckdns.org
 electroking444.hopto.org
 jkamani.xyz
+
 dpqw-avira.bot.nu
 johanvargas97832.duckdns.org
 lunesgermanarellanos.con-ip.com
