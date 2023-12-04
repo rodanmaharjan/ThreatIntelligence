@@ -2644,7 +2644,6 @@ MICXRUS.RU
 katruda.duckdns.org
 helisaclou.helisaclou.com
 vccdata.duckdns.org
-
 drgeraldvanluven12.zapto.org
 rober.con-ip.com
 mayo202020junio.duckdns.org
@@ -2721,7 +2720,6 @@ camrow1.duckdns.org
 mychi.hopto.org
 lifeless.gotdns.ch
 rambolastblood.ddns.net
-coolta2.xzy
 lovelead.ydns.eu
 futy676.com
 www.temmermerble.com
@@ -2748,6 +2746,7 @@ pandemic4u0.awsmppl.com
 williamsmack.duckdns.org
 dominoduck2120.duckdns.org
 systen32.ddns.net
+
 win.updated.dns-dns.com
 coemxarre.duckdns.org
 dansanija.duckdns.org
