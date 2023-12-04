@@ -2155,7 +2155,6 @@ mypepsi25.duckdns.org
 reboot.duckdns.org
 ms60tzel1.ddns.net
 u875414.nvpn.to
-
 Bruno2.camdvr.org
 cdtsupremo.duckdns.org
 hjduiebcvzcalpmjdbcnwqadhsiybcnzxswedgap.ydns.eu
@@ -2252,7 +2251,6 @@ goodluckfile.ddns.net
 pruebaventidos124235.duckdns.org
 ezfax2021.home-webserver.de
 quaxim.ocry.com
-winvohost@ddns.net
 brianaf511.duckdns.org
 cobeckconstruction5430317.camdvr.org
 inforosi3m.hopto.org
@@ -2314,6 +2312,7 @@ pcent4real.ddns.net
 Toolz.mywire.org
 mekremcos23.freedynamicdns.net
 jluxi.dynu.com
+
 remcos.kolisis.space
 superboard.ddns.net
 rominar247.ddns.net
