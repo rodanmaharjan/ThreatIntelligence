@@ -421,3 +421,6 @@ tos.viewdobdrv.com
 cdn.boxmedrbopdrv.com
 172.67.216.253
 46.101.78.238
+198.187.31.48
+178.33.94.35
+gtopakistan.org
