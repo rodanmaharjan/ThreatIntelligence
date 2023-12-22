@@ -5291,7 +5291,6 @@
 87.251.71.153
 193.38.55.34
 185.212.129.114
-
 80.92.206.128
 213.226.71.78
 77.246.144.82
@@ -5299,11 +5298,9 @@
 176.9.20.73
 185.233.80.56
 188.213.167.248
-188.119.112.43
 87.251.71.204
 141.136.0.119
 185.14.28.213
-188.165.156.214
 86.105.252.237
 45.67.231.8
 94.140.114.44
@@ -5326,7 +5323,6 @@
 87.251.71.148
 93.115.20.205
 5.101.66.180
-195.123.208.194
 31.148.99.134
 194.87.145.184
 45.67.228.147
@@ -5382,7 +5378,6 @@ pallasing.top
 crackwesofts.com
 gimp.ink
 gfibp.world
-amazon.co
 oukailab.com
 js-jquerylibs.com
 techit.top
@@ -5430,8 +5425,8 @@ proxmoxfox.xyz
 theloder.top
 goldfrommadagaskar.pw
 promo-usa.info
-cdn.ngrok.com
 eltem.iptime.org
+
 elx01.knas.systems
 citasgobmx.com
 www.fabio.tools
