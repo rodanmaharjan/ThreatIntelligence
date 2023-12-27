@@ -2026,5 +2026,63 @@
             "restricted_to_domain": "[]",
             "landingpage": null
         }
+    },
+    {
+        "Feed": {
+            "id": "364",
+            "name": "IOC related to Agent Tesla",
+            "provider": "Vairav",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Agent_Tesla.txt",
+            "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
+            "enabled": true,
+            "distribution": "0",
+            "sharing_group_id": "0",
+            "tag_id": "865",
+            "default": false,
+            "source_format": "freetext",
+            "fixed_event": true,
+            "delta_merge": true,
+            "event_id": "0",
+            "publish": true,
+            "override_ids": false,
+            "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
+            "input_source": "network",
+            "delete_local_file": false,
+            "lookup_visible": false,
+            "headers": "",
+            "caching_enabled": true,
+            "force_to_ids": false,
+            "orgc_id": "1",
+            "cache_timestamp": false
+        },
+        "Tag": {
+            "id": "865",
+            "name": "Agent Tesla",
+            "colour": "#526532",
+            "exportable": true,
+            "org_id": "0",
+            "user_id": "0",
+            "hide_tag": false,
+            "numerical_value": null,
+            "is_galaxy": false,
+            "is_custom_galaxy": false,
+            "local_only": false
+        },
+        "Orgc": {
+            "id": "1",
+            "name": "Vairav",
+            "date_created": "2023-06-26 16:57:40",
+            "date_modified": "2023-07-07 15:50:14",
+            "description": "Automatically generated admin organisation",
+            "type": "ADMIN",
+            "nationality": "Nepal",
+            "sector": "CSOC",
+            "created_by": "0",
+            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
+            "contacts": "",
+            "local": true,
+            "restricted_to_domain": "[]",
+            "landingpage": null
+        }
     }
 ]
