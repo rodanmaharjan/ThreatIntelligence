@@ -25529,7 +25529,6 @@ eb12182c11360af8abca2a471d63e3cbc7af85ed
 84cc6e8b28395047969c6144f12c3b4157866d6a
 147.139.212.210
 https://funtermedia.com/Read/_admin/92UMHKQR
-101.35.253.212
 14.225.19.116
 106.54.216.162
 101.201.37.74
@@ -25540,7 +25539,6 @@ https://47.109.102.98/jquery-3.3.1.min.js
 http://115.159.50.50:8099/image/
 178.128.156.84
 5.255.108.225
-49.232.214.202
 8.138.82.105
 https://www.goodljlagfhss.live/sitemap
 110.40.192.122
@@ -25568,7 +25566,6 @@ https://120.27.148.91:8443/api/3
 http://147.139.212.210/cx
 redirector2.asaicell.com
 124.221.209.99
-43.138.30.109
 175.178.45.17
 https://8.142.5.148/ca
 45.134.225.243
@@ -25645,7 +25642,6 @@ http://43.138.106.54:789/fwlink
 138.128.215.52
 147.78.47.226
 91.202.204.112
-43.153.222.28
 http://1.14.92.24:10001/activity
 167.179.97.219
 www.temt.top
@@ -25663,14 +25659,12 @@ https://124.223.38.97/load
 http://101.201.37.74/en_US/all.js
 http://148.135.116.42:81/updates.rss
 8.134.161.181
-106.14.38.113
 http://cdn.ctfmall.com/mall_100_100.html
 http://45.134.225.243/push
 104.143.47.197
 https://risohufo.biz/da.html
 http://123.60.90.39:8888/pixel.gif
 198.98.62.146
-106.52.253.80
 117.72.13.228
 www.goodljlagfhss.live
 https://cdn.certificate-update.net:8443/jquery-3.3.1.min.js
@@ -25692,7 +25686,6 @@ http://104.131.3.3/__utm.gif
 http://91.202.204.112/en_US/all.js
 149.88.75.219
 http://43.138.30.109:9999/ga.js
-1.15.189.30
 43.138.106.54
 aircore.com
 1.14.92.24
@@ -25709,7 +25702,6 @@ https://194.87.106.235/jquery-3.3.1.min.js
 154.22.168.23
 http://124.70.187.37:7777/g.pixel
 https://104.143.47.197/jquery-3.3.1.min.js
-101.43.165.220
 https://microsofts.zone/search.aspx
 150.158.50.177
 167.179.104.154
@@ -25737,7 +25729,6 @@ http://103.116.245.130:8087/cx
 62.234.27.204
 http://175.178.45.17:7777/dpixel
 https://62.234.27.204/IE9CompatViewList.xml
-45.11.46.50
 115.159.50.50
 47.115.203.107
 45.77.76.149
@@ -25787,11 +25778,9 @@ http://60.204.229.189:8888/cm
 http://134.122.75.115:26/ga.js
 http://157.245.28.175:8000/quit/fk/B4ZAO0SJ2
 124.221.50.168
-110.40.195.32
 39.109.113.130
 103.116.245.130
 140.82.52.76
-147.78.47.231
 149.88.69.102
 118.195.148.92
 115.159.64.94
@@ -25847,7 +25836,6 @@ treotins.com
 http://116.62.164.213/push
 sinceflare.com
 https://treotins.com/define/containers/LI74KN0F
-139.159.203.44
 47.242.158.114
 154.12.84.90
 https://47.242.158.114/en_US/all.js
@@ -27790,7 +27778,6 @@ podisong.su
 http://43.138.187.61:6666/j.ad
 https://103.39.78.153/__utm.gif
 http://68.183.77.192/jquery-3.3.1.min.js
-47.94.43.210
 188.166.78.67
 47.105.69.34
 47.92.146.116
@@ -29600,8 +29587,6 @@ cab4cbef593db0f14ed4adf041ecd6b1
 7c89590cea3b702c84d3b1a566705067d4bde1b97ecd160d553ff1380e0ef5a6
 9b39887828999f7f3916262574c46b835d38f200fcd3c07c2bbe9a83c9f935a9
 4aa4ee8efcf68441808d0055c26a24e5b8f32de89c6a7a0d9b742cce588213ed
-23.108.57.83
-31.41.244.192
 df024e7ae2ff6cef51ee80d30f10f94233a5ddd62da22ecf3c6ab3ebc293264b
 f25863daa1ad0104b25b91581f7b1cc4f65ca63ff4d1bb956ecd3f9350e365a5
 dbe18ffc724931dee3ea99c75c9b4ea8e27b228e19508211689cc7c3249680d3
@@ -29826,7 +29811,6 @@ http://216.250.96.223:8888/ca
 147.139.32.75
 139.224.188.139
 https://147.139.32.75/visit.js
-124.71.212.123
 https://service-o8td9qbo-1305780540.hk.apigw.tencentcs.com/api/getit
 http://124.71.212.123:9999/visit.js
 http://139.224.188.139:50000/ca
@@ -29835,7 +29819,6 @@ https://82.156.29.211/ptj
 https://service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com/api/x
 81.68.117.126
 42.192.220.49
-82.156.29.211
 37.221.67.17
 1.14.45.126
 45.63.120.203
@@ -29843,7 +29826,6 @@ https://service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com/api/x
 165.227.141.64
 223.165.4.28
 20.120.177.99
-82.157.173.159
 104.131.64.125
 23.95.130.5
 83.166.240.52
@@ -29912,7 +29894,6 @@ https://service-qsbfdyq7-1318430534.sh.apigw.tencentcs.com/api/getit
 38.147.172.88
 https://www.iii-service.com/jquery-3.3.1.min.js
 www.iii-service.com
-121.4.154.20
 https://38.147.172.88/5eN1bjq8AAUYm2zgoY3K/ll_9354efa.js
 https://106.14.141.187:8443/pixel
 198.211.5.240
@@ -29932,7 +29913,6 @@ CVE-2023-42116
 CVE-2023-44487
 CVE-2023-4211
 CVE-2023-22515
-194.26.29.99
 http://82.157.173.159:7778/activity
 123.60.97.110
 http://www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com/oscp/
@@ -29945,13 +29925,11 @@ https://47.104.65.150:9000/cx
 47.104.65.150
 http://121.4.50.245:8012/ca
 106.75.2.243
-81.68.115.220
 101.42.170.233
 124.221.15.9
 94.23.121.241
 185.154.52.150
 45.195.54.184
-39.105.93.251
 42.51.33.45
 47.120.2.145
 172.104.76.209
@@ -29959,19 +29937,15 @@ http://121.4.50.245:8012/ca
 47.243.139.176
 209.146.124.198
 104.168.59.9
-139.155.42.254
 124.223.177.244
-1.116.156.228
 66.112.210.205
 192.3.76.138
 34.150.32.61
-81.71.68.50
 114.132.56.13
 118.195.147.172
 179.43.142.53
 118.195.246.136
 106.53.117.19
-175.178.3.16
 138.68.129.245
 143.244.168.80
 165.22.216.75
@@ -29985,7 +29959,6 @@ http://121.4.50.245:8012/ca
 141.164.38.5
 72.44.69.115
 198.74.112.233
-124.220.215.247
 138.68.171.72
 http://bazzinkki.org/Homepage
 cpcalendars.epsjournal.org.uk
@@ -30348,12 +30321,9 @@ https://pukalanifloral.com/
 https://laneutral.com.uy/
 http://bazzinkki.org/nd
 https://siliclab.mx/blogs/weed/como-evitar-los-munchies
-http://bazzinkki.org/~martin4d/docs/da.zip/dav
 https://shop.alpine.it/collections/advanced-dash-cam
 http://bazzinkki.org/~martin4d/Docs/da.zip/dav/index.php
-http://bazzinkki.org/nD/index.php
 https://rivnobuhikostore.com/
-http://bazzinkki.org/~martin4d/docs/da.zip/dav/index.php
 https://freshnlocal.org.uk/collections/fruit
 https://thelittlegreenbean.com/collections/all-kits
 http://www.bebetterstudios.com/
@@ -30382,7 +30352,6 @@ http://suffa.sch.sa/
 http://www.jenniferanncharters.com/pages/about.ht
 http://sophiaperennis.com
 http://www.jenniferanncharters.com/
-http://donothing.wtf/~martin4d/docs/da.zip/dav/index.php
 http://satzire.com/images/u5f6dhs/mail.ru.nl.html
 http://livewallpapercreator.com/download.htm
 http://fix.sa/
@@ -30413,7 +30382,6 @@ http://shoelessdesigns.com/demos/2015/simplistictwo/Preview.htm
 https://devakuval.com
 https://shoelessdesigns.com/demos/2015/sweetjane/preview.html
 https://dashilan.asia
-http://shoelessdesigns.com/switcher/2015/flyaway/preview.html
 http://shoelessdesigns.com/demos/2015/pamperedkitty/Preview.html
 https://c1000.ru
 https://www.shoelessdesigns.com/demos/2015/pamperedkitty/Preview.html
@@ -30466,7 +30434,6 @@ https://ourdjtalk.com/threads/gmi-pro-1100-power-amp-to-buy-or-not-to-buy-that-i
 http://www.word-2010.com/insert-a-check-box-in-microsoft-word-2010/
 https://homeschool.rebeccareid.com/its-snow-season-zoo-flakes/
 https://dotmall.co.za/products/clere-pure-protect-instant-hand-sanitiser-round-bottle-gel-250ml-12-pack
-http://bazzinkki.org/nD
 http://thisnthatfltv.com
 http://reviews.rebeccareid.com/my-lady-ludlow-by-elizabeth-gaskell/
 http://tarteb.edu.sa
@@ -31213,7 +31180,6 @@ http://www.sprakebuilders.co.uk/Spring-Autumn-Official-Popular-Womens-Shoes-Nike
 http://emailadrifthotels.com/cgi-bin/unsub.cgi?mid=30ba12d0d40bc0bb0an0bh11d0dm0eu0bl0ak00
 http://goldenhome.info/wp-content/uploads/2022/06/arihconc.pdf
 http://photoboothsuk.co.uk/blog/wp-includes/blocks
-http://satzire.com/images/U5f6dHS/mail.ru.nl.html
 http://goldenhome.info/wp-content/uploads/2022/06/abylon_FREEHASH.pdf
 http://www.uieasy.com/download/DSkinLite3.2_Trial_EN_Setup.exe
 http://www.dolcejewels.com/get_flash_update.exe
@@ -31281,7 +31247,6 @@ http://www.nimtax.com/b18/
 https://whatshacken.com/i300h.php/o3r5x.xml/
 https://whatshacken.com/ulcud.html/
 https://imap.venexus.com
-http://www.nimtax.com/k9/
 http://www.nimtax.com/ne/?PBZ0=a64oL9eSYaTzDtiwLIodkFlMg7VE4yWDcXC7AjMnK03sF/WOQehpgg1Vs8u3RxUTk94=&amp;kxlpd=Ob28LRO
 http://www.nimtax.com/c2h/
 http://www.nimtax.com/nx/
@@ -32326,7 +32291,6 @@ a10ab291510b565e45375cffcd4ca0cd9cfd2831da8dc26b83b24476a9a39696
 a013010fda6fba116d3182c17bee2c5ff4e15c36a2c03be22f7235ef58e730bb
 9b46dd829da73d35df81f6e591fcbb5b16afe00a14ac6de908e81832fa043a25
 188.114.97.14
-188.114.96.7
 a69bbf1e140ff03926c490a91b2847684db493617b53bdda925b14dff9201d2c
 a9c77b7c531c2f82ecbad3e8769aae1553f697e48b4dd28132a2b04870989d76
 abb75a67779de3bb7ea6cc3cc7cfda8da2e447bad7ec4e0acc6076c9bb87d160
@@ -32605,7 +32569,6 @@ ns2.beluo.net
 orders.cook-berlin.de
 secondary.dns.yandex
 intranet.affiliboard.com
-172.64.80.1
 webdisk.mylg.io
 ns4.b-isp.net
 v6.gnt.bz
@@ -33091,11 +33054,8 @@ http://xzzs.gg9999cccj.top
 52bf8b2fa4b44cb8a26682c130412fe70c61a14bfda0ce632d248b8ac7dfc27d
 173.194.79.94
 53e642bc6d667ba9896690ae2e7b584cf9b8bc1e188384bce7f35d5f1e11182c
-188.114.96.3
 188.114.97.2
-188.114.97.3
 173.194.79.136
-188.114.97.7
 4846e00372890b764851cb6fb9c1b3aa32920493492b887ca9fe2b24cb80fe98
 49482da73ba22d6a13151c1ff10fb6e4bd7491b78230c1db51a05e42ff17b80d
 4a44ac790f6f4b4c78cb4e0a5ed7a61c2d5f87030fe4b6f39b264c90ec741feb
@@ -33652,14 +33612,11 @@ http://45.152.64.178:8086/j.ad
 https://help.softbank-onlineservice.com/activity
 https://124.70.19.189/ptj
 http://172.173.122.38/_/scs/mail-static/_/js/
-119.23.52.84
 https://47.118.48.188/activity
 https://185.225.75.86/jquery-3.3.1.min.js
 zzerxc.com
 cs.vegaking.xyz
-8.130.84.57
 152.89.198.175
-43.154.14.120
 http://119.23.52.84:8000/j.ad
 http://8.130.84.57/cm
 http://43.154.14.120/push
@@ -33680,8 +33637,6 @@ http://206.238.42.198/pixel
 118.195.131.112
 204.48.24.224
 173.82.252.86
-49.233.56.4
-110.42.213.232
 23.95.187.79
 39.98.107.227
 111.230.253.238
@@ -33690,7 +33645,6 @@ http://111.229.116.4:8090/activity
 http://39.98.107.227/dot.gif
 http://111.230.253.238/forum.php
 106.14.141.187
-47.104.179.218
 38.54.71.202
 113.31.111.220
 http://114.132.56.13:8080/pixel
@@ -33698,7 +33652,6 @@ http://service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com/pixel.gif
 http://47.104.179.218:2222/pixel.gif
 qocmkassa.store
 http://118.195.147.172/ga.js
-206.238.42.198
 https://38.54.71.202/g.pixel
 https://118.195.246.136/ga.js
 179.60.149.244
@@ -33710,11 +33663,9 @@ https://qocmkassa.store/jquery-3.3.1.min.js
 da299be7f0cc9d71cdea150c0951dd6e4b121b65882a5bf2826f59dd02ea0ab5
 82.156.148.34
 123.249.100.70
-50.3.132.232
 188.166.181.34
 http://123.249.100.70/visit.js
 47.104.236.113
-39.98.48.153
 http://124.221.183.95:4567/push
 148.66.2.197
 http://81.71.68.50:8099/search/
@@ -33741,7 +33692,6 @@ https://66.112.210.205/pixel
 154.7.253.203
 154.7.253.191
 45.155.37.136
-212.118.55.225
 212.118.42.219
 45.155.37.142
 45.8.191.141
