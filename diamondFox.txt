@@ -461,7 +461,6 @@ http://pingvinic1998.dynu.net/fox/
 http://plasma-shadow.comxa.com/forum/Panel/
 http://plat-oplat.ru/Panel/
 http://pokemonburn.com/d1/
-
 http://poleneitor.com/fox/
 http://popovalx.shn-host.ru/
 http://portunlock.ml/
@@ -496,7 +495,6 @@ http://razorcap.pw/fonts/test/
 http://rechargeyourkarma.org/image/
 http://redmand.shn-host.ru/
 http://reggiemenacherry.in/wp-includes/css/DF/
-http://returnme.host78.com/Panel/
 http://reversed.hol.es/Panel/
 http://rietx.blg.lt/Panel/Panel/
 http://roast-bones.fr/Panel/
@@ -506,8 +504,6 @@ http://rss.mrx.com/cache/
 http://rss.updatewindow.xyz/ff/
 http://rumahmurahbekasi.co.id/wp-includes/wp-posts/gig/wp-hosts/hosts-ftp/
 http://s.icab.pk/d/
-http://s1.sociumin.com/
-http://s28977-hostde2.fornex.org/
 http://s62408.smrtp.ru/
 http://saasport.com/wp-secure/
 http://safesecuresurf.ml/fun/
@@ -570,6 +566,7 @@ http://tambakikan.com/
 http://tbhwrm1.org/foxe/
 http://tech-dan.pw/d1/Panel/
 http://tech-dan.pw/d2/Panel/
+
 http://tech-dan.pw/d3/Panel/
 http://tech-jay.com/grace/panel/
 http://tech-keem.pw/local/
