@@ -688,7 +688,6 @@ http://www.eternityshares.com/tmpl/customs/
 http://www.europedirect-katowice.pl/ed_old/modules/mod_djimageslider/assets/slider3/
 http://www.facebookfinder.com/DF/
 http://www.falderons.xyz/Panel/
-
 http://www.firelionnet.com/Panel/
 http://www.freexbl.co/Panel/
 http://www.gertrtool.com/panel/
@@ -778,7 +777,6 @@ http://www.yumate.co/DFpanel/
 http://x0.hopto.org/
 http://xake.tk/DiamondFox/
 http://xbot.me/
-http://xenoz1212.ddns.net/
 http://xenvpn.one/gor/Panel/
 http://xlowfznrg4.ru/doc_c/team-N00B/
 http://xnajsdasjd23.pw/1/
@@ -801,6 +799,7 @@ http://zeroci.club/kins/
 http://zeroxa.club/unk_priv/
 http://zombieants.biz/zombieant/password/
 http://zombiebear.eu.pn/
+
 http://zpanel123.com/Panel/
 http://00bot.asterios.ws/fox/
 http://0nline.pro/koimages/mond/Panel/
