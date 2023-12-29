@@ -566,7 +566,6 @@ http://tambakikan.com/
 http://tbhwrm1.org/foxe/
 http://tech-dan.pw/d1/Panel/
 http://tech-dan.pw/d2/Panel/
-
 http://tech-dan.pw/d3/Panel/
 http://tech-jay.com/grace/panel/
 http://tech-keem.pw/local/
@@ -666,7 +665,6 @@ http://www.biteskillerr.net/errorpage/a02/
 http://www.blackshadowsecurity.com/Panel/
 http://www.botwest.net/pic/wordpress/wp-includes/Text/Diff/Engine/Panel/
 http://www.btopenwor1d.com/Panel/
-http://www.cancer.com/gate.php/
 http://www.cata-coin.net/control/Panel/
 http://www.cataclysm-net.cf/Panel/
 http://www.chcfi.com/themes/wind/views/chinese/
@@ -690,6 +688,7 @@ http://www.eternityshares.com/tmpl/customs/
 http://www.europedirect-katowice.pl/ed_old/modules/mod_djimageslider/assets/slider3/
 http://www.facebookfinder.com/DF/
 http://www.falderons.xyz/Panel/
+
 http://www.firelionnet.com/Panel/
 http://www.freexbl.co/Panel/
 http://www.gertrtool.com/panel/
