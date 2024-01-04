@@ -1,8 +1,6 @@
 194.126.178.8
 173.239.196.66
 88.209.251.6
-194.126.178.8
-88.209.251.6
 74.124.219.71
 czyrqdnvpujmmjkfhhvs4knf1av02demj.oast.fun
 czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast.fun
@@ -23,15 +21,6 @@ nas-files.firstcloudit.com
 e-nas.firstcloudit.com
 ua-calendar.firstcloudit.com
 webmail.facadesolutionsuae.com
-9724cecaa8ca38041ee9f2a42cc5a297
-5f126b2279648d849e622e4be910b96c
-8d1b91e8fb68e227f1933cfab99218a4
-6fdd416a768d04a1af1f28ecaa29191b
-5db75e816b4cef5cc457f0c9e3fc4100
-6128d9bf34978d2dc7c0a2d463d1bcdd
-825a12e2377dd694bbb667f862d60c43
-acd9fc44001da67f1a3592850ec09cb7
-18f891a3737bb53cd1ab451e2140654a376a43b2d75f6695f3133d47a41952b6
 201.209.109.48
 178.151.9.208
 185.93.69.233
@@ -152,6 +141,7 @@ acd9fc44001da67f1a3592850ec09cb7
 74.82.47.42
 144.126.133.220
 185.86.149.54
+
 147.182.148.129
 176.10.99.200
 167.172.36.124
@@ -173,7 +163,6 @@ acd9fc44001da67f1a3592850ec09cb7
 42.3.111.5
 52.242.97.97
 103.208.86.57
-194.126.178.8
 185.141.105.118
 185.216.35.10
 167.248.133.150
@@ -220,7 +209,6 @@ acd9fc44001da67f1a3592850ec09cb7
 85.84.54.164
 217.245.138.44
 92.114.92.102
-88.209.251.6
 8.248.137.254
 101.99.92.104
 123.14.82.146
@@ -239,7 +227,6 @@ acd9fc44001da67f1a3592850ec09cb7
 81.220.4.47
 175.111.114.180
 52.203.137.7
-74.124.219.71
 185.86.150.205
 23.216.147.134
 2.18.79.138
@@ -474,7 +461,6 @@ acd9fc44001da67f1a3592850ec09cb7
 103.77.78.55
 200.146.221.212
 58.158.177.102
-173.239.196.66
 24.142.165.2
 168.205.200.55
 87.248.119.251
@@ -552,7 +538,6 @@ acd9fc44001da67f1a3592850ec09cb7
 86.106.131.54
 217.249.72.125
 2.21.20.160
-173.239.196.198
 217.245.128.67
 101.99.92.108
 185.25.51.198
@@ -767,7 +752,6 @@ a96f4b8ac7aa9dbf4624424b7602d4f7
 524665cc265015fcc38888f65e756f56
 35eb9e586dfef4b385d4ee13a85e29de
 d3d83c4c9daf9beb571f2cdcbc5ecf40
-3951e4409e66a767af53ee9a920386b9
 e00216958f15f1db6371b583a3ea438a
 b66cb10e6adc64faf3269e0af489ed38
 3b43d392c7cd67a5c05c7d011cadae68
@@ -829,7 +813,6 @@ ee788901cd804965f1cd00a0afc713c8623430c4
 951993a2351f5fc7374eb38d6610006959a46692
 da7323c97e509f9311a2382310ad4876f5e3ee55
 b39f30aeeaa48da28242986f895b3ce37af530c8
-e9db80181b228d347e8a0c1f5fd3487c143bfd3f
 58c835fbd1a775497483951989c8bda48027e283
 2462b7ed405a8c5df8b2942b83110060ec2720c7
 79c4d5648162d72cfd31fffe301a303e5a5cde14
@@ -883,12 +866,12 @@ b5a48774d8bb4ca69a2f445f7934c7f324e2bfc7
 770d774333712a3c3e7415986d5557aa33765373
 ddaa06a4021baf980a08caea899f2904609410b9
 fcaf99d63fab1290c63d664c79925ee83e8193c2
+18f891a3737bb53cd1ab451e2140654a376a43b2d75f6695f3133d47a41952b6
 efb235776851502672dba5ef45d96cc65cb9ebba1b49949393a6a85b9c822f52
 b221be7a8171ea4c0926d70c304afb20b75133540430569c7c25d5a8a0b1ccd7
 48505c956c005576b1292495102a5a4d37a830dc936ce85204d2783e13082c1f
 d06be83a408f4796616b1c446e3637009d7691c131d121eb165c55bdd5ba50b4
 aa6f1c573cdc3ca5d549934b57ddf77eff977efc3ed9b4724e64e6ea42ac57e5
-18f891a3737bb53cd1ab451e2140654a376a43b2d75f6695f3133d47a41952b6
 0860f29226069a732f988cb70ea6d51057d204d421bb709b8e759376b0c4d201
 a1c73ce193ffa5323aaef73fbabbc2a984e10900f09cf9fcb0cb11606a23c402
 c4be15f9ccfecf7a463f3b1d4a17e7b4f95de939e057662c3f97b52f7fa3c52f
@@ -1046,7 +1029,6 @@ pd9f9402e.dip0.t-ipconnect.de
 f.77.83.36.36.outlook.fxtsport.com
 downloadfile.infinityfreeapp.com
 centurylink.com.co
-ua-calendar.firstcloudit.com
 hkcable.com.hk
 aspelldicts.br
 rubypackages_3_3.date
@@ -1080,9 +1062,7 @@ otenet.gr
 Sysanalyticweb.com
 chickenpackages_5.chickeneggs.rest
 static-mum-182.59.120.36.mtnl.net.in
-e-nas.firstcloudit.com
 system-update.is
-sysanalyticweb.com
 197.254.97.186.acesskenya.net
 tests.pkg-config.defaultpkgconfigpackages.gl
 emacspackages.auto
@@ -1332,7 +1312,6 @@ python312packages.parts
 www.ineedadesk.com
 abissnet.al
 rubypackages.gh
-czyrqdnvpujmmjkfhhvsclx05sfi23bfr.oast.fun
 emacspackages.pet
 jerry-se-do-ap-south-scanners-9.do.binaryedge.ninja
 test.ergoserver.de
@@ -1415,7 +1394,6 @@ mvband.net
 haskellpackages.bank
 pd9f94bd0.dip0.t-ipconnect.de
 c213-103-157-224.bredband.tele2.se
-webstp.com
 emacspackages.fit
 cpe-415383.ip.primehome.com
 apple-checker.org
@@ -1741,14 +1719,12 @@ Treckanalytics.com
 remotepx.net
 python312packages.email
 vimplugins.live
-Secao.org
 linuxpackages_xanmod.new
 odedi26617.mywhc.ca
 emacspackages.show
 scanner-13.ch1.censys-scanner.com
 grandlagoi.com
 pppoe-217-23-74-198-fix-srv.volgaline.ru
-czyrqdnvpujmmjkfhhvsvlaax17vd5r6v.oast.fun
 emacspackages.media
 righttopregnantpower.com
 Msfontserver.com
@@ -1762,7 +1738,6 @@ chickeneggs.icu
 host-61.181-94-227.personal.net.py
 gw.stsecurity.cz
 aspelldicts.hu
-nas-files.firstcloudit.com
 chickenpackages_5.chickeneggs.fast
 php81packages.box
 pd9f581e8.dip0.t-ipconnect.de
@@ -1823,7 +1798,6 @@ hunspelldicts.fr
 encoder-info.tk
 ip124.ip-15-235-0.net
 python311packages.moto
-elaxo.org
 haskellpackages.here
 sh1.zaminhost.com
 haskellpackages.in
@@ -1869,7 +1843,6 @@ defaultpkgconfigpackages.gl
 pd9f95f72.dip0.t-ipconnect.de
 python311packages.cx
 150-12-175-45.it-facilities.com.br
-Softupdates.info
 pd9f58e86.dip0.t-ipconnect.de
 python312packages.fast
 00emzon00.xyz
@@ -1920,13 +1893,11 @@ hunspelldicts.uk
 python311packages.ml
 68-74-205-213.lightspeed.hstntx.sbcglobal.net
 terraform-providers.aws
-czyrqdnvpujmmjkfhhvsgapqr3hclnhhj.oast.fun
 haskellpackages.search
 vimplugins.ai
 hunspelldicts.sv
 rubypackages_3_3.coffee
 coreshell-eg.com
-Remotepx.net
 scanner-23.ch1.censys-scanner.com
 76-222-216-88.lightspeed.rcsntx.sbcglobal.net
 Creekcounty.net
@@ -1996,7 +1967,6 @@ hunspelldicts.hr
 idrispackages.tf
 ewebguru.net
 telia.com
-jflynci.com
 93-182-74-253.netonline.net
 kyivstar.net
 defaultpkgconfigpackages.icu
@@ -2009,7 +1979,6 @@ emacspackages.tt
 186-224-14-122.client.aonet.com.br
 vnpt.vn
 python311packages.maison
-audiwheel.com
 aspelldicts.bg
 aspelldicts.pt
 Genericnetworkaddress.com
@@ -2051,7 +2020,6 @@ gnomeextensions.smart
 vimplugins.ag
 emacspackages.open
 linuxpackages_testing_bcachefs.new
-Loungecinemaclub.com
 haskellpackages.ses
 tmuxplugins.open
 hunspelldictschromium.de
@@ -2096,13 +2064,11 @@ n1164959242.netvigator.com
 haskellpackages.free
 pd9f94f2d.dip0.t-ipconnect.de
 41.72.203.182.liquidtelecom.net
-czyrqdnvpujmmjkfhhvs4knf1av02demj.oast.fun
 vmi783970.contaboserver.net
 webhook.site
 lifeofmentalservice.com
 Arg.8800.org
 gnomeextensions.weather
-Ikmtrust.com
 fire2wire.com
 rubypackages_3_1.safe
 rubypackages_3_1.rest
@@ -2186,7 +2152,6 @@ pd9f95f64.dip0.t-ipconnect.de
 ip-164-132-169.eu
 zg-0122b-101.stretchoid.com
 rackh.co.id
-webmail.facadesolutionsuae.com
 rubypackages_3_2.safe
 https://run.mocky.io/v3/c38aae63-8e21-4cbd-8269-ef4d477e9fb0
 http://mockbin.org/bin/
@@ -2200,19 +2165,14 @@ http://run.mocky.io/v3/<id
 https://run.mocky.io/v3/a68c1366-0359-4810-b16e-b37b32630109
 http://mockbin.org/bin/0b5ca9d1-c4a0-4932-ad0a-1327ef8377d1
 http://run.mocky.io/v3/30f152dd-b98a-40ac-bb9b-22984a306bed
-http://194.126.178.8/webdav/StrategyUa.pdf
 https://mockbin.org/bin/<id
 https://run.mocky.io/v3/e0687bb8-d14b-4ee0-8c47-202c5aaab48c
-https://nas-files.firstcloudit.com/
 http://downloadingdoc.infinityfreeapp.com/?id=61726832-e715-4f79-99e8-1587300c1035
 http://145.249.105.165/resource-store/stockroom-center-service/check.php
 http://mockbin.org/bin/e8bfd045-2b14-4afc-9372-b723f7d76918
-http://194.126.178.8/webdav/231130N581.pdf
 http://downloadingdoc.infinityfreeapp.com/execdwn.php?id=61726832-e715-4f79-99e8-1587300c1035
 https://mockbin.org/bin/7cc44695-0c31-4620-bed4-2e60adf0a4b6
 https://downloaddoc.infinityfreeapp.com/execdwn.php?id=6a98168f-f14f-4014-8b28-8329b0118936
-https://e-nas.firstcloudit.com/
-http://194.126.178.8/webdav/wody.zip
 https://200.122.181.25/catalog/products/books.php
 http://mockbin.org/bin/<id>/%env_var%
 https://mockbin.org/bin/6d907b84-c1cf-493e-82e2-37bdb99041c3/47
@@ -2227,9 +2187,7 @@ http://mockbin.org/bin/<id>/<cmd_output
 https://mockbin.org/bin/229f6d51-f534-466f-b642-e86811631083
 http://mockbin.org/bin/4aa17a07-7635-4ee0-9f3a-449fcd91f342
 https://run.mocky.io/v3/5b26d318-842a-410d-9459-b9ba0cc446f6
-http://194.126.178.8/webdav/wody.pdf
 http://185.203.118.198/en_action_device/center_correct_customer/drivers-i7-x86.php
-https://webhook.site/%GUID%
 https://run.mocky.io/v3/869e530a-51f7-4bec-ae6e-3effb1737691
 http://mockbin.org/bin/229f6d51-f534-466f-b642-e86811631083/
 http://supservermgr.com/sys/upd/pageupd.php
@@ -2252,7 +2210,6 @@ https://mockbin.org/bin/2e04b6dd-9e86-49ea-b08c-29312f0f2a39/%25dobpyk%25
 http://run.mocky.io/v3/cee6d18e-5adb-4fbd-b47b-989768473c66
 https://run.mocky.io/v3/%25GUID%25
 http://e-nas.firstcloudit.com/
-https://ua-calendar.firstcloudit.com/
 http://nas-files.firstcloudit.com/
 https://run.mocky.io/v3/e50601fc-54d8-49e9-8f3b-5cd2458ab300
 http://mockbin.org/bin/b8427b58-7497-46cd-a5b2-6ff6a40b4592
