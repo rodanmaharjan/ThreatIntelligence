@@ -384,6 +384,7 @@ python312packages.phone
 emacspackages.youtube
 emacspackages.cd
 haskellpackages.moto
+
 nvim-treesitter-parsers.ninja
 ms-python.black
 haskellpackages.do
