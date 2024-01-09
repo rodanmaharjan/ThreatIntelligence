@@ -1,7 +1,7 @@
 [
     {
         "Feed": {
-            "id": "318",
+            "id": "371",
             "name": "IPsum (aggregation of all feeds) - level 8 - no false positives",
             "provider": "IPsum",
             "url": "https://raw.githubusercontent.com/stamparm/ipsum/master/levels/8.txt",
@@ -14,7 +14,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1439",
+            "event_id": "1492",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\",\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -43,7 +43,7 @@
     },
     {
         "Feed": {
-            "id": "319",
+            "id": "372",
             "name": "Emoted IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/TI/main/Emotet.txt",
@@ -56,7 +56,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1440",
+            "event_id": "1493",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -85,7 +85,7 @@
     },
     {
         "Feed": {
-            "id": "320",
+            "id": "373",
             "name": "IcedID IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/TI/main/IcedID.txt",
@@ -98,7 +98,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1441",
+            "event_id": "1494",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -127,7 +127,7 @@
     },
     {
         "Feed": {
-            "id": "321",
+            "id": "374",
             "name": "ReadLine Stealer",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/RedLine%20stealer.txt",
@@ -140,7 +140,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1442",
+            "event_id": "1495",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -169,7 +169,7 @@
     },
     {
         "Feed": {
-            "id": "322",
+            "id": "375",
             "name": "ESXi Attack IPCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/ESXiArgs%20IOC.txt",
@@ -182,7 +182,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1443",
+            "event_id": "1496",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -211,7 +211,7 @@
     },
     {
         "Feed": {
-            "id": "323",
+            "id": "376",
             "name": "QakBot IOC",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/QakBot.txt",
@@ -224,7 +224,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1444",
+            "event_id": "1497",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -253,7 +253,7 @@
     },
     {
         "Feed": {
-            "id": "324",
+            "id": "377",
             "name": "FormBook",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Formbook.txt",
@@ -266,7 +266,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1445",
+            "event_id": "1498",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -295,7 +295,7 @@
     },
     {
         "Feed": {
-            "id": "325",
+            "id": "378",
             "name": "Beep Malware",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Beep.txt",
@@ -308,7 +308,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1446",
+            "event_id": "1499",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -337,7 +337,7 @@
     },
     {
         "Feed": {
-            "id": "326",
+            "id": "379",
             "name": "Smoke Loader",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Smoke%20Loader.txt",
@@ -350,7 +350,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1447",
+            "event_id": "1500",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -379,7 +379,7 @@
     },
     {
         "Feed": {
-            "id": "327",
+            "id": "380",
             "name": "SocGholish IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/SocGholish.txt",
@@ -392,7 +392,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1448",
+            "event_id": "1501",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -421,7 +421,7 @@
     },
     {
         "Feed": {
-            "id": "328",
+            "id": "381",
             "name": "Dridix IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Dridex.txt",
@@ -434,7 +434,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1449",
+            "event_id": "1502",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -463,7 +463,7 @@
     },
     {
         "Feed": {
-            "id": "329",
+            "id": "382",
             "name": "HiatusRAT Router Malware",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/HiatusRat.txt",
@@ -476,7 +476,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1450",
+            "event_id": "1503",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -505,7 +505,7 @@
     },
     {
         "Feed": {
-            "id": "330",
+            "id": "383",
             "name": "Ursnif malware IOC",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Ursnif.txt",
@@ -518,7 +518,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1451",
+            "event_id": "1504",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -547,7 +547,7 @@
     },
     {
         "Feed": {
-            "id": "331",
+            "id": "384",
             "name": "Log4Shell IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Log4j.txt",
@@ -560,7 +560,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1452",
+            "event_id": "1505",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -589,7 +589,7 @@
     },
     {
         "Feed": {
-            "id": "332",
+            "id": "385",
             "name": "CobaltStrike IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CobaltStrike.txt",
@@ -602,7 +602,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1453",
+            "event_id": "1506",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -631,10 +631,10 @@
     },
     {
         "Feed": {
-            "id": "333",
+            "id": "386",
             "name": "IOC related to APT38 (Mandiant)",
             "provider": "Vairav Technology",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT38(Mandiant).txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT38(Mandiant).txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -644,7 +644,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1454",
+            "event_id": "1507",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -654,7 +654,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -669,11 +669,27 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "334",
+            "id": "387",
             "name": "Diamond fox malware IOC",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/diamondFox.txt",
@@ -686,7 +702,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1455",
+            "event_id": "1508",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -715,7 +731,7 @@
     },
     {
         "Feed": {
-            "id": "335",
+            "id": "388",
             "name": "3CX campaign IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/3CX%20Campagin.txt",
@@ -728,7 +744,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1456",
+            "event_id": "1509",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -757,7 +773,7 @@
     },
     {
         "Feed": {
-            "id": "336",
+            "id": "389",
             "name": "Barracuda attack",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Barracuda.txt",
@@ -770,7 +786,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1457",
+            "event_id": "1510",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -799,7 +815,7 @@
     },
     {
         "Feed": {
-            "id": "337",
+            "id": "390",
             "name": "IOCs related to BlackCat ransomware gang",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/blackcat%20ransomware.txt",
@@ -812,7 +828,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1458",
+            "event_id": "1511",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"1\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -841,7 +857,7 @@
     },
     {
         "Feed": {
-            "id": "338",
+            "id": "391",
             "name": "Storm-0478 Office and Windows HTML RCE IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/storm-0978.txt",
@@ -854,7 +870,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1459",
+            "event_id": "1512",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -883,7 +899,7 @@
     },
     {
         "Feed": {
-            "id": "339",
+            "id": "392",
             "name": "DPRK-nexus supply chain attack",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/DPRK_nexus_IOCs.txt",
@@ -896,7 +912,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1460",
+            "event_id": "1513",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -925,10 +941,10 @@
     },
     {
         "Feed": {
-            "id": "340",
+            "id": "393",
             "name": "APT10 C2 Feed",
             "provider": "Vairav Technology",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT10%20C2%20IOC%20URLs.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT10%20C2%20IOC%20URLs.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -938,7 +954,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1461",
+            "event_id": "1514",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -948,7 +964,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -963,11 +979,27 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "341",
+            "id": "394",
             "name": "Improper error message handling in Zyxel ZyWALL/USG series",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE-2023-28771.txt",
@@ -980,7 +1012,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1462",
+            "event_id": "1515",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1009,7 +1041,7 @@
     },
     {
         "Feed": {
-            "id": "342",
+            "id": "395",
             "name": "Rhysida IOCs",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Rhysida.txt",
@@ -1022,7 +1054,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1463",
+            "event_id": "1516",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1051,10 +1083,10 @@
     },
     {
         "Feed": {
-            "id": "343",
+            "id": "396",
             "name": "Archipelago Hide Office Documents and Cover Up Sneak Campaign With Recon Shark",
             "provider": "Vairav Technology",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT43.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT43.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -1064,7 +1096,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1464",
+            "event_id": "1517",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1074,7 +1106,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1089,14 +1121,30 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "344",
-            "name": "Iranian Hackers Participate in Papercut Attacks",
+            "id": "397",
+            "name": "IOC related to APT35 aka Charming Kitten",
             "provider": "Vairav Technology",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT35.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_35_Charming_Kitten.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -1106,7 +1154,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1465",
+            "event_id": "1518",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1116,7 +1164,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1131,11 +1179,27 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "345",
+            "id": "398",
             "name": "IOC related to ongoing DDoS Campaign Targeting Sweden",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/AnonymousSudan.txt",
@@ -1148,7 +1212,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1466",
+            "event_id": "1519",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1177,7 +1241,7 @@
     },
     {
         "Feed": {
-            "id": "346",
+            "id": "399",
             "name": "IOCs related to Pikabot",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/pikabot.txt",
@@ -1190,7 +1254,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1467",
+            "event_id": "1520",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1219,7 +1283,7 @@
     },
     {
         "Feed": {
-            "id": "347",
+            "id": "400",
             "name": "IOCs related to TrickBot",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/TrickBot.txt",
@@ -1232,7 +1296,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1468",
+            "event_id": "1521",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1261,7 +1325,7 @@
     },
     {
         "Feed": {
-            "id": "348",
+            "id": "401",
             "name": "IOCs related to Ghost RAT",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/GhostRAT.txt",
@@ -1274,7 +1338,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1469",
+            "event_id": "1522",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1303,7 +1367,7 @@
     },
     {
         "Feed": {
-            "id": "349",
+            "id": "402",
             "name": "IOC related to DarkGate malware",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/DarkGate.txt",
@@ -1316,7 +1380,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1470",
+            "event_id": "1523",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1345,7 +1409,7 @@
     },
     {
         "Feed": {
-            "id": "350",
+            "id": "403",
             "name": "IOCS related to Nepal Trading Stock",
             "provider": "Vairav Technology",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/StockTradingNepal_IOCs.txt",
@@ -1358,7 +1422,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1471",
+            "event_id": "1524",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1387,7 +1451,7 @@
     },
     {
         "Feed": {
-            "id": "351",
+            "id": "404",
             "name": "IOCs related to Mirai Malware family",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Mirai.txt",
@@ -1400,7 +1464,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1472",
+            "event_id": "1525",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1429,7 +1493,7 @@
     },
     {
         "Feed": {
-            "id": "352",
+            "id": "405",
             "name": "IOCs related to LokiBot Malware family",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/LokiBot.txt",
@@ -1442,7 +1506,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1473",
+            "event_id": "1526",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1471,7 +1535,7 @@
     },
     {
         "Feed": {
-            "id": "353",
+            "id": "406",
             "name": "IOC related to exploit CVE-2023-46747-RCE",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE-2023-46747.txt",
@@ -1484,7 +1548,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1474",
+            "event_id": "1527",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1513,7 +1577,7 @@
     },
     {
         "Feed": {
-            "id": "354",
+            "id": "407",
             "name": "IOCS related toCVE-2023-22515 leading to C3RB3R Ransomware",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE-2023-22515.txt",
@@ -1526,7 +1590,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1475",
+            "event_id": "1528",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1555,7 +1619,7 @@
     },
     {
         "Feed": {
-            "id": "355",
+            "id": "408",
             "name": "IOC related to Bazzarloader.",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/BazarLoader.txt",
@@ -1568,7 +1632,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1476",
+            "event_id": "1529",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1597,10 +1661,10 @@
     },
     {
         "Feed": {
-            "id": "356",
+            "id": "409",
             "name": "IOC related to APT37",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT_37_Ricochet_Chollima.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_37_Ricochet_Chollima.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -1610,7 +1674,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1477",
+            "event_id": "1530",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1655,7 +1719,7 @@
     },
     {
         "Feed": {
-            "id": "357",
+            "id": "410",
             "name": "IOCs related to Lockbit",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/LockBit.txt",
@@ -1668,7 +1732,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1478",
+            "event_id": "1531",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1697,7 +1761,7 @@
     },
     {
         "Feed": {
-            "id": "358",
+            "id": "411",
             "name": "IOC related to BumbleBee",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/BumbleBee.txt",
@@ -1710,7 +1774,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1479",
+            "event_id": "1532",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1720,7 +1784,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1735,27 +1799,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "359",
+            "id": "412",
             "name": "IOCs related to Mimikatz malware",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Mimikatz.txt",
@@ -1768,7 +1816,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1480",
+            "event_id": "1533",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1778,7 +1826,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1793,27 +1841,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "360",
+            "id": "413",
             "name": "IOC related to Diablo Ransomware",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Diablo_Ransomware.txt",
@@ -1826,7 +1858,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1481",
+            "event_id": "1534",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1836,7 +1868,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1851,27 +1883,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "361",
+            "id": "414",
             "name": "IOC related to Play ransomware",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Play_ransomeware.txt",
@@ -1884,7 +1900,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1482",
+            "event_id": "1535",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1894,7 +1910,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1909,27 +1925,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "362",
+            "id": "415",
             "name": "KONNI Campaign via Maldocs",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/KONNI_Campaign.txt",
@@ -1942,7 +1942,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1483",
+            "event_id": "1536",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -1952,7 +1952,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1967,27 +1967,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "363",
+            "id": "416",
             "name": "Dynamic DNS domains",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/alexandrosmagos/dyn-dns-list/master/links.txt",
@@ -2000,7 +1984,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1484",
+            "event_id": "1537",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2010,7 +1994,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2025,27 +2009,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "364",
+            "id": "417",
             "name": "IOC related to Agent Tesla",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Agent_Tesla.txt",
@@ -2058,7 +2026,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1485",
+            "event_id": "1538",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2068,7 +2036,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2083,30 +2051,14 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "365",
+            "id": "418",
             "name": "IOC realated to Sidewinder APT",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Sidewinder_APT.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/Sidewinder_APT.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -2116,7 +2068,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1486",
+            "event_id": "1539",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2126,7 +2078,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2143,28 +2095,28 @@
             "local_only": false
         },
         "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
             "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "366",
+            "id": "419",
             "name": "IOCs related to APT28 Fancy bear.",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT_28_Fancy_Bear.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_28_Fancy_Bear.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -2174,7 +2126,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1487",
+            "event_id": "1540",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2184,7 +2136,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2201,28 +2153,28 @@
             "local_only": false
         },
         "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
             "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "367",
+            "id": "420",
             "name": "IOC related to APT21 aka Hammer Panda",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT_21_Hammer_Panda.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_21_Hammer_Panda.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -2232,7 +2184,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1488",
+            "event_id": "1541",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2242,7 +2194,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2259,28 +2211,28 @@
             "local_only": false
         },
         "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
             "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "368",
+            "id": "421",
             "name": "IOC related to APT 32 Ocean Lotus",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT_32_Ocean_Lotus.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_32_Ocean_Lotus.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -2290,7 +2242,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1489",
+            "event_id": "1542",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2300,7 +2252,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2317,25 +2269,25 @@
             "local_only": false
         },
         "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
             "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "369",
+            "id": "422",
             "name": "IOC related to Chamelgang",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Chamelgang.txt",
@@ -2348,7 +2300,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1490",
+            "event_id": "1543",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2358,7 +2310,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "1",
+            "orgc_id": "0",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2373,27 +2325,11 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
-        },
-        "Orgc": {
-            "id": "1",
-            "name": "Vairav",
-            "date_created": "2023-06-26 16:57:40",
-            "date_modified": "2023-07-07 15:50:14",
-            "description": "Automatically generated admin organisation",
-            "type": "ADMIN",
-            "nationality": "Nepal",
-            "sector": "CSOC",
-            "created_by": "0",
-            "uuid": "9056ac39-3c86-4fb1-a8be-178922bd439f",
-            "contacts": "",
-            "local": true,
-            "restricted_to_domain": "[]",
-            "landingpage": null
         }
     },
     {
         "Feed": {
-            "id": "370",
+            "id": "423",
             "name": "IOC related to Dark Caracal",
             "provider": "Vairav",
             "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Dark%20Caracal.txt",
@@ -2406,7 +2342,49 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "1491",
+            "event_id": "1544",
+            "publish": true,
+            "override_ids": false,
+            "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
+            "input_source": "network",
+            "delete_local_file": false,
+            "lookup_visible": true,
+            "headers": "",
+            "caching_enabled": true,
+            "force_to_ids": false,
+            "orgc_id": "0",
+            "cache_timestamp": false
+        },
+        "Tag": {
+            "id": "871",
+            "name": "Dark Caracal",
+            "colour": "#5d3030",
+            "exportable": true,
+            "org_id": "0",
+            "user_id": "0",
+            "hide_tag": false,
+            "numerical_value": null,
+            "is_galaxy": false,
+            "is_custom_galaxy": false,
+            "local_only": false
+        }
+    },
+    {
+        "Feed": {
+            "id": "424",
+            "name": "IOC related to APT30 aka Chafer",
+            "provider": "Vairav",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_39_Chafer.txt",
+            "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
+            "enabled": true,
+            "distribution": "0",
+            "sharing_group_id": "0",
+            "tag_id": "63",
+            "default": false,
+            "source_format": "freetext",
+            "fixed_event": true,
+            "delta_merge": true,
+            "event_id": "0",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
@@ -2420,9 +2398,9 @@
             "cache_timestamp": false
         },
         "Tag": {
-            "id": "871",
-            "name": "Dark Caracal",
-            "colour": "#5d3030",
+            "id": "63",
+            "name": "APT",
+            "colour": "#f71212",
             "exportable": true,
             "org_id": "0",
             "user_id": "0",
