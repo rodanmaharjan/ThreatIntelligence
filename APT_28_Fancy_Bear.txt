@@ -958,7 +958,6 @@ python311packages.bootstrap.build
 pd9f58d33.dip0.t-ipconnect.de
 cyber.casa
 python311packages.open
-dynamic-093-132-058-247.93.132.pool.telefonica.de
 aspelldicts.es
 n119236225099.netvigator.com
 pd9f58cb4.dip0.t-ipconnect.de
@@ -1323,7 +1322,6 @@ hunspelldicts.pt
 python311packages.panasonic
 home-assistant-component-tests.shopping
 ttfh2s6of5rgly3sgh3xmged7xikiuve.dccakusb5w4wqedkf36q.1.0.3lz6ptnftqnrw7bhndcebflm4m.ivwssta.dns0.org
-dynamic-077-185-072-000.77.185.pool.telefonica.de
 89-253-101-187.customers.ownit.se
 client-186-37-87-139.imovil.entelpcs.cl
 46-118-69-37.broadband.kyivstar.net
@@ -1486,7 +1484,6 @@ rubypackages.do
 vmi712968.contaboserver.net
 mywhc.ca
 unixtools.ping
-telefonica.de
 vmi621306.contaboserver.net
 clueshipping.hopto.org
 61-27-80-103.rev.home.ne.jp
