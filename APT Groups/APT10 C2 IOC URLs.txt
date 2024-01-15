@@ -105,7 +105,6 @@ appledownload.ourhobby.com
 appleimages.itemdb.com
 appleimages.longmusic.com
 applelib120102.9966.org
-
 applemirror.organiccrap.com
 applemirror.squirly.info
 applemusic.isasecret.com
@@ -150,7 +149,6 @@ bluecoat.isasecret.com
 brand.fartit.com
 bulletproof.squirly.info
 cao.p6p6.net
-cata.qtsofta.com
 cc.dynamicdns.co.uk
 ccupdatedata.authorizeddns.net
 cd.usyahooapis.com
@@ -227,6 +225,7 @@ download.windowsupdate.dnset.com
 download.windowsupdate.itsaol.com
 download.windowsupdate.lflinkup.com
 download.windowsupdate.nsatcdns.com
+
 download.windowsupdate.x24hr.com
 downloadlink.mypicture.info
 dreamsture.iego.cn
