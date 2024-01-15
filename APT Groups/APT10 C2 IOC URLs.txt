@@ -360,7 +360,6 @@ ftp.myphpwebsite.itsaol.com
 ftp.myrestroomimage.isasecret.com
 ftp.na.americanunfinished.com
 ftp.na.onmypc.org
-
 ftp.newsdata.jkub.com
 ftp.newsroom.cleansite.info
 ftp.no.authorizeddns.org
