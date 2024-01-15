@@ -225,7 +225,6 @@ download.windowsupdate.dnset.com
 download.windowsupdate.itsaol.com
 download.windowsupdate.lflinkup.com
 download.windowsupdate.nsatcdns.com
-
 download.windowsupdate.x24hr.com
 downloadlink.mypicture.info
 dreamsture.iego.cn
@@ -361,6 +360,7 @@ ftp.myphpwebsite.itsaol.com
 ftp.myrestroomimage.isasecret.com
 ftp.na.americanunfinished.com
 ftp.na.onmypc.org
+
 ftp.newsdata.jkub.com
 ftp.newsroom.cleansite.info
 ftp.no.authorizeddns.org
