@@ -1134,7 +1134,6 @@ eterplicity.live
 polvcrit.info
 cdn.bgevin.live
 cdn.polvcrit.info
-/W6taHcwqKwhgzWGWr7ElpRAfWA7JcsXC0A2a4eFv/
 kpt-gov.org
 discount.kpt-gov.org
 paf-gov.org
@@ -1289,7 +1288,6 @@ sltmobitel.hopto.org
 srilankanairlines.redirectme.net
 webmail.gavaf.org
 windowupdate.myftp.org
-/@/@/h31l0
 _domainkey.mod-gov.org
 gysdj.mod-gov.org
 iididbiy.mod-gov.org
@@ -1301,9 +1299,6 @@ _domainkey.service.mod-gov.org
 kcps.edu.in/css/fonts/files/jquery/
 kcps.edu.in/css/fonts/files/ntsfonts/
 kcps.edu.in/css/fonts/files/docs/graentsodocumentso/ganeshostwoso/
-/graentsodocumentso/ganeshostwoso/
-/graentsodocumentso/
-/ganeshostwoso/
 hpuniversity.in
 144.91.72.17:8080
 cornerstonebeverly.org/js/files/DRDO-K4-Missile-Clean-room
@@ -1474,10 +1469,6 @@ microsoftupdte.redirectme.net
 myanmar-apn.serveftp.com
 updatemanager.ddns.net
 windows-update.hopto.org
-/update/R0FNd0lCb0RGbU1VTUdwcQ==.php
-/update/R1JNU1p4a1RGbU1VTUdwcQ==.php
-/R0FNd0lCb0RGbU1VTUdwcQ==.php
-/R1JNU1p4a1RGbU1VTUdwcQ==.php
 asean-ajp.myftp.org
 cloud.nitc.gavnp.org
 dns.nepal.gavnp.org
@@ -1497,15 +1488,11 @@ nepal.govnp.org
 nitc.govnp.org
 mail.mofa.govnp.org
 mx1.nepal.govnp.org
-/mail/AFA/RWlVOGJCSUxEaVljT0dKaQ==.aspx
-/AFA/RWlVOGJCSUxEaVljT0dKaQ==.aspx
-/RWlVOGJCSUxEaVljT0dKaQ==.aspx
 http://8.222.250.160
 8.222.250.160:443
 pakmail.cloud
 senate-pak.site
 fbr-taxupdates.serveblog.net
-/uPSnswhC
 cloud-ntdc.servehttp.com
 e-servicesptclnetpk.servehttp.com
 e-supportntc.servehttp.com
