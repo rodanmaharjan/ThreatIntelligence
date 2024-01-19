@@ -1,5 +1,8 @@
 5.226.141.196
 5.255.103.7
+http://5.255.127.20
+5.255.113.37
+5.255.127.20
 rhysidaeverywhere@onionmail.org
 rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion
 rhysidaofficial@onionpmail.org
