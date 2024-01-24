@@ -1501,3 +1501,13 @@ flysmart-piac.servehttp.com
 services-ptclnetpk.servehttp.com
 wetransfer.servehttp.com
 moitt-gov-pk.fia-gov.net
+103.57.249.95
+46.30.190.15
+92.243.65.243
+185.243.113.33
+5.255.107.177
+mfa-govt.net
+mailmfaivgovkh.newoutlook.live
+maildefence.163inc.com
+163inc.com
+aliyumm.tech
