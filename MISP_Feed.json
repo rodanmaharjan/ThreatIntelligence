@@ -692,7 +692,7 @@
             "id": "387",
             "name": "Diamond fox malware IOC",
             "provider": "Vairav Technology",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/diamondFox.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/DiamondFox%20RAT.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -712,7 +712,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -727,6 +727,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
@@ -2354,7 +2370,7 @@
             "id": "422",
             "name": "IOC related to Chamelgang",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Chamelgang.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/APT%20Groups/APT_ChamelGang.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -2374,7 +2390,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2389,6 +2405,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
@@ -2396,7 +2428,7 @@
             "id": "423",
             "name": "IOC related to Dark Caracal",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Dark%20Caracal.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/Threat%20Groups/Dark%20Caracal.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -2416,7 +2448,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -2431,6 +2463,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
@@ -2680,7 +2728,7 @@
             "source_format": "freetext",
             "fixed_event": true,
             "delta_merge": true,
-            "event_id": "0",
+            "event_id": "1549",
             "publish": true,
             "override_ids": false,
             "settings": "{\"disable_correlation\":\"0\",\"csv\":{\"value\":\"\",\"delimiter\":\"\"},\"common\":{\"excluderegex\":\"\"}}",
