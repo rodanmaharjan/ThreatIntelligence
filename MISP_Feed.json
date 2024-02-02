@@ -1082,7 +1082,7 @@
             "id": "394",
             "name": "Improper error message handling in Zyxel ZyWALL/USG series",
             "provider": "Vairav Technology",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE-2023-28771.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE/CVE-2023-28771.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -1102,7 +1102,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1117,6 +1117,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
@@ -1634,7 +1650,7 @@
             "id": "406",
             "name": "IOC related to exploit CVE-2023-46747-RCE",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE-2023-46747.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE/CVE-2023-46747.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -1654,7 +1670,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1669,6 +1685,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
@@ -1676,7 +1708,7 @@
             "id": "407",
             "name": "IOCS related toCVE-2023-22515 leading to C3RB3R Ransomware",
             "provider": "Vairav",
-            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE-2023-22515.txt",
+            "url": "https://raw.githubusercontent.com/rodanmaharjan/ThreatIntelligence/main/CVE/CVE-2023-22515.txt",
             "rules": "{\"tags\":{\"OR\":[],\"NOT\":[]},\"orgs\":{\"OR\":[],\"NOT\":[]},\"type_attributes\":{\"NOT\":[]},\"type_objects\":{\"NOT\":[]},\"url_params\":\"\"}",
             "enabled": true,
             "distribution": "0",
@@ -1696,7 +1728,7 @@
             "headers": "",
             "caching_enabled": true,
             "force_to_ids": false,
-            "orgc_id": "0",
+            "orgc_id": "9",
             "cache_timestamp": false
         },
         "Tag": {
@@ -1711,6 +1743,22 @@
             "is_galaxy": false,
             "is_custom_galaxy": false,
             "local_only": false
+        },
+        "Orgc": {
+            "id": "9",
+            "name": "CERT-RLP",
+            "date_created": "2023-06-27 16:37:01",
+            "date_modified": "2023-06-27 16:37:01",
+            "description": null,
+            "type": "",
+            "nationality": "",
+            "sector": "",
+            "created_by": "2",
+            "uuid": "593798b3-3924-4c43-9742-0d9fc25ed030",
+            "contacts": null,
+            "local": false,
+            "restricted_to_domain": null,
+            "landingpage": null
         }
     },
     {
