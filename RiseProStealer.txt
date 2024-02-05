@@ -120,7 +120,6 @@
 78.153.130.249
 82.115.223.26
 91.92.253.38
-
 gamefilescript.com
 neo-files.com
 accesstostofilestorage.com
@@ -180,10 +179,8 @@ http://108.174.199.249
 http://108.174.200.11
 http://94.142.138.113
 http://45.15.156.229
-http://175.24.178.202
 http://38.47.220.202
 http://38.47.221.56
-http://8.140.18.150
 http://94.228.168.51
 5239eb589ac4d96a633db9d7031f4e04b3d07268aa42822a228a0eaa6d94c1bf
 69e0255466741a6bdea3fbe4c2c83cd6af4fd274fa1f2646efcd91211f0d45d4
