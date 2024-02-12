@@ -1559,3 +1559,5 @@ slic.live
 tni-mil.com
 ujsen.net
 updtesession.online
+194.68.225.186
+pafgovt.com
