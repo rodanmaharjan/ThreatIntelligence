@@ -10330,7 +10330,6 @@ ns.cyberium.cc
 cnc.luxstresser.xyz
 boatnet.us
 smlpp.monster
-
 kranskerstuff.kozow.com
 aspjobjreorejborer.com
 0xdeadbeef.tw
@@ -10356,7 +10355,6 @@ botnet.stresserit.pro
 firewalla1337.cc
 bots.firewalla1337.cc
 bots1.firewalla1337.cc
-ptr_s_bots1.firewalla1337.cc
 scan.firewalla1337.cc
 scan1.firewalla1337.cc
 arcticboatz.cz
@@ -10440,15 +10438,12 @@ yarunet.ddns.net
 abc.8xl9.com
 comeanalyze.8xl9.com
 fuckyounigger.8xl9.com
-h4remix.xyz
 cnc.h4remix.xyz
 home.h4remix.xyz
 report.h4remix.xyz
-balkan-general.net
 cnc.balkan-general.net
 condinet.cf
 cnc.condinet.cf
-zuurry.net
 bot.zuurry.net
 rischyo.cf
 bydthkk.top
@@ -10460,13 +10455,13 @@ titti.pics
 cnc.titti.pics
 cnc.bigducks.cc
 botnet.nsohunter.com
-fewbots.lol
 cnc.fewbots.lol
 sexycowcoerweosuck.cc
 bots.sexycowcoerweosuck.cc
 l33.lol
 cnc.l33.lol
 condiboatnetx.org
+
 cnc.condiboatnetx.org
 73test.castlemc.pl
 owo.rest
