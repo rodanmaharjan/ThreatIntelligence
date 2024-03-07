@@ -532,7 +532,6 @@ oimc.cdn-pak.net
 pakbj.cdn-pak.net
 poly.cdn-pak.net
 trgdte.cdn-pak.net
-
 www-cdn.net
 afohs.mod-pak.co
 fbr.mod-pak.co
@@ -546,8 +545,6 @@ autodiscover.mofagov-pk.online
 cpanel.mofagov-pk.online
 cpcalendars.mofagov-pk.online
 cpcontacts.mofagov-pk.online
-dgmi-share-folder-nepalarmy-mil-np-coas-sambodhan-pdf.netlify.app
-email-nepalarmy-mil-np-owa.netlify.app
 imail.aop.gov.af.egateway.nsc-gov.com
 mail-nepalarmy-mil-np-fsdafjsd.herokuapp.com
 mail-nepalarmy-mil-np-login-download.netlify.app
@@ -596,8 +593,6 @@ dns1.pk-gov.org
 nccs.pk-gov.org
 ntc-pk.sytes.net
 quwa-paf.servehttp.com
-/F453457Pl_TMP347923592380/
-/pl200_TMP2831474WDF.php
 mofa.live
 aitkenspencelogistics.mofa.live
 careitservices.mofa.live
@@ -617,7 +612,6 @@ securecheker.in
 securedesk.one
 scout.fontsplugins.com
 paryavaranindia.com/css/files/docs/Updated-Leave-Rules-Fourth-Edition/css
-paryavaranindia.com/css/files/hulfz/
 bahariafoundation.live
 compress.bahariafoundation.live
 invitation.bahariafoundation.live
@@ -666,9 +660,6 @@ kavach.mailnic.info
 mod.mailnic.info
 passapp.mailnic.info
 aeltron.xyz
-incometaxreturn.aeltron.xyz
-instructions.aeltron.xyz
-rgdtyt.aeltron.xyz
 mod-pk.com
 dgmp-paknavy.mod-pk.com
 changeworld.hopto.org
