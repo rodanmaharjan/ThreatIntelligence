@@ -718,7 +718,6 @@ radio.pkgov.org
 sco.pkgov.org
 ssgc.pkgov.org
 sui.nationalhelpdesk.pk
-
 wapda.pkgov.org
 web.sngpl.org.pk
 whale.pkgov.org
@@ -801,7 +800,6 @@ dawnpk.org
 docuserve.ltd
 fdn-trace.net
 fileserve.work
-gov.pakmarines
 kdf-mail.com
 krlwin.org
 mohp-gov.org
@@ -845,7 +843,6 @@ mail.pak-gov.com
 meet.kdf-mail.com
 min.tin-url.com
 ministryofinterior.fileserve.work
-mofa-gov-pk.fdn-trace.net
 news.bitlyy.me
 news.dawnpk.org
 news.kdf-mail.com
@@ -863,6 +860,7 @@ secp.pakgov.org
 secure.tin-url.com
 shoprex.bitlyy.me
 smstest.kdf-mail.com
+
 t.bitlyy.me
 telemart.bitlyy.me
 ubl.pakgov.org
