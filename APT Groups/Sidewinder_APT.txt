@@ -183,7 +183,6 @@ tref.tech
 fdrek.live
 inkly.net
 tiinly.co
-
 telenor-mm.redirectme.net
 basic.gruh.site
 amuck.scoler.tech
@@ -269,11 +268,9 @@ focus.semain.tech
 awrah.live
 leyra.tech
 mtss.bol-south.org
-mofagovs.org
 fia-gov.com
 mailv.mofs-gov.org
 defpak.org
-aliyum.tech
 brave.agarg.tech
 preag.info
 daraz-pk.com
@@ -299,7 +296,6 @@ split.tyoin.biz
 gruve.site
 treat.fraty.info
 ailyun.live
-updtesession.online
 mod-pkgov.org
 sarabanmithnavy.tni-mil.com
 enclose.info
@@ -322,7 +318,6 @@ storeapp.site
 hakimiya.live
 mofs-gov.org
 cloud-ptclnetpk.servehttp.com
-mail0.hzncompany.com
 mailmofagovmm.mfa-gov.net
 register.srvapp.co
 sl-navy.office-drive.live
@@ -349,6 +344,7 @@ ministryofforeignaffairs-mofa-gov-pk.dytt88.org
 mofabn.ksewpk.com
 cabinet-gov-pk.ministry-pk.net
 bdmil.alit.live
+
 9d12d379564471913e4b00c6677be6e1e112f950b513c6def9bd3ba8f5f71830
 academy.lesporc.live
 aeryple.xyz
