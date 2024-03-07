@@ -344,8 +344,8 @@ ministryofforeignaffairs-mofa-gov-pk.dytt88.org
 mofabn.ksewpk.com
 cabinet-gov-pk.ministry-pk.net
 bdmil.alit.live
-
 9d12d379564471913e4b00c6677be6e1e112f950b513c6def9bd3ba8f5f71830
+
 academy.lesporc.live
 aeryple.xyz
 agency.lesporc.live
@@ -567,6 +567,7 @@ oimc.cdn-pak.net
 pakbj.cdn-pak.net
 poly.cdn-pak.net
 trgdte.cdn-pak.net
+
 www-cdn.net
 afohs.mod-pak.co
 fbr.mod-pak.co
