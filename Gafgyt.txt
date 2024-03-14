@@ -1693,7 +1693,6 @@
 51.158.109.239
 134.209.13.51
 142.93.46.170
-
 185.132.53.64
 104.248.6.196
 37.49.230.53
@@ -1912,7 +1911,6 @@ hyotfyj8x00k5s.freedynamicdns.org
 7gkdfaqyxdk3dzbj.viewdns.net
 0ctosniff.net
 bwi1diglnhakajxx.sytes.net
-ayedz.000webhostapp.com
 vlmx1xctilwpx1nl.sytes.net
 odwjoiamhmxqhu.gotdns.ch
 idbjlzb4fqlgyjq.redirectme.net
