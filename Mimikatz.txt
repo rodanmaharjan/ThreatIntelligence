@@ -4,7 +4,6 @@
 185.239.222.240
 108.62.103.193
 185.129.62.62
-185.143.223.13
 185.253.163.23
 37.120.193.123
 31.44.184.82
@@ -62,10 +61,7 @@ server1.tikkie-onlinenl.me
 rabo.tikkie-onlinenl.me
 abn.tikkie-onlinenl.me
 bo.ubinary.com
-cake.tryclik.com
-cake.psychologycompass.co
 cake.logsforhire.com
-cake.ggleadgen.com
 ww1.northpoleroute.com
 link.fasttrackfund.com
 cartoonyourself.designscapital.com
@@ -83,7 +79,6 @@ www.remote.stemmleplumbing.com
 malahide.jaipur.ie
 dalkey.jaipur.ie
 webmail.isabelleswindowdesignvestal.com
-
 ea483ab89d8b9baf00b953f0636e0520
 a3010ce0f8d1279000011b7d064f31d3
 901af7fb4ebcaeb1dc2f8986dee0c3c5
