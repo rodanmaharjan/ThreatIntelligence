@@ -2778,7 +2778,6 @@ visoxd-63447.portmap.host
 voicia-net.ddns.net
 without-sure.gl.at.ply.gg
 youtubevideos.duckdns.org
-
 zeroski.ink
 cock.holyshithowmanydomainandproxycanigettorunmyserver.info
 download.adaklab.ir
@@ -2816,7 +2815,6 @@ http://47.99.65.37
 http://194.180.48.114
 http://195.14.123.15
 http://62.234.175.104
-http://154.12.254.216
 http://86.130.196.77
 http://18.166.249.66
 http://185.62.58.77
@@ -2833,7 +2831,6 @@ http://103.82.26.41
 http://154.92.16.100
 http://176.128.134.182
 http://176.96.136.233
-http://4.228.56.58
 http://45.40.96.164
 6e7f1b5bd5b7696ef942013c9d8151420dd29849514be091b43b1fcb9a193d73
 ced760664a7c5580e324d99d695b119c1f3ec94d1d9c56d1d3882347f0c6eb10
