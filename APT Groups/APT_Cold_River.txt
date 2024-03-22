@@ -1,9 +1,7 @@
 185.161.211.72
 185.20.184.138
 185.20.187.8
-185.20.184.15
 185.161.211.79
-194.9.177.22
 104.148.109.193
 hr-suncor.com
 0ffice36o.com
@@ -11,10 +9,7 @@ hr-wipro.com
 files-sender.com
 microsoftonedrive.org
 memail.mea.com.lb
-webmail.finance.gov.lb
 mail.mgov.ae
-adpvpn.adpolice.gov.ae
-Mail.apc.gov.ae
 drive-share.live
 protect-link.online
 protection-office.live
