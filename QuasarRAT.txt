@@ -2624,7 +2624,6 @@ system32.camdvr.org
 t3ems3c-23636.portmap.host
 tech.blog.net
 techandro.duckdns.org
-
 telebit.cloud
 testert3.duckdns.org
 thanksfam.xyz
@@ -2697,7 +2696,6 @@ released-caribbean.gl.at.ply.gg
 microsoft-virtualpc.duckdns.org
 checkblacklistwords.eu
 lcf.icu
-tym.pw
 123zhang123.e1.luyouxia.net
 7706d61f16.zicp.fun
 baiwu123.e2.luyouxia.net
@@ -2706,7 +2704,6 @@ bj-1.lcf.icu
 bomba1.ddns.net
 s1567749.e1.luyouxia.net
 wnindi9-24224.portmap.host
-yk.tym.pw
 buy-positioning.at.ply.gg
 casino-within.at.ply.gg
 donbaguette-43001.portmap.io
