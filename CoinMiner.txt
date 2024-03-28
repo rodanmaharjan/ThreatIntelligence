@@ -1,6 +1,4 @@
 103.55.13.68
-45.67.14.152
-220.194.237.43
 51.15.56.161
 51.38.133.232
 198.98.51.104
@@ -14,9 +12,7 @@
 155.138.234.122
 66.42.53.57
 66.42.93.164
-34.235.65.248
 178.157.91.26
-45.147.230.219
 195.2.93.34
 13.94.40.162
 198.98.59.44
@@ -29,8 +25,6 @@
 39.165.53.17
 45.142.122.11
 185.252.178.82
-45.10.20.100
-95.214.24.102
 45.61.137.96
 212.193.30.11
 45.139.105.222
@@ -48,7 +42,6 @@
 94.130.144.19
 128.199.210.191
 164.90.205.244
-91.121.68.60
 3g2upl4pq6kufc4m.tk
 a.ssvs.space
 aybc.so
@@ -82,8 +75,6 @@ debian-package.center
 minpop.com/sk12pack/idents.php
 minpop.com/sk12pack/names.php
 eleethub.com
-5pwcq42aa42fjzel.onion
-73avhutb24chfsh6.onion
 cdn.interakt.md
 c4k.xpl.pwndns.pw
 2fsdfsdgvsdvzxcwwef-defender.xyz
@@ -110,7 +101,6 @@ dw.bpdeliver.ru
 whitesnake.church
 load.whitesnake.church
 pool.whitesnake.church
-bdg0b50yfhqg7.cfc-execute.bj.baidubce.com
 arhivehaceru.com
 dinpasiune.com
 nasa.arhivehaceru.com
@@ -118,7 +108,6 @@ desertplanets.com
 asyncfox.xyz
 download.asyncfox.xyz
 xmr-pool.asyncfox.xyz
-http://107.173.102.59
 http://107.174.47.156
 http://107.174.47.181
 http://51.15.56.161
@@ -126,9 +115,6 @@ http://112.216.100.210
 http://185.181.10.234
 http://45.55.211.79
 http://96.32.50.131
-http://188.192.40.43
-http://154.16.67.135
-http://154.16.67.136
 http://195.226.222.209
 http://104.244.75.25
 http://107.189.11.170
@@ -138,11 +124,8 @@ http://178.157.91.26
 http://45.137.151.106
 http://47.114.157.117
 http://199.19.226.117
-http://34.107.61.31
-http://104.236.13.229
 http://174.138.117.79
 http://129.226.180.53
-http://45.147.230.219
 http://167.172.103.111
 http://172.104.170.240
 http://172.105.211.21
