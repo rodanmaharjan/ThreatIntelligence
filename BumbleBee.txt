@@ -1372,7 +1372,6 @@
 64.44.141.173
 23.83.133.13
 23.106.223.130
-
 23.82.128.149
 108.62.12.203
 45.153.243.93
@@ -1428,7 +1427,6 @@
 213.227.154.158
 154.56.0.214
 213.232.235.105
-209.141.59.96
 23.106.160.120
 199.80.55.44
 108.62.12.12
@@ -1509,7 +1507,6 @@ https://biludoran.com/img/logo.jpg
 https://vayodex.com/images/logo.jpg
 https://banytul.com/img/logo.jpg
 https://kurabas.com/img/logo.jpg
-
 2d10e35ba9ba3cba78d59a276708efae
 6fb9c565d7a2bd780b5c080efa976269
 1233a723ebdece80cb592aa584510066
