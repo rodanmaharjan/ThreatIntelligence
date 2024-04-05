@@ -1132,7 +1132,6 @@
 82.102.28.107
 84.101.180.244
 84.38.129.119
-
 84.38.129.152
 84.38.129.37
 84.38.130.205
@@ -1214,10 +1213,8 @@
 94.156.64.213
 176.223.131.107
 95.214.27.6
-49.36.222.191
 194.180.48.169
 187.123.165.92
-20.88.27.180
 103.212.81.154
 155.94.136.130
 173.249.196.201
@@ -1231,7 +1228,6 @@
 91.193.75.147
 134.19.179.203
 213.152.161.118
-179.13.1.70
 103.67.162.119
 213.65.233.25
 45.61.171.47
@@ -1240,8 +1236,6 @@
 91.92.250.47
 91.92.251.22
 91.92.251.65
-141.255.146.151
-141.255.153.107
 154.38.188.188
 46.246.6.5
 46.246.12.6
@@ -1294,12 +1288,10 @@ rentals.insidedns.com
 craftedfollowing.duckdns.org
 ventm.warzonedns.com
 importa.100chickens.me
-7fantasma.duckdns.org
 chukdominic.duckdns.org
 benzkartel.duckdns.org
 tunechi101.warzonedns.com
 praize19791.duckdns.org
-dinibel11.webhop.org
 madmulla.duckdns.org
 genericmoney.duckdns.org
 egonbute.duckdns.org
@@ -1310,6 +1302,7 @@ info1.duckdns.org
 googleman.duckdns.org
 moran101.duckdns.org
 duc1234.duckdns.org
+
 onelove03.duckdns.org
 westernautoweb.duckdns.org
 qxq.ddns.net
