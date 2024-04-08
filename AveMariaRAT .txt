@@ -1482,7 +1482,6 @@ spamworzon.duckdns.org
 odessa-gov.ddns.net
 warzon19.duckdns.org
 wshrt.sbs
-
 mylab.wshrt.sbs
 mylabnewswshrt.linkpc.net
 windows.wshrt.sbs
@@ -1538,8 +1537,6 @@ duep.airdns.org
 evilrdp.airdns.org
 test12345.airdns.org
 akbeyaztckstil.com
-biopharmzpharma.com/mdrp/255_Nsmhenzvvhd
-biopharmzpharma.com/mdrp/255_Wjmdrzktfws
 strip4burky.ddns.net
 captainkwado.duckdns.org
 warzonedns.myq-see.com
