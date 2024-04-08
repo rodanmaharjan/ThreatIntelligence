@@ -1846,7 +1846,6 @@ rajsavindia.hopto.org
 ranggamuffin.duckdns.org
 remote.isubi.sbs
 remotes1338.hopto.org
-
 renajazi.linkpc.net
 rencos121.duckdns.org
 resultbox0147logs.ddns.net
@@ -2028,7 +2027,6 @@ funkytothebone.giize.com
 gggb.dvrdns.org
 osiarus.duckdns.org
 peterzag63.ddns.net
-qgexserver.hopto.orgmodify
 satgobleien.jumpingcrab.com
 spoudel.mywire.org
 superherocan.mywire.org
@@ -2036,11 +2034,9 @@ zonewar.ddnsking.com
 http://45.145.185.153
 http://111.90.149.168/autom.html
 http://80.76.51.222
-http://92.118.190.195
 http://205.209.122.236
 http://95.179.178.117
 http://79.110.48.52
-
 6f00f39f32bb3556f024b6e877337a8e6ba5a2feda5d1187e85684de23471ff7
 9670a8cd3233ee7447636ae933537455ccfa56634b15141ed9beec4583c86e45
 3712c81b4cead65c93f8bc12aea70f73727057d8f638b7d4fb98a7c925eb4a07
