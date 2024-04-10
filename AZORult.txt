@@ -547,7 +547,6 @@ bigsuper.rocks
 bloomsolutions.top
 i2kq82kd.cn
 lary-pages.com
-
 narcos.3utilities.com
 qepxc.ga
 witatto.co
@@ -564,16 +563,13 @@ visionscape.duckdns.org
 dotbit.me/a/
 lusecproducts.top
 stanendybiz.top
-vh64.timeweb.ru
 lucknowww.top
-69.kl.com.ua
 brain.ac.ug
 jopa.ac.ug
 nobrain.ac.ug
 vh308850.eurodir.ru
 vh307870.eurodir.ru
 vh314957.eurodir.ru
-vh[0-9]{6}\.eurodir\.ru
 timekeeper.ug
 hjkg456hfg.ru
 k.icf-fx.kz
@@ -594,7 +590,6 @@ firemetrics.com.au
 lycos.top
 modexcommunications.eu
 program.zadc.ru
-ih[0-9]{7}\.myihor\.ru
 bazar-top4ik.best
 modcloudserver.eu
 soroog.xyz
@@ -610,7 +605,6 @@ latiso.ru
 roberto.ac.ug
 testieng.kl.com.ua
 u4504124br.ha003.t.justns.ru
-lakeshoreintegrated.com/ch/index.php
 xcvcdgfg.ru
 hellhounds713.ddnsking.com
 craft-holdings.duckdns.org
@@ -621,7 +615,6 @@ new-credit.space
 wasserettederoos.nl
 gdfdfv.ru
 twooo.cn
-dooo74.imparisystems.com
 absetup7.icu
 bruxara.com
 bloggingmarks.ga
@@ -632,12 +625,9 @@ mockerton.top
 nagoyashi.chimkent.su
 amibas8722.ddns.net
 wh-32248.portmap.io
-flozzy.uk/wp-admin/file/32/panel/admin.php
-flozzy.uk/wp-includes/admin/32/panel/admin.php
 worldmasterclass.com/wp-admin/file/32/panel/admin.php
 superlatinradio.com/edu/32/panel/admin.php
 superlatinradio.com/nons/32/panel/admin.php
-gstfast.tk/wp-content/cii/32/panel/admin.php
 1990.duckdns.org
 c1e86f3506cfe05a6738ea6893ff7e.duckdns.org
 riascos.org/cjay/32/panel/admin.php
