@@ -367,15 +367,12 @@ cloudbase-init.pw
 compprotect.com
 zjq1993.meibu.com
 online.update--microsoft.com
-
 mail.update--microsoft.com
 live.korearac.com
-lijiejie.nat123.cc
 53074960.nat123.cc
 bqcyyx.com
 lht1361828085.3322.org
 seo.kfj.cc
-35084ea6.nat123.cc
 a13932873816.f3322.org
 cescmouad.zapto.org
 yg484698405.e2.luyouxia.net
@@ -390,7 +387,6 @@ fxd9988019.e1.luyouxia.net
 q3088429300.e1.luyouxia.net
 aka.f3322.net
 gyxin1314.xicp.net
-god_xinghe.f3322.org
 ljwser.xicp.net
 nt520.f3322.org
 six.skt-one.com
@@ -402,7 +398,6 @@ ax.skt-one.com
 ssy.skt-one.com
 36ho560717.wicp.vip
 cn-xz-bgp.sakurafrp.com
-lolsb.cn
 qjy888.f3322.net
 download.adobe-air.com
 gaoshouzaimimang.f3322.org
