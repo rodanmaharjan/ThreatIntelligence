@@ -277,7 +277,6 @@ ns1.helpchecks.at
 ns1.helpchecks.by
 ns1.helpchecks.com
 ns1.helpchecks.eu
-
 ns1.helpchecks.info
 ns1.helpcheck1.com
 ns1.helpcheck1.net
@@ -291,7 +290,6 @@ cdn.zry97.com
 dmar-ksa.ddns.net
 alkhorsan2016.no-ip.biz
 amiramir.noip.me
-katarinasw.date4you.cn
 79575465.f3322.net
 chhacke.win
 cx820329965.f3322.net
@@ -316,7 +314,6 @@ host123.zz.am
 243145432.f3322.org
 qqqq374281.f3322.org
 1j5p551644.iok.la
-xilongxi.net
 vip38000a.com
 30.554205.com
 haidishijie.3322.org
@@ -333,7 +330,6 @@ xiaoxinzadan.gicp.net
 ccidc.f3322.net
 qqqqdddd.e2.luyouxia.net
 qyefeng.vicp.net
-wzbbk.com
 155604.f3322.org
 aa7899.f3322.org
 j8666.f3322.org
@@ -358,15 +354,9 @@ quasa.ddns.net
 pclient.ddns.net
 xmrminer.f3322.net
 pc.8686dy.com
-1x1elma7.xiaomy.net
-22i5b37672.51mypc.cn
 2313u080t2.imwork.net
-232mr66094.iok.la
 26k4593i06.51vip.biz
 273o4d5660.wicp.vip
-27ow345733.wicp.vip
-2z213948z7.iask.in
-a731940742.gicp.net
 y2291815a1.51mypc.cn
 syy.skt-one.com
 xiaohai2013.f3322.org
