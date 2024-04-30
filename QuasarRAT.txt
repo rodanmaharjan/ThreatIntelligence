@@ -2289,7 +2289,6 @@ blablashitspreading.ddns.net
 blackid-30073.portmap.host
 blinken-47096.portmap.host
 blue-fog-95386.pktriot.net
-
 borat.ddns.net
 bore.pub
 botnetps.ddns.net
