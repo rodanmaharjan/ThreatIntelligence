@@ -2138,8 +2138,6 @@ deli.mywire.org
 kral.linkpc.net
 abook-29729.portmap.io
 letmerat.xyz
-
-selfdestructdns.xyz
 whereami3.xyz
 ipfix.ddns.net
 gu3rr4.duckdns.org
