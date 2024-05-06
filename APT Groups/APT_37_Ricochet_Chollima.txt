@@ -238,7 +238,6 @@ takemetoyouheart.c1.biz
 taketodjnfnei898.c1.biz
 taketodjnfnei898.ueuo.com
 u13448720.ct.sendgrid.net
-
 u19402039.ct.sendgrid.net
 u7747409.ct.sendgrid.net
 u8253848.ct.sendgrid.net
@@ -259,7 +258,6 @@ kjdnc.gp114.net/data/log/do.php
 kumdo.org/admin/cont/do.php
 luminix.kr/bbs/data/proc/proc.php
 luminix.openhaja.com/bbs/data/proc1/proc.php
-js5950.cafe24.com
 kjdnc.gp114.net
 annstyle.ru
 iblcor.cafe24.com
@@ -270,7 +268,6 @@ kswebdesign.eu
 oaass.co.kr
 rabadaun.com
 influencer.jvproduccionessv.com
-mail.apm.co.kr
 mail.summitz.com
 simple.kswebdesign.eu
 dailynk.us
@@ -304,9 +301,7 @@ hk-law.co.kr/data/file/joomla/
 jdwanxiang.com/win/shenti/
 koaagj.co.kr/files/2014/12/fix/
 ri-guard.com/download/temp/cn-var/
-yangak.com/data/cheditor4/pro/mid.php
 yangak.com/data/cheditor4/pro/temp/7.html
-yangak.com/data/cheditor4/pro/
 sharefiles-betterbusinessbureau-upload.com
 sharefiles-betterbusinessbureau-us1.com
 daum-store.com
@@ -315,7 +310,6 @@ link.b4a.app
 nate-download.com
 naver-file.com
 naver-storage.com
-http://128.199.133.121
 http://172.93.181.249
 atusay.lat
 tosals.ink
