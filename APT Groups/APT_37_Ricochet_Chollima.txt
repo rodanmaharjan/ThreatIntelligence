@@ -16,8 +16,6 @@ webhoptest.webhop.info
 artmuseums.or.kr/swfupload/fla/1.jpg
 casaabadia.es/wp-content/uploads/2018/06/null/
 fjtlephare.fr/wp-content/uploads/2018/05/null/
-/skin15/include/bin/forlab.php
-/ct/data/icon/files/goal.php
 padosori.co.kr
 youngs.dgweb.kr
 http://72.21.245.117
@@ -87,7 +85,6 @@ rnaii.com
 rnailm.com
 rnicrosoft.com
 sec-live.com
-secrityprocessing.com
 securitedmode.com
 security-lnfo.com
 securytingmail.com
@@ -107,10 +104,8 @@ webmail-gooqle.com
 busyday.atwebpages.com
 hz11.cn/jquery-ui-1.10.4/tests/unit/widget/doc/pu.php
 frog.smtper.co/frog/
-park.smtper.co/frogstock/
 factorgpu.com
 greenulz.com
-klsa.onlinewebshop.net
 down-drive.me
 nid-naver.servepics.com
 ahnlab.check.pe.hu
