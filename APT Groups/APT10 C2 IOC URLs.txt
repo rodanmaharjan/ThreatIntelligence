@@ -297,7 +297,6 @@ ftp.file.zzux.com
 ftp.findme.epac.to
 ftp.fire.mrface.com
 ftp.fjs.wikaba.com
-
 ftp.fr.wikaba.com
 ftp.fuck.ikwb.com
 ftp.fuckmm.dns-dns.com
