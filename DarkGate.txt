@@ -87,6 +87,8 @@
 149.56.252.31
 38.180.60.31
 46.21.157.142
+afarm.net 
+adventsales.co.uk  
 cdn-uk.widgetsfordeploy.com
 tos.viewdobdrv.com
 cdn.boxmedrbopdrv.com
