@@ -861,7 +861,6 @@ smstest.kdf-mail.com
 t.bitlyy.me
 telemart.bitlyy.me
 ubl.pakgov.org
-
 vim.kdf-mail.com
 vpn.tin-url.com
 wsed.pkrepublic.org
