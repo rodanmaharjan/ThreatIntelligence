@@ -550,7 +550,6 @@ mail-nepalarmy-mil-np-view.netlify.app
 mail-nepalpolice-gov-np-loginn.herokuapp.com
 mail-nscaf.hopto.org
 mail-ntmail-ntcnetnp.serveftp.comcnetnp.serveftp.com
-
 mail.mofagov-pk.online
 medeclinic.ae
 mod-cn.trans-del.net
@@ -728,6 +727,7 @@ mail-corp.cybernet.pkgov.org
 mail.bok.pkgov.org
 mail.bop.pkgov.org
 mail.csd.pkgov.org
+
 mail.dawn.pkgov.org
 mail.mofa.pkgov.org
 mail.nrlpak.pkgov.org
