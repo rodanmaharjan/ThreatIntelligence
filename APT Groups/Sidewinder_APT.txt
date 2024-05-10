@@ -260,7 +260,6 @@ pnwc.bol-north.com
 pak-govt.net
 avail.freay.tech
 straight.hldren.info
-
 pastlet.live
 verocal.info
 file-download.co
@@ -344,7 +343,6 @@ ministryofforeignaffairs-mofa-gov-pk.dytt88.org
 mofabn.ksewpk.com
 cabinet-gov-pk.ministry-pk.net
 bdmil.alit.live
-9d12d379564471913e4b00c6677be6e1e112f950b513c6def9bd3ba8f5f71830
 academy.lesporc.live
 aeryple.xyz
 agency.lesporc.live
