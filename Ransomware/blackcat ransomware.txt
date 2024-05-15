@@ -36,7 +36,6 @@
 20.99.184.37
 23.216.147.76
 239.255.255.250
-72.21.81.240
 aleagroupdevelopment.com
 azurecloudup.online
 cloudupdateservice.online
