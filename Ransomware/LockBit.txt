@@ -548,7 +548,6 @@ content-sv.mangiro.com
 connect.telegrafix.com
 cl-admold.mangiro.com
 citrix.sandwickfilms.com
-
 bg.igames9.com
 awempbsjncdg.netshoporizona.com.br
 admin.sandwickfilms.com
@@ -634,7 +633,6 @@ ze.location.search
 window.top.location.search
 w.location.search
 top.location.search
-this.props.location.search
 this.location.search
 this.aa.location.search
 t.location.search
@@ -645,7 +643,6 @@ o.location.search
 n.location.search
 i.location.search
 hostnamewindow.location.search
-h.location.search
 e.location.search
 b.location.search
 a.location.search
@@ -671,13 +668,11 @@ xn--blockchai-jvb.com
 amzon-openidi.com
 amzon-openida.com
 www-telegram.org
-thughunter.com
 pulimosuspisos.com
 faz123.net
 codecrafterspro.com
 x9twitter.com
 aviarylab.com
-live.co.uk
 5iantlavalamp.com
 daki.cc
 bankrotstvorusdebitfaster.store
