@@ -119,7 +119,6 @@ https://ksa.olayan.net/owa/auth/signin.aspx
 https://195.12.113.50/owa/auth/error3.aspx
 https://mail.tameen.ae/owa/auth/outlooklogon.aspx
 https://mail.mindware.ae/owa/auth/outlooktoken.aspx
-
 https://202.134.62.169/owa/auth/signin.aspx
 https://213.131.83.73/owa/auth/error4.aspx
 http://staging.forus.jo/_layouts/explainedit.aspx
@@ -207,7 +206,6 @@ https://209.88.89.35/owa/auth/logout.aspx
 https://122.146.71.136/owa/auth/error3.aspx
 https://email.ssc.gov.jo/owa/auth/signin.aspx
 https://202.175.31.141/owa/auth/error3.aspx
-
 c04f874430c261aabd413f27953d30303c382953
 51b6ec5de852025f63740826b8edf1c8d22f9261
 be01c95c2b5717f39b550ea20f280d69c0c05894
