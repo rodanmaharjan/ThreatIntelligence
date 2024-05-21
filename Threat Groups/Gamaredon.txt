@@ -396,7 +396,6 @@ win-ss.ddns.net
 korneliuswork.ddns.net
 kavkazwork.ddns.net
 reklama-network.ddns.net
-
 document-out.hopto.org
 libcrash.ddns.net
 listenwork.ddns.net
@@ -470,7 +469,6 @@ droper-spr.ddns.net
 droper.ddns.net
 dropius.ddns.net
 dubaidrei.ddns.net
-msnservice.ddns.net
 spr-d1.ddns.net
 spr-d2.ddns.net
 spr-d3.ddns.net
@@ -479,7 +477,6 @@ spr-d5.ddns.net
 spr-d6.ddns.net
 spr-u.ddns.net
 telo-spread.ddns.net
-xmlschema.access.ly
 error-office.myftp.biz
 error-word.myftp.biz
 kasimovschmuck.hopto.org
@@ -521,7 +518,6 @@ tesla-uos.ddns.net
 totilla.xyz
 uidertu.myddns.me
 upokan.xyz
-vois.gotdns.ch
 bbtt.space
 himym.space
 himym.xyz
