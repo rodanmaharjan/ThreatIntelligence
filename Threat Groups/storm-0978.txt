@@ -241,6 +241,7 @@ titolora.ru
 raidata.ru
 scolopaxys.online
 unforgettableamour.com
+unforgettableamour.com
 siderar.ru
 settings-ukr.net
 siella.ru
@@ -304,7 +305,6 @@ http://194.31.98.124:443/m
 http://37.140.197.251/custom/crept.nds
 http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works
 http://89.108.70.90/credit/cranny.au
-http://kesp.cl
 http://programasparapc.net
 http://inter-webservices.com
 http://fan-guy.com
@@ -320,7 +320,6 @@ http://185.189.69.174/absorb.flv
 http://notfiled.com
 https://eo9p1d2bfmioiot.m.pipedream.net?usr=
 https://forkscenter.fr/BitdefenderWindowsUpdatePackage.exe
-https://cdn.jsdelivr.net/gh/sukaut/beta@main/junit.js
 http://89.108.78.229/custom/crept.nds
 http://185.46.10.69/correction/crude.mdm
 http://a0698649.xsph.ru/selection/headache.xml
@@ -467,7 +466,6 @@ https://nirsoft.me/s/2MYmbwpSJLZRAtXRgNTAUjJSH6SSoicLPIrQl/field-keywords
 http://a0671524.xsph.ru/bandage/precarious.xml
 http://89.108.81.181/crimson/crystal.bnk
 Digitalcodecrafters.com
-
 0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da
 1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591
 4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382
