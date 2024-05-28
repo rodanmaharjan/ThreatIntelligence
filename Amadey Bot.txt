@@ -56,7 +56,6 @@ transaccion.ga
 techterms.online
 trafficsystem.site
 bandwidthmeter.online
-checker.monster
 reverselookup.icu
 searchtool.space
 tradingsignals.club
@@ -98,7 +97,6 @@ startdown.xyz
 xml-post.xyz
 en.eredirected.xyz
 en.xml-post.xyz
-bj226871.info
 hc228783.info
 ms228783.info
 msc34971.net
@@ -322,6 +320,7 @@ http://193.233.20.4
 http://62.204.41.4
 http://62.204.41.5
 http://192.211.55.118
+
 http://193.233.20.15
 http://193.233.20.14
 http://193.233.20.25
