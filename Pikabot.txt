@@ -4652,4 +4652,6 @@ https://213.199.41.33
 https://84.247.157.112
 https://64.23.199.206
 https://172.232.208.90
-https://ingatecsus.com.br/assumendaipsam/Point.exe
+https://ingatecsus.com.br/assumendaipsam/Point.exe192.9.135.73
+172.234.250.178
+172.234.244.189
