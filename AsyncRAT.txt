@@ -3843,7 +3843,6 @@ sukasa.chickenkiller.com
 fifa2020-ps4.ddns.net
 bazilspain.dynu.net
 2ee51a1ab0951a62.natapp.cc
-
 1593572468.ddns.net
 spy9999.ddns.net
 xSkewber-24412.portmap.host
@@ -3871,7 +3870,6 @@ zcx.kro.kr
 youcefmadskull-45680.portmap.host
 hackthisishack-61574.portmap.host
 holocmsv2.zapto.org
-superkicka.org
 schost.duckdns.org
 advisorgoetia-dns.xyz
 gfsgvbxcv.duckdns.org
@@ -3887,8 +3885,6 @@ tusnalguitas.duckdns.org
 nikiko.duckdns.org
 0743.hopto.org
 fsdgfd.duckdns.org
-youtude.ddns.net
-shadowstest.ddns.net
 iskyze-24255.portmap.host
 asdxcvxdfgdnbvrwe.ru
 marcristosc.ac.ug
@@ -3917,7 +3913,6 @@ oksosokak-41892.portmap.io
 clayroot2016.linkpc.net
 cortanahost.ddns.net
 campestre.hopto.org
-kakejake.ddns.net
 rootaccountadmin.ddns.net
 leepipi.kro.kr
 likatn.zapto.org
@@ -3980,7 +3975,6 @@ windowsupdater.system-ns.net
 severdops.ddns.net
 gzzzjc-55575.portmap.io
 malkalanok357-26187.portmap.io
-unbelratcomesideve.ddns.net
 yohan002.kro.kr
 sizetmp-36606.portmap.host
 azxsdc.duckdns.org
@@ -4181,6 +4175,7 @@ nydarcl0b.ddns.net
 spikevntm1.ddns.net
 eeent2am1.ddns.net
 ennt2am11.ddns.net
+
 matrixhack9.ddns.net
 exelelo.zapto.org
 rezan.ddns.net
