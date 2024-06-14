@@ -1,3 +1,5 @@
+107.175.229.139
+185.140.53.144
 23.95.60.82
 45.141.215.89
 148.113.165.11
@@ -2891,6 +2893,7 @@ ruffella1122.myddns.me
 maly22333.ddnsking.com
 collector2.duckdns.org
 observatorioplanificacionselectaccount.services
+megacitta190004.duckdns.org
 fantasmas145.duckdns.org
 xandybars1.ddns.net
 echox12.ddns.net
