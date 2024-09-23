@@ -128,7 +128,6 @@ bb.deriondar.at
 b.biomuders.at
 bb.leonliklerts.at
 bbostybfmaa.org
-
 bb.playhelloy.at
 bb.zartrusrokl.at
 bb.zorjbneon.at
@@ -136,9 +135,7 @@ b.cfroteyt.at
 b.clilka.su
 b.colofreed.pl
 b.czfllkbjleusjwellpulzgmou.org
-b.denklouder.at
 b.deralts.at
-b.dorwwc.su
 bee-pass.com
 beffuliret.ru
 be-observant.su
@@ -157,7 +154,6 @@ biggercarz.ru
 bilescotrej.com
 b.immriolhe.at
 b.imptlorte.at
-b.intheclouds.ru
 biobetic-new.com
 b.ispzsystems.net
 bithdoomroom.com
@@ -165,7 +161,6 @@ biz-cons-inc.org
 biz-cons-incorp.org
 b.jadriport.at
 b.jordriol.at
-b.kah.kz
 bkde.su
 b.kilotriom.at
 blacjout.com
@@ -179,7 +174,6 @@ bonvinuta.ru
 bookarum.ru
 bookingcoms.com
 bowosa.ru
-b.piplis.su
 b.pointofauthority.pl
 braincrach.com
 b.reklodns.su
@@ -220,7 +214,6 @@ carp-btoh.info
 carp-btoh.net
 cart-search.com
 category-accordion.com
-c.atw.kz
 c.biomuders.at
 c.blo.kz
 cc.deriondar.at
@@ -232,9 +225,7 @@ ccriiitoofie.com
 cc.zartrusrokl.at
 c.czfllkbjleusjwellpulzgmou.org
 cc.zorjbneon.at
-c.denklouder.at
 c.deralts.at
-c.dorwwc.su
 cellgone.su
 centralation-paypal.de-servicecenter-sepa.ru
 c.erci.pl
@@ -252,13 +243,11 @@ chivalitor.ru
 cibc-signin.com
 c.immriolhe.at
 c.imptlorte.at
-c.intheclouds.ru
 cioco-froll.com
 circumstanceshave.su
 c.ispzsystems.net
 c.jadriport.at
 c.jordriol.at
-c.kah.kz
 c.kilotriom.at
 clay.su
 clickance.com
@@ -443,6 +432,7 @@ dns2.brafe.ru
 dns2.brikebrak.ru
 dns2.chion.ru
 dns2.civilfnat.ru
+
 dns2.coalux.ru
 dns2.cujusvis.ru
 dns2.cuttersky.ru
