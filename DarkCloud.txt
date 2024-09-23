@@ -433,7 +433,6 @@ dns2.brikebrak.ru
 dns2.chion.ru
 dns2.civilfnat.ru
 
-dns2.coalux.ru
 dns2.cujusvis.ru
 dns2.cuttersky.ru
 dns2.dakind.ru
