@@ -488,19 +488,15 @@ dns4.auscultare.ru
 dns4.beeta.ru
 dns4.bigbadbilly.ru
 dns4.bothpix.ru
-
-dns4.brafe.ru
 dns4.brikebrak.ru
 dns4.chion.ru
 dns4.civilfnat.ru
-dns4.coalux.ru
 dns4.enderthen.ru
 dns4.f3u.ru
 dns4.firmares.ru
 dns4.flyopenvz.ru
 dns4.fortidocs.ru
 dns4.froikt.ru
-dns4.hashu.ru
 dns4.hotsumer.ru
 dns4.ilutrekl.at
 dns4.impis.ru
@@ -511,7 +507,6 @@ dns4.laukach.ru
 dns4.linuxtcp.ru
 dns4.matsy.ru
 dns4.melioremo.ru
-dns4.mulau.ru
 dns4.mydomainvps.pl
 dns4.mymymomo.ru
 dns4.nftiopg.at
@@ -522,10 +517,8 @@ dns4.onlinetxt.ru
 dns4.pirri.ru
 dns4.purre.ru
 dns4.rioss.ru
-dns4.ronvia.ru
 dns4.s6d.ru
 dns4.sheal.ru
-dns4.wepy.ru
 dns4.whisy.ru
 docknetworking.com
 docknetworks.com
@@ -538,7 +531,6 @@ dollet.ru
 domain-frilans.ru
 donaldtheplwashington.com
 donpannounnasasand.com
-d.piplis.su
 d.pointofauthority.pl
 drags.su
 d.reklodns.su
@@ -549,7 +541,6 @@ dropnigga101.com
 d.rumx.pl
 d.tomgamd.pl
 d.uberhosting.at
-d.vatriokl.at
 dvs.qstatic.net
 d.webcore.at
 d.wwng.su
@@ -862,6 +853,7 @@ la-spazzolino.com
 lastili.com
 lastnight.su
 launchkuiperthe.com
+
 leakimg.su
 led-reart.ru
 ledserki.ru
