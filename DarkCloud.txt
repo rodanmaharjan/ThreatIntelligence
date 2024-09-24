@@ -851,7 +851,6 @@ la-spazzolino.com
 lastili.com
 lastnight.su
 launchkuiperthe.com
-
 leakimg.su
 led-reart.ru
 ledserki.ru
@@ -1019,15 +1018,11 @@ npanlzledawkokmm.com
 npqmxaiy.info
 nqw.scpqvb8f.ru
 ns1.200kmhhost.net
-ns1.aerobi.in
-ns1.alfacoma.ru
 ns1.alibnpow.ru
 ns1.alinbot.ru
 ns1.andreia.ru
 ns1.andrepower.ru
 ns1.arkanzis.ru
-ns1.attikait.ru
-ns1.atw.kz
 ns1.auctionnameserv.ru
 ns1.audiaturs.ru
 ns1.auscultare.ru
@@ -1138,6 +1133,7 @@ ns1.fortservices.ru
 ns1.free-dns-service.biz
 ns1.free-dns-test.ru
 ns1.freednstime.ru
+
 ns1.froikt.ru
 ns1.frozenkukla.ru
 ns1.frtg.su
