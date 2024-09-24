@@ -619,7 +619,6 @@ freshmart.at
 friendlyaccesstoolbar.com
 friltopyes.com
 frineon.su
-
 frisesctro.com
 from-gunergs.ru
 ftonjrob.ru
@@ -726,7 +725,6 @@ homerelecom.ru
 homevisiononline.net
 hotbird.su
 hovqtwutlxnq.com
-hr3d2.whackgalop.at
 htmwarning.net
 httpsj.org
 httpss.biz
@@ -1033,6 +1031,7 @@ ns1.atw.kz
 ns1.auctionnameserv.ru
 ns1.audiaturs.ru
 ns1.auscultare.ru
+
 ns1.axedns.ru
 ns1.axs.su
 ns1.backupsol.ru
