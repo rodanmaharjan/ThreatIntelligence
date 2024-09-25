@@ -1,4 +1,3 @@
-```md
 # 🛡️ Threat Intelligence Repository
 
 ![Python](https://img.shields.io/badge/python-100%25-yellow.svg) ![ThreatIntel](https://img.shields.io/badge/Threat%20Intel-Malicious%20IOC%20Repository-red.svg) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
@@ -90,4 +89,3 @@ Join our community of cybersecurity professionals and threat hunters to help us 
 ---
 
 **Thank you for using the Threat Intelligence Repository! Protect. Detect. Defend.**
-```
