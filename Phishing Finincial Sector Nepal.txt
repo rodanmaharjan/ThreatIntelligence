@@ -1,3 +1,4 @@
+Barobo@fcb.com.ph
 65.182.109.100
 65.182.101.95
 65.182.101.170
@@ -89,7 +90,7 @@
 142.251.143.100
 142.251.143.110
 142.251.143.206
-Barobo@fcb.com.ph
+
 brinkster.com
 www.fcb.com.ph
 ci.fcb.com.ph
