@@ -1,4 +1,5 @@
 Barobo@fcb.com.ph
+
 65.182.109.100
 65.182.101.95
 65.182.101.170
@@ -22,7 +23,7 @@ Barobo@fcb.com.ph
 142.251.143.138
 142.251.143.142
 142.251.143.163
-142.251.143.170
+
 142.251.143.174
 142.251.143.200
 142.251.143.202
@@ -90,7 +91,6 @@ Barobo@fcb.com.ph
 142.251.143.100
 142.251.143.110
 142.251.143.206
-
 brinkster.com
 www.fcb.com.ph
 ci.fcb.com.ph
@@ -106,6 +106,7 @@ bmta1.brinkster.com
 bmta2.brinkster.com
 omta1.brinkster.com
 fcb.com.ph
+
 b8443fb9d725d7e882bec08099c07893
 315b5adf5f659d758f6e117ba15f6149
 a0b73f02a451b0fffab10d6857b8ba60
