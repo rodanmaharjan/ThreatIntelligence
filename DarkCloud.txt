@@ -2150,7 +2150,6 @@ ns4.qwj.at
 ns4.qx8.pl
 ns4.qx9.pl
 ns4.qxq.at
-
 ns4.rednsk.su
 ns4.regioklous.at
 ns4.rekmilk.at
@@ -2160,12 +2159,9 @@ ns4.riofraunh.at
 ns4.riolertg.at
 ns4.riolorter.at
 ns4.rioltreuu.at
-ns4.rioss.ru
 ns4.ritortgolf.at
 ns4.rnster.at
-ns4.rojenfo.su
 ns4.roment.ru
-ns4.ronvia.ru
 ns4.route667.in
 ns4.roznicadns.ru
 ns4.rthujpbjguo.net
@@ -2185,8 +2181,6 @@ ns4.sflon.pl
 ns4.sheal.ru
 ns4.shinerun.ru
 ns4.sjx.su
-ns4.sl8.pl
-ns4.slowdownn.ru
 ns4.smagar.ru
 ns4.someonesns.ru
 ns4.sourcecore.ru
@@ -2199,14 +2193,12 @@ ns4.squaretech.ru
 ns4.stupidospawn.ru
 ns4.suspended-domains-nic.biz
 ns4.svl.kz
-ns4.swins.ru
 ns4.takplus.ru
 ns4.tcpupdown.ru
 ns4.techhandz.ru
 ns4.techost.at
 ns4.tobaladns.ru
 ns4.tomgamd.pl
-ns4.traceinit.ru
 ns4.tragicserver.ru
 ns4.treosyiko.at
 ns4.trioplnam.at
@@ -2216,7 +2208,6 @@ ns4.uberhosting.at
 ns4.uitutnmieyxfk.org
 ns4.uldiok.at
 ns4.uloplayk.at
-ns4.unvera.ru
 ns4.uptime200ns.ru
 ns4.urdupeople.ru
 ns4.valorema.ru
@@ -2225,8 +2216,6 @@ ns4.vatriokl.at
 ns4.vieefreedns.pl
 ns4.vindis.ru
 ns4.vulkan6.in
-ns4.wepy.ru
-ns4.whisy.ru
 ns4.whiterpoll.at
 ns4.wintersales.ru
 ns4.worldfastns.ru
@@ -2238,10 +2227,8 @@ ns4.wxj.at
 ns4.wzq.at
 ns4.xemung.ru
 ns4.xwz.at
-ns4.yamsonmi.ru
 ns4.yatit.ru
 ns4.yurosilo.ru
-ns4.zaj.su
 ns4.zartrusrokl.at
 ns4.zjw.at
 ns4.zorjbneon.at
@@ -2550,6 +2537,7 @@ taiborucheng.com
 tandlawsnative.su
 tapohung.ru
 tarbus-coteh.com
+
 targetcanada.su
 tbaantstate.at
 tbotttxiflgc.com
