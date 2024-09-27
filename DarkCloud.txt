@@ -2682,11 +2682,9 @@ wwwearlyservices.su
 www.htmwarning.net
 www.my-dashboard-airbnb.com
 www.officeexport.org
-
 www.raiffcard-kundenservice.info
 www.raiffeisen-austria-cardservices.org
 www.raiffeisencardservice-update.org
-www.veloinsurances.com
 www.vhsonline.net
 www.whmuniverse.com
 www.wwwearlyservices.su
@@ -2738,7 +2736,6 @@ xlfhhhm.biz
 zlenh.biz
 ww25.anpmnmxo.biz
 ww25.uhxqin.biz
-
 8f8e239e3d9462549a39c4146761fc2c29782f0772c77e78a4673826878a61c3
 5c41653b87a3ccb6ff8337d28ab04aac9fa62838031aa84432bfe247a3611689
 da1a58bbb0aa2b67cc623776607f75aef655eeff8516c4d8f9fe7dc8d9052be0
