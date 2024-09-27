@@ -82,13 +82,11 @@
 66.42.63.27
 80.66.88.14
 91.103.252.209
-80.85.153.100
 95.164.63.54
 149.56.252.31
 38.180.60.31
-46.21.157.142
-afarm.net 
-adventsales.co.uk  
+afarm.net
+adventsales.co.uk
 cdn-uk.widgetsfordeploy.com
 tos.viewdobdrv.com
 cdn.boxmedrbopdrv.com
@@ -252,6 +250,7 @@ asiaprofessionals.net
 axecapital.ro
 beautifullike.com
 blackshine.lk
+
 bligevale.co.zw
 boutiquedhev.com
 corialopolova.com
