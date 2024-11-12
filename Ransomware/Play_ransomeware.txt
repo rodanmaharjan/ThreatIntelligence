@@ -34,3 +34,5 @@ http://newspraize.com
 http://realmacnow.com
 172.67.176.244
 104.21.43.80
+179.60.149.235
+141.98.82.225
