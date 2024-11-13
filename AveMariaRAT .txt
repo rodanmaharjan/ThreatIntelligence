@@ -1621,7 +1621,6 @@ cfr.eur-import.com
 maskcovld.ga
 rat1234.ddns.net
 parosp1.duckdns.org
-parobk1.duckdns.org
 warrsppa.duckdns.org
 round-brush.auto.playit.gg
 defective-experience.auto.playit.gg
@@ -1653,7 +1652,6 @@ softwarehost3.ddns.net
 jerenyankipong.duckdns.org
 subwayblessings2022.ddns.net
 the-moondelight.96.lt
-samav.ddns.net
 samav13.ddns.net
 samav15.ddns.net
 udokakingsley08064153012.duckdns.org
@@ -1816,6 +1814,7 @@ agent47.ddns.net
 akubig1.ath.cx
 alexxaan.duckdns.org
 alliedofficewarz.ddns.net
+
 amaraciiiiiiii.duckdns.org
 amospete26.duckdns.org
 andronmatskiv20.sytes.net
