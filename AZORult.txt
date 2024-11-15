@@ -1173,7 +1173,6 @@ v205579.hosted-by-vdsina.ru
 v205588.hosted-by-vdsina.ru
 v207213.hosted-by-vdsina.ru
 v207249.hosted-by-vdsina.ru
-
 vacompany.co.za
 vc.kunwersachdev.com
 verifycrash.mcdir.ru
@@ -1256,27 +1255,15 @@ iktrit485.duckdns.org
 nesk.zzz.com.ua
 rememberu3.zzz.com.ua
 samp-shop.zzz.com.ua
-bbycxbe.vip
-bbymqto.vip
 bbyrpto.vip
 bbzdyto.vip
 bbzmsbe.vip
-bdbdbbe.vip
 bdbmmbe.vip
-bdrnnto.vip
 bdryyto.vip
-bdsxxbe.vip
-bfbfxbe.vip
-bffbbto.vip
 bfgxxbe.vip
-bfrfrbe.vip
 bfsnnbe.vip
-bgdkkbe.vip
 bggwwbe.vip
-bgsyybe.vip
-bhbttbe.vip
 bhdnnbe.vip
-bhphhbe.vip
 caranunjohnthet.com
 
 a0451296.xsph.ru
@@ -1424,6 +1411,7 @@ zynds.com
 dingobossin.com
 duda1.monster
 jamb2.monster
+
 oversun.monster
 oversun.net
 staging.onyxa.pl
