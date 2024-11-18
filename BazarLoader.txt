@@ -289,7 +289,6 @@
 164.132.76.76
 164.68.107.165
 195.123.241.194
-
 212.22.70.4
 82.146.37.128
 51.89.177.16
@@ -393,7 +392,6 @@ bigjamg.xyz
 dasvdbfgne.xyz
 lmnab.xyz
 z55gc.com
-ikjumnh.xyz
 
 nemtos.com
 ukmedm.com
