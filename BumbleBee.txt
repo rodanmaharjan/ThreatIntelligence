@@ -1084,7 +1084,6 @@
 192.236.198.116
 79.110.52.53
 167.235.245.35
-
 154.56.0.201
 92.204.160.92
 23.227.202.179
@@ -1208,7 +1207,6 @@ cmid1s1zeiu.life
 irs.reviews
 ambronixt.com
 meeronixt.com
-
 http://103.175.16.13/inst5.exe
 http://103.175.16.13/inst1.exe
 http://meeronixt.com/gate/dll/12.dll
