@@ -671,7 +671,6 @@ goodmake.su
 googlesafebrowsing-abuse.com
 googlesafebrowsing-stats.com
 googlist.us
-
 gopertroop.at
 gopstopinger.com
 gotask.at
@@ -700,7 +699,6 @@ hanoiexcusive.com
 happyny15.su
 harm-causer.com
 hatikojapanfin.ru
-havanaprom.com
 havecojthcouldfirstna.com
 hcwwglhcrwtl.com
 head-pcs.com
@@ -929,6 +927,7 @@ membre.desjardins.com-html-acceuil-page-9-desjardins.com
 membre.espace.accesd.com-html5-accesd-page-2-acceuil-desjardins.com
 menhero.ru
 merchant.mercyministries.ca
+
 micerazer.ru
 microade.ru
 microsdb-support.com
