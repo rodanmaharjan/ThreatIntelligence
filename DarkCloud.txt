@@ -1174,7 +1174,6 @@ ns1.laukach.ru
 ns1.leagile.ru
 ns1.lebest.ru
 ns1.leonliklerts.at
-
 ns1.leptona.ru
 ns1.lgome.ru
 ns1.linuxtcp.ru
@@ -1466,6 +1465,7 @@ ns2.jadriport.at
 ns2.jordriol.at
 ns2.jukilrti.at
 ns2.jz9.pl
+
 ns2.kah.kz
 ns2.karakun.ru
 ns2.keepitupdns.ru
