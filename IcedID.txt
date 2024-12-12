@@ -116,7 +116,6 @@ mackenzie.gutkowski@gimt.ac.in
 uturcotte@alaadammaj.com
 FrankLopez@zoho.com
 ScottDoucet@slack.com
-
 80.66.88.71
 45.140.146.156
 45.95.11.134
@@ -398,6 +397,7 @@ ScottDoucet@slack.com
 146.190.28.193
 176.124.32.30
 149.248.77.53
+
 104.129.21.254
 193.37.69.113
 134.209.110.138
