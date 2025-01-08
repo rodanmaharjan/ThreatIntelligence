@@ -1,5 +1,8 @@
 195.22.241.66
 95.155.36.238
+54.231.160.170
+52.217.192.226
+52.217.161.202
 financeplus.me
 farmaciafamiliei.md
 financeplus.me
@@ -8,6 +11,7 @@ chat.financeplus.me
 mail.financeplus.me
 www.financeplus.me
 smlfleconsultationlifesecurecenstdy3pls.duckdns.org
+buskwet.s3.eu-west-1.amazonaws.com
 https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar
 https://seasonmonster.s3.us-east-1.amazonaws.com/email.js
 https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar
