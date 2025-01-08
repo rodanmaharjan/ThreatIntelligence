@@ -18,6 +18,7 @@ https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar
 https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar
 https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar
 http://smlfleconsultationlifesecurecenstdy3pls.duckdns.org/smldoc/regasm.exe
+c1eb3d3d1d58da7f406e5a1c00635242
 1ff07741989c7bb85374c5b836b165e271d0cc1518ec75816adb709f00c2adbb
 7ab9f8fc335e8a1abe4da49c0b99053e824e6cbe9ff35d6f1a86ecd36b9243ad
 44e4201a585021806f04c2f66a761ef7dff6e8e56841dc006bf84a337e601a91
@@ -32,3 +33,4 @@ ed30fc0e4993b154755d319416adf8039f57fbd9c0d17608c87e29e431f00a6f
 05e89c08fdd63c33b887c2ec55f69b29593203c7d403c0026bc2c4cf4baef537
 766a80281ad4af447ddf6a9783f4fccd22c48d8a0358fe05dd93a46d8a4b2996
 5a5fd8ddaeb807aa3a668bc8fbf61a5f7153a0696974b613845574730ac35110
+a866746efefd757a8363bb18901de68272420cfb61141b86bdc3c175f367e346
