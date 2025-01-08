@@ -13,6 +13,7 @@ www.financeplus.me
 smlfleconsultationlifesecurecenstdy3pls.duckdns.org
 buskwet.s3.eu-west-1.amazonaws.com
 seasonmonster.s3.us-east-1.amazonaws.com
+octupusgreat.s3.us-east-1.amazonaws.com
 https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar
 https://seasonmonster.s3.us-east-1.amazonaws.com/email.js
 https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar
@@ -36,3 +37,4 @@ ed30fc0e4993b154755d319416adf8039f57fbd9c0d17608c87e29e431f00a6f
 5a5fd8ddaeb807aa3a668bc8fbf61a5f7153a0696974b613845574730ac35110
 a866746efefd757a8363bb18901de68272420cfb61141b86bdc3c175f367e346
 701435e822a78b82d53281af3ffb20b3732462ec99c6f36afdfc6f8eed4123f9
+e742dec81195181de546e67424458e1ba8bdc84ef2602e3b2b0935f16433b6d5
