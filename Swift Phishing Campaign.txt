@@ -8,6 +8,11 @@ chat.financeplus.me
 mail.financeplus.me
 www.financeplus.me
 smlfleconsultationlifesecurecenstdy3pls.duckdns.org
+https://seasonmonster.s3.us-east-1.amazonaws.com/checker.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/email.js
+https://seasonmonster.s3.us-east-1.amazonaws.com/history.jar
+https://seasonmonster.s3.us-east-1.amazonaws.com/res.jar
+https://seasonmonsyer.s3.us-east-1.amazonaws.com/recovery.jar
 http://smlfleconsultationlifesecurecenstdy3pls.duckdns.org/smldoc/regasm.exe
 1ff07741989c7bb85374c5b836b165e271d0cc1518ec75816adb709f00c2adbb
 7ab9f8fc335e8a1abe4da49c0b99053e824e6cbe9ff35d6f1a86ecd36b9243ad
