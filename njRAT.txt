@@ -20748,3 +20748,11 @@ http://fevereiro2025.duckdns.org
 24.152.38.77
 fevereiro2025.duckdns.org
 http://24.152.38.77:481
+http://24.152.38.77:481
+fevereiro2025.duckdns.org
+http://fevereiro2025.duckdns.org
+24.152.38.77
+http://24.152.38.77:481
+fevereiro2025.duckdns.org
+http://fevereiro2025.duckdns.org
+24.152.38.77
