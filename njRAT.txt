@@ -20740,3 +20740,11 @@ http://65.109.115.25:5552
 65.109.115.25
 
 
+http://fevereiro2025.duckdns.org
+24.152.38.77
+fevereiro2025.duckdns.org
+http://24.152.38.77:481
+http://fevereiro2025.duckdns.org
+24.152.38.77
+fevereiro2025.duckdns.org
+http://24.152.38.77:481
