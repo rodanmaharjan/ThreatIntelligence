@@ -20852,3 +20852,11 @@ http://185.100.157.145:1515
 http://5.182.226.142:41127
 tcp.cloudpub.ru
 http://tcp.cloudpub.ru
+http://147.185.221.25:44311
+front-trader.gl.at.ply.gg
+http://front-trader.gl.at.ply.gg
+147.185.221.25
+http://147.185.221.25:44311
+front-trader.gl.at.ply.gg
+http://front-trader.gl.at.ply.gg
+147.185.221.25
