@@ -24051,7 +24051,6 @@
 45.83.66.36
 64.227.188.168
 185.220.101.53
-
 185.220.101.19
 193.189.100.194
 91.191.209.190
@@ -24198,7 +24197,6 @@
 199.249.230.144
 vpnlab.net
 dnslog.cn
-requestbin.net
 rce.ee
 abrahackbugs.xyz
 interact.sh
@@ -24210,7 +24208,6 @@ x41.me
 sygateway.com
 kryptoslogic-cve-2021-44228.com
 nazi.uy
-leakix.net
 eg0.ru
 vikingo.org
 burpcollaborator.net
@@ -24222,24 +24219,16 @@ awsdns-2.org
 nijat.space
 longwang-sword.com
 medusabotnet.com
-2400:6180:0:d0::10a1:b001
-ldap://182.16.44.234:1389/Exp%7D&amp
 0standavalue0.xyz
 redteam.tf
 log4shell-iocs.md
-ldap://45.12.32.14:1389/a
-ldap://66.71.248.138:1389/Basic/Command/Base64/d2dldCAtcU8gLSA4Mi4xNjUuMTU1LjEwMC9zYWx8cGVybAo
 karakurt.group
-ldap://192.3.194.202:8080/o=tomcat
 nderemo.co.tz
 41.me
 300gsyn.it
 us-nation-ny.cf
 doh.li
-lennut.com
 0brandaeyes0.xyz
-tunnel.com
-
 ditarbags.com
 apacheorg.xyz
 kylintech.in
@@ -24259,7 +24248,6 @@ guiatvpro.com
 apacheorg.top
 log4j-test.xyz
 daftar.site
-webhook.site
 bingsearchlib.com
 ryedge.io
 webs-up.com
