@@ -20949,3 +20949,11 @@ http://147.185.221.26:26948
 http://147.185.221.26:12237
 jewelry-remedy.gl.at.ply.gg
 http://jewelry-remedy.gl.at.ply.gg
+147.45.219.252
+http://147.45.219.252:5552
+http://147.185.221.26:26948
+147.185.221.26
+http://147.185.221.26:12237
+jewelry-remedy.gl.at.ply.gg
+http://jewelry-remedy.gl.at.ply.gg
+http://5.182.226.142:35724
