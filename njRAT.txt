@@ -20988,3 +20988,22 @@ http://instruments-arrives.gl.at.ply.gg
 
 
 
+http://105.100.228.127:2
+myhaani.ddns.net
+http://myhaani.ddns.net
+105.100.228.127
+http://2.49.150.25:5552
+http://3.67.112.102:13420
+http://3.67.161.133:13420
+http://3.67.62.142:13420
+http://139.59.228.234:22728
+quiet-cloud-77052.pktriot.net
+http://quiet-cloud-77052.pktriot.net
+139.59.228.234
+http://3.71.225.231:14673
+http://196.119.118.76:10000
+196.119.118.76
+http://193.161.193.99:43449
+232222222223-43449.portmap.host
+http://232222222223-43449.portmap.host
+193.161.193.99
