@@ -21125,3 +21125,11 @@ http://147.185.221.26:32278
 day-snapshot.gl.at.ply.gg
 http://day-snapshot.gl.at.ply.gg
 147.185.221.26
+http://147.185.221.26:32278
+day-snapshot.gl.at.ply.gg
+http://day-snapshot.gl.at.ply.gg
+147.185.221.26
+http://104.210.41.108:1177
+test.accendent.shop
+http://test.accendent.shop
+104.210.41.108
