@@ -21133,3 +21133,14 @@ http://104.210.41.108:1177
 test.accendent.shop
 http://test.accendent.shop
 104.210.41.108
+day-snapshot.gl.at.ply.gg
+http://147.185.221.26:32278
+147.185.221.26
+http://day-snapshot.gl.at.ply.gg
+http://test.accendent.shop
+104.210.41.108
+http://104.210.41.108:1177
+test.accendent.shop
+http://147.185.221.26:34375
+http://pacific-sponsored.gl.at.ply.gg
+pacific-sponsored.gl.at.ply.gg
