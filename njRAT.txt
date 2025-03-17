@@ -21168,3 +21168,11 @@ http://147.185.221.26:55648
 thursday-bytes.gl.at.ply.gg
 http://thursday-bytes.gl.at.ply.gg
 147.185.221.26
+147.185.221.26
+http://thursday-bytes.gl.at.ply.gg
+thursday-bytes.gl.at.ply.gg
+http://147.185.221.26:55648
+http://46.153.249.193:443
+46.153.249.193
+http://3.64.4.198:17337
+http://3.67.112.102:17337
