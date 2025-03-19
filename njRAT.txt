@@ -21218,3 +21218,7 @@ http://216.218.135.117:8501
 filestlggtwerka.hopto.org
 http://filestlggtwerka.hopto.org
 216.218.135.117
+http://filestlggtwerka.hopto.org
+216.218.135.117
+http://216.218.135.117:8501
+filestlggtwerka.hopto.org
