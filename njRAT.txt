@@ -21257,3 +21257,10 @@ http://147.185.221.27:6772
 http://score-fears.gl.at.ply.gg
 score-fears.gl.at.ply.gg
 http://147.185.221.27:6905
+http://147.185.221.27:6772
+147.185.221.27
+pdf-cape.gl.at.ply.gg
+http://pdf-cape.gl.at.ply.gg
+http://score-fears.gl.at.ply.gg
+score-fears.gl.at.ply.gg
+http://147.185.221.27:6905
