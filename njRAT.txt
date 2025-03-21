@@ -21239,3 +21239,14 @@ http://147.185.221.27:5407
 size-ingredients.gl.at.ply.gg
 http://size-ingredients.gl.at.ply.gg
 147.185.221.27
+amount-burn.gl.at.ply.gg:7771
+http://amount-burn.gl.at.ply.gg:7771
+8bcbcac35d22e37da746bc17c3e293d3a1221682fcc5ecc56ba07259fcff1fec
+http://18.198.77.177:14131
+18.198.77.177
+http://3.121.139.82:14131
+http://3.126.37.18:18848
+http://size-ingredients.gl.at.ply.gg
+147.185.221.27
+http://147.185.221.27:5407
+size-ingredients.gl.at.ply.gg
