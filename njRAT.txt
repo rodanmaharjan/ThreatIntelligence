@@ -21250,3 +21250,10 @@ http://size-ingredients.gl.at.ply.gg
 147.185.221.27
 http://147.185.221.27:5407
 size-ingredients.gl.at.ply.gg
+147.185.221.27
+http://pdf-cape.gl.at.ply.gg
+pdf-cape.gl.at.ply.gg
+http://147.185.221.27:6772
+http://score-fears.gl.at.ply.gg
+score-fears.gl.at.ply.gg
+http://147.185.221.27:6905
