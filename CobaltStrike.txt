@@ -41107,3 +41107,5 @@ http://120.26.122.132:50001
 cdn.ooponoob.xyz
 https://cdn.ooponoob.xyz/api/3
 http://8.134.163.255:2096
+http://154.18.239.196:80
+154.18.239.196
