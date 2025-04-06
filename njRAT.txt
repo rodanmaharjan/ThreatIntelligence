@@ -21530,3 +21530,9 @@ http://211.178.25.134:1493
 
 
 
+http://138.68.79.95:6522
+138.68.79.95
+http://147.185.221.27:17182
+lake-observation.gl.at.ply.gg
+http://lake-observation.gl.at.ply.gg
+147.185.221.27
