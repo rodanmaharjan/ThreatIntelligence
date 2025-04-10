@@ -21582,3 +21582,7 @@ http://81.109.5.62:8848
 http://81.109.5.62:8848
 81.109.5.62
 http://81.109.5.62:8848
+http://192.169.69.26:6666
+hackerguru.duckdns.org
+http://hackerguru.duckdns.org
+192.169.69.26
