@@ -610,3 +610,11 @@ cbf74574278a22f1c38ca922f91548596630fc67bb234834d52557371b9abf5d
 1ab6dce8e20780a1b296d1ce729ce81b
 01a2f0a74176ec9a8637be00fc1ec8e19e217376d9865bc3505ac1792e6110cc
 436dd0245602a0a9d8b346aa1060784fed3a43aca303a2e7986a0d1121114493
+bitbucket.org/shakespeare1
+bitbucket.org/holliwoodip
+bitbucket.org/stoptrackme
+bitbucket.org/browserupdater
+bitbucket.org/cleopatrall
+bitbucket.org/napoleon_bonaparte
+github.com/politoolivia5/
+github.com/BrowserCompanyLLC/
