@@ -1,3 +1,5 @@
+pimec-paknavy.updates-installer.store
+63f5445527c47e17b71e87eef4dd7a86883607a22830bcee5b1fabc5d03bab38
 23.235.163.147
 91.195.240.123
 43.240.239.76
