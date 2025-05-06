@@ -44010,3 +44010,15 @@ wincertfm.store
 https://wincertfm.store/remove
 http://185.255.178.186:443
 185.255.178.186
+http://89.168.58.167:80
+oracle2.linuxupdatetool.online
+https://oracle2.linuxupdatetool.online/jquery-3.3.1.min.js
+oracle1.linuxupdatetool.online
+https://oracle1.linuxupdatetool.online/jquery-3.3.1.min.js
+89.168.58.167
+http://89.168.58.167:80
+oracle2.linuxupdatetool.online
+https://oracle2.linuxupdatetool.online/jquery-3.3.1.min.js
+oracle1.linuxupdatetool.online
+https://oracle1.linuxupdatetool.online/jquery-3.3.1.min.js
+89.168.58.167
