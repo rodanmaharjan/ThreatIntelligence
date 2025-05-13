@@ -1783,3 +1783,7 @@ e0bce049c71bc81afe172cd30be4d2b7
 3d9961991e7ae6ad2bae09c475a1bce8
 a694ccdb82b061c26c35f612d68ed1c2
 f42ba43f7328cbc9ce85b2482809ff1c
+pimec-paknavy.updates-installer.store
+www-cbsl-gov-lk.dwnlld.com
+725ded50e7f517addd12f029aeaf9a23f2b9ce6239b98820c8a12ea5cb79dbfa
+63f5445527c47e17b71e87eef4dd7a86883607a22830bcee5b1fabc5d03bab38
