@@ -22170,3 +22170,11 @@ http://103.253.73.180:9080
 
 
 
+http://147.185.221.28:57330
+industry-decreased.gl.at.ply.gg
+http://industry-decreased.gl.at.ply.gg
+147.185.221.28
+http://147.185.221.28:57330
+industry-decreased.gl.at.ply.gg
+http://industry-decreased.gl.at.ply.gg
+147.185.221.28
