@@ -22186,3 +22186,7 @@ http://147.185.221.28:57330
 industry-decreased.gl.at.ply.gg
 http://industry-decreased.gl.at.ply.gg
 147.185.221.28
+http://105.106.35.186:1177
+linadz07.ddns.net
+http://linadz07.ddns.net
+105.106.35.186
