@@ -2856,3 +2856,7 @@ http://94.158.245.111
 
 
 
+http://94.158.245.131
+http://medthermography.com
+medthermography.com
+94.158.245.131
