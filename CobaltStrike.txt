@@ -38510,3 +38510,11 @@ https://43.159.98.14/socialapiVersion=1.1
 http://47.245.90.197:443
 47.245.90.197
 43.159.98.14
+pensi.me
+https://pensi.me/c/msdownload/update/others/2016/12/29136388_
+http://217.154.212.25:8443
+217.154.212.25
+pensi.me
+https://pensi.me/c/msdownload/update/others/2016/12/29136388_
+http://217.154.212.25:8443
+217.154.212.25
