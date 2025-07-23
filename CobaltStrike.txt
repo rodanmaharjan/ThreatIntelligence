@@ -37389,3 +37389,11 @@ http://47.237.86.35:53
 47.237.86.35
 
 
+sciencemagazine.me
+https://sciencemagazine.me/jquery-3.3.1.min.js
+http://178.128.212.39:443
+178.128.212.39
+sciencemagazine.me
+https://sciencemagazine.me/jquery-3.3.1.min.js
+http://178.128.212.39:443
+178.128.212.39
