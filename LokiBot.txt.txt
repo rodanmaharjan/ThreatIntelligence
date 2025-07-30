@@ -135,3 +135,11 @@
 
 
 
+http://34.41.139.193:80
+reudic.ga
+http://reudic.ga
+34.41.139.193
+http://34.41.139.193:80
+reudic.ga
+http://reudic.ga
+34.41.139.193
