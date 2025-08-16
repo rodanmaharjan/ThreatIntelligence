@@ -38193,3 +38193,9 @@ gitcompay.com
 https://gitcompay.com/api/v1/get
 http://103.12.148.37:443
 103.12.148.37
+https://101.36.125.58/jquery-3.3.1.min.js
+http://101.36.125.58:443
+101.36.125.58
+https://101.36.125.58/jquery-3.3.1.min.js
+http://101.36.125.58:443
+101.36.125.58
