@@ -345,3 +345,15 @@ http://149.56.126.37
 
 
 
+http://18.206.193.214:80
+oct1.xyz
+http://oct1.xyz
+18.206.193.214
+infouploads.com
+http://infouploads.com
+http://18.206.193.214:80
+oct1.xyz
+http://oct1.xyz
+18.206.193.214
+infouploads.com
+http://infouploads.com
